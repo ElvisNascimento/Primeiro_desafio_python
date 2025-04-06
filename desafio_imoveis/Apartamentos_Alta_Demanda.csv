@@ -1,0 +1,840 @@
+,ID_Imovel,Tipo_Imovel,Cidade,Bairro,Area_m2,Num_Quartos,Num_Banheiros,Aluguel_Mensal,Disponivel,Valor_m2,Alta_demanda
+4,IMV-0005,Apartamento,Rio de Janeiro,Zona Sul,198,3,1,3488.91,Não,18.0,Abaixo da média
+5,IMV-0006,Apartamento,São Paulo,Zona Norte,96,4,2,4523.81,Sim,47.0,Acima da média
+8,IMV-0009,Apartamento,Rio de Janeiro,Zona Sul,149,1,1,2011.52,Sim,14.0,Abaixo da média
+11,IMV-0012,Apartamento,São Paulo,Zona Sul,267,4,1,4537.05,Não,17.0,Abaixo da média
+13,IMV-0014,Apartamento,Rio de Janeiro,Zona Leste,192,3,2,2210.76,Não,12.0,Abaixo da média
+16,IMV-0017,Apartamento,São Paulo,Zona Sul,149,4,2,1823.61,Não,12.0,Abaixo da média
+19,IMV-0020,Apartamento,Rio de Janeiro,Zona Leste,209,1,1,3227.1,Não,15.0,Abaixo da média
+20,IMV-0021,Apartamento,Salvador,Zona Oeste,253,4,2,2163.71,Não,9.0,Abaixo da média
+21,IMV-0022,Apartamento,Salvador,Centro,195,1,2,1481.58,Não,8.0,Abaixo da média
+22,IMV-0023,Apartamento,Rio de Janeiro,Zona Leste,47,2,1,2036.44,Sim,43.0,Acima da média
+23,IMV-0024,Apartamento,Salvador,Zona Leste,168,3,1,2003.83,Não,12.0,Abaixo da média
+24,IMV-0025,Apartamento,Rio de Janeiro,Zona Leste,295,2,1,2002.41,Não,7.0,Abaixo da média
+25,IMV-0026,Apartamento,Rio de Janeiro,Zona Oeste,280,2,2,1350.71,Não,5.0,Abaixo da média
+30,IMV-0031,Apartamento,Belo Horizonte,Zona Oeste,67,4,2,3107.15,Não,46.0,Acima da média
+33,IMV-0034,Apartamento,Rio de Janeiro,Zona Sul,217,1,1,2381.08,Não,11.0,Abaixo da média
+34,IMV-0035,Apartamento,Belo Horizonte,Zona Norte,54,2,2,3808.75,Não,71.0,Acima da média
+36,IMV-0037,Apartamento,Rio de Janeiro,Zona Leste,60,4,1,4719.87,Sim,79.0,Acima da média
+39,IMV-0040,Apartamento,Porto Alegre,Zona Leste,209,2,1,2979.03,Sim,14.0,Abaixo da média
+42,IMV-0043,Apartamento,Porto Alegre,Zona Sul,249,1,1,1544.82,Sim,6.0,Abaixo da média
+45,IMV-0046,Apartamento,Belo Horizonte,Zona Oeste,191,3,2,4861.51,Sim,25.0,Acima da média
+47,IMV-0048,Apartamento,Belo Horizonte,Zona Norte,50,3,2,1042.28,Não,21.0,Abaixo da média
+52,IMV-0053,Apartamento,Rio de Janeiro,Centro,72,1,2,1151.53,Sim,16.0,Abaixo da média
+53,IMV-0054,Apartamento,Porto Alegre,Zona Leste,100,2,2,1561.67,Não,16.0,Abaixo da média
+56,IMV-0057,Apartamento,Belo Horizonte,Zona Oeste,133,1,2,553.13,Sim,4.0,Abaixo da média
+58,IMV-0059,Apartamento,Rio de Janeiro,Zona Norte,195,4,2,808.8,Sim,4.0,Abaixo da média
+61,IMV-0062,Apartamento,Rio de Janeiro,Centro,252,4,2,3345.27,Sim,13.0,Abaixo da média
+64,IMV-0065,Apartamento,São Paulo,Zona Norte,135,3,2,731.36,Não,5.0,Abaixo da média
+69,IMV-0070,Apartamento,Rio de Janeiro,Zona Leste,178,1,1,561.53,Não,3.0,Abaixo da média
+72,IMV-0073,Apartamento,Rio de Janeiro,Zona Sul,151,2,2,1305.74,Não,9.0,Abaixo da média
+73,IMV-0074,Apartamento,Rio de Janeiro,Zona Leste,203,2,2,1587.95,Sim,8.0,Abaixo da média
+76,IMV-0077,Apartamento,Belo Horizonte,Centro,102,1,2,820.25,Não,8.0,Abaixo da média
+78,IMV-0079,Apartamento,Rio de Janeiro,Zona Norte,109,3,2,1530.47,Não,14.0,Abaixo da média
+81,IMV-0082,Apartamento,São Paulo,Zona Leste,41,4,1,826.16,Não,20.0,Abaixo da média
+82,IMV-0083,Apartamento,Porto Alegre,Zona Oeste,288,3,1,3750.98,Não,13.0,Abaixo da média
+85,IMV-0086,Apartamento,Porto Alegre,Zona Leste,57,3,2,3159.08,Não,55.0,Acima da média
+90,IMV-0091,Apartamento,Salvador,Zona Oeste,36,4,2,4891.47,Sim,136.0,Acima da média
+92,IMV-0093,Apartamento,Rio de Janeiro,Zona Oeste,90,3,1,3698.55,Não,41.0,Acima da média
+97,IMV-0098,Apartamento,São Paulo,Zona Sul,148,2,1,1122.54,Sim,8.0,Abaixo da média
+99,IMV-0100,Apartamento,Rio de Janeiro,Zona Oeste,285,4,1,3607.48,Sim,13.0,Abaixo da média
+101,IMV-0102,Apartamento,São Paulo,Zona Leste,234,4,1,3052.44,Não,13.0,Abaixo da média
+103,IMV-0104,Apartamento,São Paulo,Zona Oeste,215,2,2,4870.6,Não,23.0,Abaixo da média
+109,IMV-0110,Apartamento,Belo Horizonte,Centro,38,4,1,1146.87,Não,30.0,Acima da média
+111,IMV-0112,Apartamento,Porto Alegre,Centro,147,4,1,3821.9,Não,26.0,Acima da média
+113,IMV-0114,Apartamento,Rio de Janeiro,Centro,134,4,2,2717.24,Sim,20.0,Abaixo da média
+115,IMV-0116,Apartamento,Belo Horizonte,Zona Oeste,239,1,2,1281.17,Sim,5.0,Abaixo da média
+125,IMV-0126,Apartamento,Belo Horizonte,Centro,129,2,2,1756.3,Não,14.0,Abaixo da média
+130,IMV-0131,Apartamento,São Paulo,Zona Leste,132,1,2,3298.49,Sim,25.0,Acima da média
+136,IMV-0137,Apartamento,Porto Alegre,Zona Leste,278,3,2,3658.81,Sim,13.0,Abaixo da média
+139,IMV-0140,Apartamento,Porto Alegre,Zona Oeste,168,2,2,1890.22,Não,11.0,Abaixo da média
+142,IMV-0143,Apartamento,Rio de Janeiro,Zona Oeste,98,2,2,2984.05,Sim,30.0,Acima da média
+143,IMV-0144,Apartamento,Salvador,Centro,288,1,2,2846.8,Sim,10.0,Abaixo da média
+147,IMV-0148,Apartamento,Belo Horizonte,Zona Leste,251,4,1,877.8,Não,3.0,Abaixo da média
+151,IMV-0152,Apartamento,Salvador,Zona Oeste,136,1,2,1540.34,Sim,11.0,Abaixo da média
+152,IMV-0153,Apartamento,Rio de Janeiro,Zona Norte,104,2,2,987.48,Não,9.0,Abaixo da média
+155,IMV-0156,Apartamento,Belo Horizonte,Centro,116,1,1,1480.45,Não,13.0,Abaixo da média
+157,IMV-0158,Apartamento,São Paulo,Zona Leste,153,1,2,3709.46,Sim,24.0,Abaixo da média
+167,IMV-0168,Apartamento,Rio de Janeiro,Centro,148,3,1,3986.71,Sim,27.0,Acima da média
+169,IMV-0170,Apartamento,Salvador,Zona Oeste,269,2,1,2079.88,Não,8.0,Abaixo da média
+171,IMV-0172,Apartamento,São Paulo,Zona Oeste,158,1,1,2176.78,Sim,14.0,Abaixo da média
+173,IMV-0174,Apartamento,São Paulo,Zona Norte,106,3,2,4012.95,Não,38.0,Acima da média
+182,IMV-0183,Apartamento,Belo Horizonte,Zona Oeste,71,4,2,4698.11,Não,66.0,Acima da média
+186,IMV-0187,Apartamento,Porto Alegre,Zona Norte,213,4,1,4468.74,Não,21.0,Abaixo da média
+190,IMV-0191,Apartamento,Porto Alegre,Zona Sul,199,2,1,1794.7,Sim,9.0,Abaixo da média
+191,IMV-0192,Apartamento,Rio de Janeiro,Centro,45,4,2,2952.06,Sim,66.0,Acima da média
+192,IMV-0193,Apartamento,São Paulo,Zona Leste,129,2,2,3787.13,Sim,29.0,Acima da média
+194,IMV-0195,Apartamento,Porto Alegre,Zona Leste,118,3,2,4892.36,Sim,41.0,Acima da média
+198,IMV-0199,Apartamento,Salvador,Zona Sul,175,2,1,4344.3,Não,25.0,Acima da média
+200,IMV-0201,Apartamento,Porto Alegre,Centro,216,2,1,670.72,Sim,3.0,Abaixo da média
+201,IMV-0202,Apartamento,Belo Horizonte,Zona Leste,133,3,2,4834.47,Não,36.0,Acima da média
+205,IMV-0206,Apartamento,Porto Alegre,Zona Sul,285,3,2,4460.44,Sim,16.0,Abaixo da média
+209,IMV-0210,Apartamento,Salvador,Zona Norte,276,2,1,3075.89,Sim,11.0,Abaixo da média
+212,IMV-0213,Apartamento,Porto Alegre,Zona Norte,87,2,1,2182.39,Sim,25.0,Acima da média
+213,IMV-0214,Apartamento,Salvador,Zona Leste,265,2,1,1668.68,Sim,6.0,Abaixo da média
+214,IMV-0215,Apartamento,Salvador,Zona Leste,270,1,2,3003.58,Sim,11.0,Abaixo da média
+215,IMV-0216,Apartamento,São Paulo,Centro,162,2,1,3058.84,Sim,19.0,Abaixo da média
+221,IMV-0222,Apartamento,São Paulo,Zona Norte,249,3,1,876.94,Sim,4.0,Abaixo da média
+225,IMV-0226,Apartamento,Porto Alegre,Centro,89,3,2,2245.07,Não,25.0,Acima da média
+230,IMV-0231,Apartamento,Belo Horizonte,Zona Norte,287,3,2,3376.7,Sim,12.0,Abaixo da média
+234,IMV-0235,Apartamento,Belo Horizonte,Zona Oeste,221,3,2,1525.91,Não,7.0,Abaixo da média
+236,IMV-0237,Apartamento,Porto Alegre,Zona Sul,123,4,2,2589.47,Não,21.0,Abaixo da média
+238,IMV-0239,Apartamento,Belo Horizonte,Zona Oeste,40,1,1,2199.2,Não,55.0,Acima da média
+242,IMV-0243,Apartamento,Porto Alegre,Zona Norte,231,2,1,4471.4,Não,19.0,Abaixo da média
+244,IMV-0245,Apartamento,São Paulo,Zona Sul,42,2,1,858.03,Sim,20.0,Abaixo da média
+246,IMV-0247,Apartamento,Salvador,Zona Sul,242,1,1,860.95,Sim,4.0,Abaixo da média
+248,IMV-0249,Apartamento,Porto Alegre,Zona Sul,43,4,1,4759.86,Não,111.0,Acima da média
+257,IMV-0258,Apartamento,Porto Alegre,Zona Norte,141,1,1,4154.94,Não,29.0,Acima da média
+259,IMV-0260,Apartamento,Salvador,Zona Leste,183,4,1,4649.33,Sim,25.0,Acima da média
+263,IMV-0264,Apartamento,Porto Alegre,Zona Norte,75,4,2,1315.35,Não,18.0,Abaixo da média
+264,IMV-0265,Apartamento,Belo Horizonte,Zona Norte,232,2,2,1010.21,Não,4.0,Abaixo da média
+268,IMV-0269,Apartamento,Rio de Janeiro,Zona Norte,198,3,1,3422.16,Sim,17.0,Abaixo da média
+269,IMV-0270,Apartamento,Rio de Janeiro,Centro,245,2,2,3755.57,Não,15.0,Abaixo da média
+271,IMV-0272,Apartamento,Rio de Janeiro,Zona Norte,137,1,2,3088.64,Sim,23.0,Abaixo da média
+274,IMV-0275,Apartamento,Porto Alegre,Centro,46,4,2,1113.18,Não,24.0,Abaixo da média
+275,IMV-0276,Apartamento,São Paulo,Centro,186,1,2,2705.81,Não,15.0,Abaixo da média
+277,IMV-0278,Apartamento,Belo Horizonte,Zona Sul,280,3,1,786.58,Sim,3.0,Abaixo da média
+286,IMV-0287,Apartamento,Salvador,Zona Leste,224,4,1,3110.89,Não,14.0,Abaixo da média
+294,IMV-0295,Apartamento,Rio de Janeiro,Zona Leste,283,3,1,3383.76,Sim,12.0,Abaixo da média
+295,IMV-0296,Apartamento,Rio de Janeiro,Centro,98,4,2,584.86,Sim,6.0,Abaixo da média
+296,IMV-0297,Apartamento,Belo Horizonte,Zona Sul,229,1,2,2248.6,Não,10.0,Abaixo da média
+298,IMV-0299,Apartamento,Rio de Janeiro,Centro,266,4,1,1162.7,Sim,4.0,Abaixo da média
+300,IMV-0301,Apartamento,Rio de Janeiro,Centro,79,1,1,1776.89,Sim,22.0,Abaixo da média
+309,IMV-0310,Apartamento,Porto Alegre,Zona Leste,257,3,1,567.6,Sim,2.0,Abaixo da média
+310,IMV-0311,Apartamento,Belo Horizonte,Zona Oeste,167,1,1,3755.57,Não,22.0,Abaixo da média
+312,IMV-0313,Apartamento,Porto Alegre,Zona Oeste,50,1,1,1757.46,Não,35.0,Acima da média
+317,IMV-0318,Apartamento,Salvador,Zona Sul,33,2,1,2826.39,Sim,86.0,Acima da média
+319,IMV-0320,Apartamento,Salvador,Zona Oeste,35,1,2,4663.99,Sim,133.0,Acima da média
+320,IMV-0321,Apartamento,Salvador,Centro,218,4,2,2531.43,Não,12.0,Abaixo da média
+322,IMV-0323,Apartamento,Belo Horizonte,Zona Leste,96,4,1,4003.11,Sim,42.0,Acima da média
+326,IMV-0327,Apartamento,Belo Horizonte,Zona Oeste,254,3,1,2976.29,Sim,12.0,Abaixo da média
+327,IMV-0328,Apartamento,Rio de Janeiro,Zona Oeste,108,1,1,1751.46,Sim,16.0,Abaixo da média
+331,IMV-0332,Apartamento,Porto Alegre,Zona Sul,280,3,2,2523.42,Sim,9.0,Abaixo da média
+332,IMV-0333,Apartamento,Salvador,Zona Oeste,231,2,1,3106.0,Sim,13.0,Abaixo da média
+334,IMV-0335,Apartamento,Porto Alegre,Zona Sul,294,2,1,2769.72,Não,9.0,Abaixo da média
+335,IMV-0336,Apartamento,São Paulo,Zona Sul,230,4,1,2906.82,Não,13.0,Abaixo da média
+336,IMV-0337,Apartamento,Porto Alegre,Zona Oeste,189,3,2,645.25,Sim,3.0,Abaixo da média
+341,IMV-0342,Apartamento,Rio de Janeiro,Zona Norte,175,4,2,2853.2,Não,16.0,Abaixo da média
+345,IMV-0346,Apartamento,Belo Horizonte,Zona Oeste,116,3,2,1785.56,Não,15.0,Abaixo da média
+351,IMV-0352,Apartamento,Porto Alegre,Zona Sul,110,1,2,2371.23,Não,22.0,Abaixo da média
+355,IMV-0356,Apartamento,São Paulo,Zona Leste,113,2,2,602.98,Não,5.0,Abaixo da média
+358,IMV-0359,Apartamento,Porto Alegre,Centro,252,1,2,1377.72,Não,5.0,Abaixo da média
+363,IMV-0364,Apartamento,São Paulo,Centro,242,1,1,3598.46,Não,15.0,Abaixo da média
+367,IMV-0368,Apartamento,São Paulo,Zona Sul,202,4,2,1115.29,Sim,6.0,Abaixo da média
+368,IMV-0369,Apartamento,São Paulo,Zona Sul,136,3,1,3700.09,Não,27.0,Acima da média
+370,IMV-0371,Apartamento,Salvador,Zona Oeste,147,2,1,2083.05,Não,14.0,Abaixo da média
+372,IMV-0373,Apartamento,São Paulo,Zona Norte,82,2,1,2427.4,Sim,30.0,Acima da média
+374,IMV-0375,Apartamento,Porto Alegre,Zona Leste,279,3,2,2841.09,Sim,10.0,Abaixo da média
+377,IMV-0378,Apartamento,Rio de Janeiro,Centro,174,1,2,854.36,Não,5.0,Abaixo da média
+379,IMV-0380,Apartamento,Belo Horizonte,Zona Sul,172,1,2,1328.43,Sim,8.0,Abaixo da média
+382,IMV-0383,Apartamento,Rio de Janeiro,Zona Norte,35,2,1,3586.49,Não,102.0,Acima da média
+386,IMV-0387,Apartamento,Rio de Janeiro,Centro,56,3,2,4490.1,Não,80.0,Acima da média
+391,IMV-0392,Apartamento,Porto Alegre,Zona Norte,106,2,2,1850.8,Sim,17.0,Abaixo da média
+395,IMV-0396,Apartamento,Salvador,Centro,61,1,1,1152.14,Não,19.0,Abaixo da média
+396,IMV-0397,Apartamento,São Paulo,Zona Oeste,78,3,2,2184.94,Sim,28.0,Acima da média
+398,IMV-0399,Apartamento,Belo Horizonte,Zona Norte,100,4,2,3070.78,Não,31.0,Acima da média
+400,IMV-0401,Apartamento,Porto Alegre,Zona Norte,172,3,1,4062.18,Sim,24.0,Abaixo da média
+406,IMV-0407,Apartamento,Belo Horizonte,Zona Sul,259,1,1,900.59,Sim,3.0,Abaixo da média
+407,IMV-0408,Apartamento,Belo Horizonte,Zona Oeste,104,3,1,1910.99,Sim,18.0,Abaixo da média
+408,IMV-0409,Apartamento,Belo Horizonte,Centro,88,3,1,2075.48,Não,24.0,Abaixo da média
+413,IMV-0414,Apartamento,Rio de Janeiro,Centro,150,4,2,634.12,Não,4.0,Abaixo da média
+414,IMV-0415,Apartamento,Porto Alegre,Zona Norte,81,1,1,3965.42,Sim,49.0,Acima da média
+415,IMV-0416,Apartamento,Salvador,Zona Oeste,252,3,1,3085.08,Sim,12.0,Abaixo da média
+417,IMV-0418,Apartamento,Rio de Janeiro,Zona Leste,59,3,2,3032.08,Sim,51.0,Acima da média
+418,IMV-0419,Apartamento,Belo Horizonte,Zona Oeste,168,1,2,2027.73,Sim,12.0,Abaixo da média
+430,IMV-0431,Apartamento,Salvador,Zona Leste,254,3,1,2625.19,Não,10.0,Abaixo da média
+434,IMV-0435,Apartamento,Salvador,Zona Norte,115,3,2,671.85,Sim,6.0,Abaixo da média
+436,IMV-0437,Apartamento,Belo Horizonte,Zona Oeste,46,4,2,1908.73,Não,41.0,Acima da média
+440,IMV-0441,Apartamento,Porto Alegre,Zona Leste,89,1,2,4972.67,Não,56.0,Acima da média
+441,IMV-0442,Apartamento,São Paulo,Centro,79,3,1,3982.04,Não,50.0,Acima da média
+443,IMV-0444,Apartamento,Salvador,Zona Norte,48,2,2,1237.4,Sim,26.0,Acima da média
+447,IMV-0448,Apartamento,São Paulo,Zona Oeste,31,4,2,2470.19,Sim,80.0,Acima da média
+456,IMV-0457,Apartamento,São Paulo,Zona Norte,217,4,2,942.1,Sim,4.0,Abaixo da média
+459,IMV-0460,Apartamento,Porto Alegre,Zona Norte,47,4,2,837.57,Sim,18.0,Abaixo da média
+461,IMV-0462,Apartamento,Rio de Janeiro,Centro,31,4,2,4176.73,Sim,135.0,Acima da média
+462,IMV-0463,Apartamento,Rio de Janeiro,Zona Sul,226,2,2,1383.66,Sim,6.0,Abaixo da média
+463,IMV-0464,Apartamento,Salvador,Centro,120,1,1,2037.6,Sim,17.0,Abaixo da média
+465,IMV-0466,Apartamento,Belo Horizonte,Zona Oeste,275,1,1,3591.82,Sim,13.0,Abaixo da média
+468,IMV-0469,Apartamento,São Paulo,Zona Oeste,299,2,2,2794.61,Sim,9.0,Abaixo da média
+473,IMV-0474,Apartamento,Porto Alegre,Zona Sul,167,2,1,3289.12,Sim,20.0,Abaixo da média
+479,IMV-0480,Apartamento,Belo Horizonte,Zona Oeste,239,3,1,4534.28,Não,19.0,Abaixo da média
+486,IMV-0487,Apartamento,Porto Alegre,Zona Sul,104,4,2,4327.2,Sim,42.0,Acima da média
+491,IMV-0492,Apartamento,Salvador,Zona Oeste,190,3,2,3035.19,Sim,16.0,Abaixo da média
+493,IMV-0494,Apartamento,São Paulo,Zona Oeste,230,1,1,4744.32,Sim,21.0,Abaixo da média
+498,IMV-0499,Apartamento,Rio de Janeiro,Zona Sul,173,1,2,1424.73,Não,8.0,Abaixo da média
+502,IMV-0503,Apartamento,Porto Alegre,Zona Oeste,62,1,2,4308.63,Não,69.0,Acima da média
+505,IMV-0506,Apartamento,São Paulo,Zona Oeste,293,4,2,3654.1,Sim,12.0,Abaixo da média
+512,IMV-0513,Apartamento,Rio de Janeiro,Zona Leste,255,2,2,2610.04,Sim,10.0,Abaixo da média
+519,IMV-0520,Apartamento,Belo Horizonte,Zona Sul,122,3,1,4983.77,Não,41.0,Acima da média
+520,IMV-0521,Apartamento,São Paulo,Zona Oeste,167,1,1,3521.01,Não,21.0,Abaixo da média
+527,IMV-0528,Apartamento,Rio de Janeiro,Zona Norte,281,1,1,2896.81,Sim,10.0,Abaixo da média
+528,IMV-0529,Apartamento,Porto Alegre,Zona Oeste,242,4,2,784.35,Sim,3.0,Abaixo da média
+529,IMV-0530,Apartamento,Belo Horizonte,Zona Norte,211,2,1,4925.46,Não,23.0,Abaixo da média
+532,IMV-0533,Apartamento,Salvador,Zona Norte,122,3,2,920.47,Não,8.0,Abaixo da média
+534,IMV-0535,Apartamento,Porto Alegre,Zona Leste,230,1,1,2809.07,Não,12.0,Abaixo da média
+535,IMV-0536,Apartamento,Salvador,Zona Sul,195,4,2,1025.9,Sim,5.0,Abaixo da média
+538,IMV-0539,Apartamento,Belo Horizonte,Zona Oeste,40,1,1,1450.35,Não,36.0,Acima da média
+539,IMV-0540,Apartamento,São Paulo,Zona Leste,86,3,1,2765.57,Sim,32.0,Acima da média
+542,IMV-0543,Apartamento,Salvador,Zona Leste,200,3,2,1975.18,Não,10.0,Abaixo da média
+543,IMV-0544,Apartamento,Rio de Janeiro,Zona Norte,150,1,2,1998.19,Sim,13.0,Abaixo da média
+544,IMV-0545,Apartamento,São Paulo,Zona Sul,236,2,2,3117.88,Sim,13.0,Abaixo da média
+551,IMV-0552,Apartamento,Porto Alegre,Zona Leste,88,3,2,2982.62,Sim,34.0,Acima da média
+552,IMV-0553,Apartamento,Rio de Janeiro,Zona Sul,35,1,2,2272.52,Sim,65.0,Acima da média
+553,IMV-0554,Apartamento,Salvador,Zona Leste,185,4,1,2499.17,Não,14.0,Abaixo da média
+554,IMV-0555,Apartamento,São Paulo,Zona Norte,261,2,1,4680.89,Não,18.0,Abaixo da média
+555,IMV-0556,Apartamento,Rio de Janeiro,Zona Sul,224,3,1,2756.47,Sim,12.0,Abaixo da média
+557,IMV-0558,Apartamento,Rio de Janeiro,Centro,262,1,1,4540.39,Não,17.0,Abaixo da média
+560,IMV-0561,Apartamento,Belo Horizonte,Zona Leste,100,3,2,1582.05,Não,16.0,Abaixo da média
+561,IMV-0562,Apartamento,Belo Horizonte,Zona Norte,214,4,1,3072.01,Não,14.0,Abaixo da média
+564,IMV-0565,Apartamento,Belo Horizonte,Zona Norte,288,4,1,539.78,Não,2.0,Abaixo da média
+565,IMV-0566,Apartamento,São Paulo,Zona Norte,45,3,1,3151.64,Não,70.0,Acima da média
+569,IMV-0570,Apartamento,Belo Horizonte,Zona Sul,64,4,2,4997.68,Sim,78.0,Acima da média
+571,IMV-0572,Apartamento,Belo Horizonte,Zona Oeste,144,3,1,2302.07,Não,16.0,Abaixo da média
+572,IMV-0573,Apartamento,Porto Alegre,Zona Norte,74,3,2,2389.09,Não,32.0,Acima da média
+575,IMV-0576,Apartamento,São Paulo,Zona Leste,110,2,2,2363.21,Não,21.0,Abaixo da média
+576,IMV-0577,Apartamento,Salvador,Zona Oeste,80,1,2,3603.37,Sim,45.0,Acima da média
+577,IMV-0578,Apartamento,São Paulo,Zona Norte,202,3,1,4105.96,Sim,20.0,Abaixo da média
+580,IMV-0581,Apartamento,Belo Horizonte,Zona Norte,192,1,1,1198.08,Não,6.0,Abaixo da média
+581,IMV-0582,Apartamento,Salvador,Zona Oeste,45,3,2,2046.56,Sim,45.0,Acima da média
+590,IMV-0591,Apartamento,Porto Alegre,Zona Leste,275,2,2,3505.57,Sim,13.0,Abaixo da média
+591,IMV-0592,Apartamento,Porto Alegre,Zona Norte,47,2,1,3419.84,Não,73.0,Acima da média
+594,IMV-0595,Apartamento,Salvador,Zona Sul,213,1,2,4783.57,Não,22.0,Abaixo da média
+596,IMV-0597,Apartamento,Rio de Janeiro,Zona Leste,181,2,2,2998.9,Sim,17.0,Abaixo da média
+597,IMV-0598,Apartamento,Belo Horizonte,Zona Sul,104,4,2,4983.11,Não,48.0,Acima da média
+602,IMV-0603,Apartamento,Porto Alegre,Centro,169,3,1,3296.6,Não,20.0,Abaixo da média
+605,IMV-0606,Apartamento,São Paulo,Zona Oeste,285,4,1,1954.11,Sim,7.0,Abaixo da média
+608,IMV-0609,Apartamento,Belo Horizonte,Zona Norte,157,1,1,3800.79,Não,24.0,Abaixo da média
+611,IMV-0612,Apartamento,Porto Alegre,Zona Sul,283,4,1,2929.31,Não,10.0,Abaixo da média
+614,IMV-0615,Apartamento,Belo Horizonte,Centro,240,4,1,558.95,Sim,2.0,Abaixo da média
+615,IMV-0616,Apartamento,São Paulo,Centro,284,3,2,4474.92,Sim,16.0,Abaixo da média
+618,IMV-0619,Apartamento,Rio de Janeiro,Zona Sul,259,4,2,1052.5,Sim,4.0,Abaixo da média
+620,IMV-0621,Apartamento,Salvador,Zona Oeste,83,3,1,3663.11,Sim,44.0,Acima da média
+621,IMV-0622,Apartamento,São Paulo,Zona Norte,205,3,1,2428.87,Sim,12.0,Abaixo da média
+625,IMV-0626,Apartamento,Belo Horizonte,Zona Oeste,170,2,2,4023.66,Sim,24.0,Abaixo da média
+627,IMV-0628,Apartamento,Rio de Janeiro,Zona Leste,193,1,1,2477.58,Não,13.0,Abaixo da média
+628,IMV-0629,Apartamento,São Paulo,Zona Norte,114,4,1,1454.76,Não,13.0,Abaixo da média
+637,IMV-0638,Apartamento,São Paulo,Zona Norte,63,1,2,4996.87,Não,79.0,Acima da média
+640,IMV-0641,Apartamento,Salvador,Zona Leste,121,3,2,1168.56,Sim,10.0,Abaixo da média
+643,IMV-0644,Apartamento,São Paulo,Centro,221,1,1,2162.22,Sim,10.0,Abaixo da média
+645,IMV-0646,Apartamento,Belo Horizonte,Zona Leste,133,2,2,701.53,Sim,5.0,Abaixo da média
+647,IMV-0648,Apartamento,Porto Alegre,Zona Leste,277,2,2,3234.08,Sim,12.0,Abaixo da média
+648,IMV-0649,Apartamento,Salvador,Centro,94,1,2,2870.67,Sim,31.0,Acima da média
+652,IMV-0653,Apartamento,São Paulo,Zona Leste,252,3,2,1994.39,Não,8.0,Abaixo da média
+653,IMV-0654,Apartamento,Porto Alegre,Centro,120,2,1,1335.77,Sim,11.0,Abaixo da média
+656,IMV-0657,Apartamento,São Paulo,Zona Oeste,70,4,1,3728.04,Não,53.0,Acima da média
+660,IMV-0661,Apartamento,Rio de Janeiro,Zona Oeste,33,1,2,3903.28,Não,118.0,Acima da média
+664,IMV-0665,Apartamento,Salvador,Zona Leste,115,3,2,4282.17,Não,37.0,Acima da média
+667,IMV-0668,Apartamento,Porto Alegre,Zona Sul,181,2,2,4638.77,Não,26.0,Acima da média
+668,IMV-0669,Apartamento,Belo Horizonte,Centro,165,2,2,4933.69,Sim,30.0,Acima da média
+671,IMV-0672,Apartamento,Salvador,Zona Norte,228,2,1,669.16,Sim,3.0,Abaixo da média
+672,IMV-0673,Apartamento,São Paulo,Zona Norte,242,2,1,4287.32,Não,18.0,Abaixo da média
+673,IMV-0674,Apartamento,Rio de Janeiro,Zona Leste,156,2,1,1026.44,Sim,7.0,Abaixo da média
+679,IMV-0680,Apartamento,Salvador,Zona Norte,205,3,2,2783.49,Sim,14.0,Abaixo da média
+680,IMV-0681,Apartamento,Porto Alegre,Zona Leste,63,2,2,2705.68,Não,43.0,Acima da média
+681,IMV-0682,Apartamento,Porto Alegre,Centro,78,1,2,662.09,Sim,8.0,Abaixo da média
+684,IMV-0685,Apartamento,Rio de Janeiro,Zona Sul,216,1,1,3035.0,Não,14.0,Abaixo da média
+685,IMV-0686,Apartamento,Rio de Janeiro,Zona Norte,213,2,2,4143.75,Sim,19.0,Abaixo da média
+686,IMV-0687,Apartamento,Belo Horizonte,Zona Norte,62,1,2,4136.99,Não,67.0,Acima da média
+692,IMV-0693,Apartamento,São Paulo,Zona Norte,180,1,1,4849.7,Não,27.0,Acima da média
+693,IMV-0694,Apartamento,São Paulo,Zona Oeste,46,1,2,3848.76,Não,84.0,Acima da média
+694,IMV-0695,Apartamento,Porto Alegre,Zona Oeste,275,4,2,2170.57,Sim,8.0,Abaixo da média
+695,IMV-0696,Apartamento,Salvador,Centro,207,3,2,3769.56,Sim,18.0,Abaixo da média
+696,IMV-0697,Apartamento,Rio de Janeiro,Zona Sul,271,2,2,1672.82,Não,6.0,Abaixo da média
+697,IMV-0698,Apartamento,Belo Horizonte,Centro,281,4,1,2878.21,Não,10.0,Abaixo da média
+703,IMV-0704,Apartamento,Salvador,Centro,233,3,1,2081.17,Não,9.0,Abaixo da média
+708,IMV-0709,Apartamento,Rio de Janeiro,Zona Norte,146,4,1,3793.46,Não,26.0,Acima da média
+720,IMV-0721,Apartamento,Rio de Janeiro,Centro,225,4,1,2834.29,Sim,13.0,Abaixo da média
+721,IMV-0722,Apartamento,Porto Alegre,Zona Leste,33,1,2,4410.0,Sim,134.0,Acima da média
+723,IMV-0724,Apartamento,Salvador,Zona Oeste,32,3,1,4826.35,Não,151.0,Acima da média
+726,IMV-0727,Apartamento,Salvador,Zona Sul,150,1,2,1371.76,Sim,9.0,Abaixo da média
+727,IMV-0728,Apartamento,São Paulo,Zona Oeste,178,2,2,4923.85,Não,28.0,Acima da média
+730,IMV-0731,Apartamento,Porto Alegre,Zona Sul,228,4,1,4342.48,Sim,19.0,Abaixo da média
+734,IMV-0735,Apartamento,Porto Alegre,Centro,203,4,1,3411.64,Não,17.0,Abaixo da média
+735,IMV-0736,Apartamento,Rio de Janeiro,Zona Norte,177,1,2,1811.48,Não,10.0,Abaixo da média
+737,IMV-0738,Apartamento,Salvador,Zona Leste,132,4,2,1171.72,Sim,9.0,Abaixo da média
+747,IMV-0748,Apartamento,Porto Alegre,Zona Oeste,105,4,1,4823.04,Não,46.0,Acima da média
+750,IMV-0751,Apartamento,Salvador,Zona Leste,274,1,2,4715.81,Não,17.0,Abaixo da média
+751,IMV-0752,Apartamento,Salvador,Zona Leste,41,4,1,2195.05,Não,54.0,Acima da média
+753,IMV-0754,Apartamento,Porto Alegre,Zona Norte,50,1,1,4600.53,Não,92.0,Acima da média
+754,IMV-0755,Apartamento,Salvador,Zona Leste,230,1,2,3252.72,Não,14.0,Abaixo da média
+758,IMV-0759,Apartamento,Salvador,Zona Sul,170,2,1,2181.3,Sim,13.0,Abaixo da média
+761,IMV-0762,Apartamento,São Paulo,Zona Sul,196,1,1,3727.24,Não,19.0,Abaixo da média
+763,IMV-0764,Apartamento,São Paulo,Zona Sul,281,4,2,1003.08,Não,4.0,Abaixo da média
+765,IMV-0766,Apartamento,Porto Alegre,Zona Leste,33,4,2,549.58,Sim,17.0,Abaixo da média
+766,IMV-0767,Apartamento,Belo Horizonte,Zona Norte,277,1,1,1044.29,Sim,4.0,Abaixo da média
+768,IMV-0769,Apartamento,São Paulo,Centro,157,1,2,2824.88,Não,18.0,Abaixo da média
+773,IMV-0774,Apartamento,Rio de Janeiro,Zona Norte,208,2,2,1134.58,Não,5.0,Abaixo da média
+774,IMV-0775,Apartamento,Salvador,Zona Oeste,293,1,1,1765.43,Sim,6.0,Abaixo da média
+777,IMV-0778,Apartamento,Porto Alegre,Zona Norte,45,4,1,1066.37,Não,24.0,Abaixo da média
+783,IMV-0784,Apartamento,Salvador,Zona Oeste,31,4,2,4603.14,Não,148.0,Acima da média
+786,IMV-0787,Apartamento,Belo Horizonte,Centro,203,2,2,1415.17,Não,7.0,Abaixo da média
+787,IMV-0788,Apartamento,Belo Horizonte,Zona Leste,57,4,2,4369.05,Não,77.0,Acima da média
+789,IMV-0790,Apartamento,Salvador,Centro,100,2,1,3117.7,Não,31.0,Acima da média
+790,IMV-0791,Apartamento,São Paulo,Zona Norte,250,4,2,3138.7,Sim,13.0,Abaixo da média
+791,IMV-0792,Apartamento,Salvador,Zona Oeste,78,3,2,1862.62,Não,24.0,Abaixo da média
+794,IMV-0795,Apartamento,Salvador,Zona Leste,281,1,1,3272.13,Não,12.0,Abaixo da média
+798,IMV-0799,Apartamento,Belo Horizonte,Zona Norte,223,1,1,973.29,Sim,4.0,Abaixo da média
+800,IMV-0801,Apartamento,São Paulo,Zona Norte,271,4,2,1685.39,Não,6.0,Abaixo da média
+802,IMV-0803,Apartamento,São Paulo,Zona Sul,167,2,2,2460.99,Sim,15.0,Abaixo da média
+804,IMV-0805,Apartamento,Rio de Janeiro,Zona Sul,40,3,2,3920.76,Sim,98.0,Acima da média
+806,IMV-0807,Apartamento,Belo Horizonte,Centro,299,1,1,1852.54,Sim,6.0,Abaixo da média
+810,IMV-0811,Apartamento,São Paulo,Centro,189,2,2,2115.95,Sim,11.0,Abaixo da média
+812,IMV-0813,Apartamento,Belo Horizonte,Zona Oeste,32,1,2,4167.84,Não,130.0,Acima da média
+814,IMV-0815,Apartamento,Belo Horizonte,Zona Oeste,85,4,2,4700.18,Não,55.0,Acima da média
+815,IMV-0816,Apartamento,São Paulo,Zona Norte,146,2,2,4038.71,Sim,28.0,Acima da média
+818,IMV-0819,Apartamento,São Paulo,Centro,162,3,2,3787.26,Sim,23.0,Abaixo da média
+820,IMV-0821,Apartamento,São Paulo,Zona Norte,192,3,2,3933.12,Sim,20.0,Abaixo da média
+824,IMV-0825,Apartamento,Salvador,Centro,281,4,2,546.96,Sim,2.0,Abaixo da média
+825,IMV-0826,Apartamento,São Paulo,Zona Leste,31,3,1,3352.43,Sim,108.0,Acima da média
+826,IMV-0827,Apartamento,Belo Horizonte,Centro,125,4,1,4495.64,Sim,36.0,Acima da média
+828,IMV-0829,Apartamento,Salvador,Zona Oeste,89,4,1,1498.29,Sim,17.0,Abaixo da média
+829,IMV-0830,Apartamento,Belo Horizonte,Zona Oeste,290,3,2,2561.17,Não,9.0,Abaixo da média
+834,IMV-0835,Apartamento,Belo Horizonte,Zona Leste,82,1,1,3797.1,Não,46.0,Acima da média
+836,IMV-0837,Apartamento,Salvador,Zona Norte,76,3,2,1775.49,Não,23.0,Abaixo da média
+837,IMV-0838,Apartamento,Salvador,Zona Leste,251,1,1,3468.41,Não,14.0,Abaixo da média
+838,IMV-0839,Apartamento,São Paulo,Zona Norte,169,3,2,4437.97,Sim,26.0,Acima da média
+839,IMV-0840,Apartamento,Porto Alegre,Zona Leste,102,1,2,3325.24,Sim,33.0,Acima da média
+840,IMV-0841,Apartamento,Salvador,Zona Sul,97,3,1,4653.71,Sim,48.0,Acima da média
+841,IMV-0842,Apartamento,Salvador,Zona Oeste,95,2,1,3372.16,Não,35.0,Acima da média
+846,IMV-0847,Apartamento,Belo Horizonte,Zona Leste,212,3,2,4621.14,Não,22.0,Abaixo da média
+848,IMV-0849,Apartamento,Porto Alegre,Zona Leste,168,1,2,652.21,Sim,4.0,Abaixo da média
+849,IMV-0850,Apartamento,Porto Alegre,Zona Norte,212,2,1,864.65,Não,4.0,Abaixo da média
+852,IMV-0853,Apartamento,Salvador,Zona Norte,86,4,2,2375.59,Não,28.0,Acima da média
+855,IMV-0856,Apartamento,Rio de Janeiro,Zona Leste,157,1,2,2709.22,Sim,17.0,Abaixo da média
+858,IMV-0859,Apartamento,Porto Alegre,Centro,255,3,2,3733.61,Não,15.0,Abaixo da média
+861,IMV-0862,Apartamento,Belo Horizonte,Zona Norte,258,1,1,2626.68,Não,10.0,Abaixo da média
+869,IMV-0870,Apartamento,Porto Alegre,Zona Leste,63,1,2,4835.81,Sim,77.0,Acima da média
+871,IMV-0872,Apartamento,Rio de Janeiro,Zona Oeste,256,4,2,1049.25,Sim,4.0,Abaixo da média
+872,IMV-0873,Apartamento,São Paulo,Zona Norte,295,1,2,1970.81,Sim,7.0,Abaixo da média
+876,IMV-0877,Apartamento,São Paulo,Zona Leste,241,2,1,2560.16,Sim,11.0,Abaixo da média
+877,IMV-0878,Apartamento,Salvador,Centro,181,3,1,3698.97,Não,20.0,Abaixo da média
+890,IMV-0891,Apartamento,Belo Horizonte,Zona Oeste,189,1,2,3632.49,Não,19.0,Abaixo da média
+891,IMV-0892,Apartamento,São Paulo,Zona Sul,63,2,1,1326.19,Não,21.0,Abaixo da média
+897,IMV-0898,Apartamento,Belo Horizonte,Centro,176,2,2,2020.35,Não,11.0,Abaixo da média
+898,IMV-0899,Apartamento,São Paulo,Zona Sul,163,3,1,3205.31,Sim,20.0,Abaixo da média
+899,IMV-0900,Apartamento,São Paulo,Zona Sul,278,1,2,1957.6,Não,7.0,Abaixo da média
+900,IMV-0901,Apartamento,Rio de Janeiro,Zona Sul,270,3,2,4165.07,Sim,15.0,Abaixo da média
+901,IMV-0902,Apartamento,Rio de Janeiro,Zona Oeste,34,4,2,2788.61,Sim,82.0,Acima da média
+904,IMV-0905,Apartamento,Porto Alegre,Zona Oeste,223,3,1,2412.99,Sim,11.0,Abaixo da média
+906,IMV-0907,Apartamento,Rio de Janeiro,Zona Sul,75,1,1,3518.03,Sim,47.0,Acima da média
+916,IMV-0917,Apartamento,Rio de Janeiro,Zona Sul,189,3,1,3522.19,Não,19.0,Abaixo da média
+918,IMV-0919,Apartamento,Belo Horizonte,Zona Norte,198,3,1,1015.51,Sim,5.0,Abaixo da média
+919,IMV-0920,Apartamento,Porto Alegre,Zona Sul,103,2,1,2851.81,Não,28.0,Acima da média
+921,IMV-0922,Apartamento,Belo Horizonte,Zona Leste,217,4,1,4982.19,Sim,23.0,Abaixo da média
+922,IMV-0923,Apartamento,Belo Horizonte,Zona Leste,123,4,1,3037.87,Sim,25.0,Acima da média
+925,IMV-0926,Apartamento,São Paulo,Zona Norte,262,1,1,2910.74,Sim,11.0,Abaixo da média
+926,IMV-0927,Apartamento,Belo Horizonte,Zona Oeste,211,1,2,4491.59,Sim,21.0,Abaixo da média
+928,IMV-0929,Apartamento,São Paulo,Centro,242,4,1,1419.7,Sim,6.0,Abaixo da média
+930,IMV-0931,Apartamento,Porto Alegre,Zona Sul,173,4,2,521.67,Não,3.0,Abaixo da média
+938,IMV-0939,Apartamento,Porto Alegre,Zona Sul,77,2,2,4550.44,Sim,59.0,Acima da média
+941,IMV-0942,Apartamento,Salvador,Zona Norte,131,2,2,4475.37,Sim,34.0,Acima da média
+942,IMV-0943,Apartamento,Porto Alegre,Zona Leste,92,3,2,1762.2,Sim,19.0,Abaixo da média
+943,IMV-0944,Apartamento,Belo Horizonte,Centro,139,3,1,4396.23,Não,32.0,Acima da média
+944,IMV-0945,Apartamento,Belo Horizonte,Zona Leste,135,4,2,720.54,Sim,5.0,Abaixo da média
+950,IMV-0951,Apartamento,São Paulo,Zona Norte,208,4,2,3591.76,Não,17.0,Abaixo da média
+955,IMV-0956,Apartamento,Belo Horizonte,Zona Leste,186,1,2,3034.17,Não,16.0,Abaixo da média
+959,IMV-0960,Apartamento,São Paulo,Centro,44,1,2,2770.96,Sim,63.0,Acima da média
+960,IMV-0961,Apartamento,Porto Alegre,Zona Norte,205,2,1,4931.32,Sim,24.0,Abaixo da média
+961,IMV-0962,Apartamento,Porto Alegre,Zona Oeste,193,4,1,1628.21,Sim,8.0,Abaixo da média
+962,IMV-0963,Apartamento,São Paulo,Centro,125,4,1,3952.26,Não,32.0,Acima da média
+963,IMV-0964,Apartamento,Belo Horizonte,Zona Sul,115,4,1,2992.43,Não,26.0,Acima da média
+964,IMV-0965,Apartamento,Belo Horizonte,Zona Oeste,33,4,1,2374.86,Sim,72.0,Acima da média
+968,IMV-0969,Apartamento,Salvador,Zona Sul,194,3,2,1030.81,Não,5.0,Abaixo da média
+970,IMV-0971,Apartamento,Salvador,Zona Norte,35,3,1,4838.28,Sim,138.0,Acima da média
+972,IMV-0973,Apartamento,São Paulo,Zona Sul,178,1,2,2567.48,Sim,14.0,Abaixo da média
+975,IMV-0976,Apartamento,Belo Horizonte,Centro,35,1,2,4213.22,Sim,120.0,Acima da média
+978,IMV-0979,Apartamento,Porto Alegre,Zona Leste,144,4,2,1932.77,Não,13.0,Abaixo da média
+980,IMV-0981,Apartamento,Porto Alegre,Zona Sul,62,3,2,4774.1,Não,77.0,Acima da média
+986,IMV-0987,Apartamento,Porto Alegre,Zona Norte,106,2,2,2184.81,Não,21.0,Abaixo da média
+990,IMV-0991,Apartamento,Salvador,Zona Norte,195,1,1,2869.77,Sim,15.0,Abaixo da média
+991,IMV-0992,Apartamento,Belo Horizonte,Zona Oeste,246,1,2,1865.93,Não,8.0,Abaixo da média
+992,IMV-0993,Apartamento,Rio de Janeiro,Zona Norte,176,1,1,1314.42,Não,7.0,Abaixo da média
+993,IMV-0994,Apartamento,Salvador,Zona Norte,193,3,2,1076.23,Não,6.0,Abaixo da média
+996,IMV-0997,Apartamento,Porto Alegre,Centro,101,4,2,3740.53,Não,37.0,Acima da média
+999,IMV-1000,Apartamento,Rio de Janeiro,Zona Norte,131,3,1,1929.91,Sim,15.0,Abaixo da média
+1001,IMV-1002,Apartamento,Rio de Janeiro,Zona Norte,144,2,1,3833.85,Não,27.0,Acima da média
+1004,IMV-1005,Apartamento,Belo Horizonte,Zona Oeste,79,1,1,1947.51,Não,25.0,Acima da média
+1005,IMV-1006,Apartamento,Rio de Janeiro,Zona Oeste,80,4,2,3013.17,Não,38.0,Acima da média
+1006,IMV-1007,Apartamento,Salvador,Zona Oeste,150,4,2,1049.64,Não,7.0,Abaixo da média
+1010,IMV-1011,Apartamento,Rio de Janeiro,Zona Leste,184,3,2,1939.84,Sim,11.0,Abaixo da média
+1011,IMV-1012,Apartamento,São Paulo,Zona Norte,214,1,1,2421.02,Não,11.0,Abaixo da média
+1015,IMV-1016,Apartamento,Belo Horizonte,Zona Norte,73,4,1,1415.1,Não,19.0,Abaixo da média
+1016,IMV-1017,Apartamento,Porto Alegre,Centro,50,3,2,2922.21,Sim,58.0,Acima da média
+1017,IMV-1018,Apartamento,Porto Alegre,Zona Leste,260,3,1,3667.36,Sim,14.0,Abaixo da média
+1021,IMV-1022,Apartamento,Rio de Janeiro,Zona Sul,56,3,2,1769.58,Não,32.0,Acima da média
+1022,IMV-1023,Apartamento,Porto Alegre,Centro,254,3,1,4604.36,Não,18.0,Abaixo da média
+1025,IMV-1026,Apartamento,Porto Alegre,Zona Oeste,297,3,2,3899.96,Sim,13.0,Abaixo da média
+1028,IMV-1029,Apartamento,São Paulo,Zona Sul,260,3,2,2479.36,Não,10.0,Abaixo da média
+1033,IMV-1034,Apartamento,Salvador,Zona Leste,233,2,2,3426.54,Sim,15.0,Abaixo da média
+1034,IMV-1035,Apartamento,Salvador,Zona Sul,216,4,1,1450.09,Não,7.0,Abaixo da média
+1035,IMV-1036,Apartamento,São Paulo,Zona Sul,179,2,2,4749.75,Sim,27.0,Acima da média
+1036,IMV-1037,Apartamento,Rio de Janeiro,Zona Oeste,210,2,1,3533.36,Não,17.0,Abaixo da média
+1037,IMV-1038,Apartamento,Rio de Janeiro,Centro,240,2,2,3349.71,Não,14.0,Abaixo da média
+1048,IMV-1049,Apartamento,Belo Horizonte,Zona Norte,176,3,2,3376.83,Não,19.0,Abaixo da média
+1049,IMV-1050,Apartamento,São Paulo,Zona Oeste,102,3,2,1361.15,Não,13.0,Abaixo da média
+1050,IMV-1051,Apartamento,Belo Horizonte,Zona Sul,237,2,2,3381.82,Não,14.0,Abaixo da média
+1061,IMV-1062,Apartamento,Rio de Janeiro,Zona Leste,187,1,1,4047.87,Não,22.0,Abaixo da média
+1063,IMV-1064,Apartamento,Porto Alegre,Zona Norte,167,1,1,4211.74,Não,25.0,Acima da média
+1067,IMV-1068,Apartamento,Belo Horizonte,Centro,161,1,1,2548.49,Sim,16.0,Abaixo da média
+1069,IMV-1070,Apartamento,Porto Alegre,Centro,234,2,1,3451.55,Sim,15.0,Abaixo da média
+1073,IMV-1074,Apartamento,Salvador,Zona Oeste,186,4,1,2694.7,Sim,14.0,Abaixo da média
+1076,IMV-1077,Apartamento,Porto Alegre,Centro,294,1,1,2441.71,Sim,8.0,Abaixo da média
+1080,IMV-1081,Apartamento,Salvador,Zona Norte,279,2,1,509.95,Sim,2.0,Abaixo da média
+1081,IMV-1082,Apartamento,São Paulo,Zona Leste,292,3,2,2260.53,Não,8.0,Abaixo da média
+1082,IMV-1083,Apartamento,São Paulo,Centro,230,2,1,1662.34,Não,7.0,Abaixo da média
+1083,IMV-1084,Apartamento,Porto Alegre,Zona Oeste,201,4,2,3624.95,Sim,18.0,Abaixo da média
+1085,IMV-1086,Apartamento,Porto Alegre,Zona Sul,121,2,2,4068.01,Sim,34.0,Acima da média
+1088,IMV-1089,Apartamento,Porto Alegre,Zona Sul,244,4,2,1714.95,Sim,7.0,Abaixo da média
+1089,IMV-1090,Apartamento,Rio de Janeiro,Zona Norte,202,4,2,1178.12,Sim,6.0,Abaixo da média
+1097,IMV-1098,Apartamento,Porto Alegre,Centro,108,3,1,1500.44,Sim,14.0,Abaixo da média
+1103,IMV-1104,Apartamento,Belo Horizonte,Zona Norte,171,4,1,1920.1,Não,11.0,Abaixo da média
+1104,IMV-1105,Apartamento,São Paulo,Centro,141,1,1,4074.45,Não,29.0,Acima da média
+1106,IMV-1107,Apartamento,Porto Alegre,Zona Oeste,111,2,2,1153.66,Sim,10.0,Abaixo da média
+1107,IMV-1108,Apartamento,Rio de Janeiro,Zona Oeste,191,1,2,4786.08,Não,25.0,Acima da média
+1108,IMV-1109,Apartamento,Porto Alegre,Zona Sul,183,1,1,2441.34,Sim,13.0,Abaixo da média
+1110,IMV-1111,Apartamento,Belo Horizonte,Zona Sul,60,2,2,3204.46,Não,53.0,Acima da média
+1113,IMV-1114,Apartamento,Rio de Janeiro,Zona Sul,233,3,1,703.23,Não,3.0,Abaixo da média
+1119,IMV-1120,Apartamento,Salvador,Zona Norte,266,4,2,662.54,Sim,2.0,Abaixo da média
+1121,IMV-1122,Apartamento,Porto Alegre,Zona Oeste,167,2,2,3059.77,Sim,18.0,Abaixo da média
+1125,IMV-1126,Apartamento,Salvador,Centro,110,1,1,779.99,Sim,7.0,Abaixo da média
+1129,IMV-1130,Apartamento,São Paulo,Zona Norte,46,2,2,4377.39,Não,95.0,Acima da média
+1131,IMV-1132,Apartamento,Rio de Janeiro,Zona Sul,56,2,2,1299.23,Sim,23.0,Abaixo da média
+1133,IMV-1134,Apartamento,Belo Horizonte,Zona Norte,199,3,2,3492.76,Não,18.0,Abaixo da média
+1136,IMV-1137,Apartamento,Porto Alegre,Zona Leste,261,4,1,2999.57,Sim,11.0,Abaixo da média
+1137,IMV-1138,Apartamento,Rio de Janeiro,Centro,148,1,2,4199.75,Sim,28.0,Acima da média
+1138,IMV-1139,Apartamento,Porto Alegre,Zona Leste,105,1,2,2055.36,Sim,20.0,Abaixo da média
+1141,IMV-1142,Apartamento,São Paulo,Zona Leste,145,3,1,3946.76,Sim,27.0,Acima da média
+1146,IMV-1147,Apartamento,São Paulo,Zona Leste,287,2,2,740.19,Não,3.0,Abaixo da média
+1150,IMV-1151,Apartamento,São Paulo,Centro,42,2,1,3435.42,Não,82.0,Acima da média
+1152,IMV-1153,Apartamento,Porto Alegre,Centro,89,1,1,2909.64,Sim,33.0,Acima da média
+1154,IMV-1155,Apartamento,Rio de Janeiro,Zona Oeste,240,1,2,1286.92,Não,5.0,Abaixo da média
+1156,IMV-1157,Apartamento,Belo Horizonte,Zona Norte,280,2,2,2413.86,Não,9.0,Abaixo da média
+1158,IMV-1159,Apartamento,São Paulo,Zona Leste,235,4,2,4513.49,Sim,19.0,Abaixo da média
+1159,IMV-1160,Apartamento,Belo Horizonte,Centro,101,3,1,4096.61,Sim,41.0,Acima da média
+1167,IMV-1168,Apartamento,São Paulo,Zona Norte,269,4,1,1723.33,Sim,6.0,Abaixo da média
+1169,IMV-1170,Apartamento,Belo Horizonte,Centro,158,2,2,2313.43,Sim,15.0,Abaixo da média
+1170,IMV-1171,Apartamento,Porto Alegre,Zona Sul,154,4,2,4858.38,Não,32.0,Acima da média
+1177,IMV-1178,Apartamento,Belo Horizonte,Zona Sul,267,1,2,1329.7,Não,5.0,Abaixo da média
+1178,IMV-1179,Apartamento,Belo Horizonte,Zona Oeste,75,1,2,2824.56,Não,38.0,Acima da média
+1179,IMV-1180,Apartamento,Rio de Janeiro,Zona Norte,253,3,1,4669.37,Sim,18.0,Abaixo da média
+1180,IMV-1181,Apartamento,Salvador,Zona Oeste,69,2,1,4801.59,Não,70.0,Acima da média
+1192,IMV-1193,Apartamento,São Paulo,Zona Norte,239,4,2,3345.88,Não,14.0,Abaixo da média
+1193,IMV-1194,Apartamento,Belo Horizonte,Zona Sul,196,3,2,4366.86,Não,22.0,Abaixo da média
+1196,IMV-1197,Apartamento,São Paulo,Zona Leste,59,1,1,3421.93,Sim,58.0,Acima da média
+1201,IMV-1202,Apartamento,Rio de Janeiro,Zona Sul,236,4,1,2282.24,Sim,10.0,Abaixo da média
+1204,IMV-1205,Apartamento,Porto Alegre,Zona Sul,60,2,2,3722.35,Não,62.0,Acima da média
+1209,IMV-1210,Apartamento,Salvador,Zona Sul,214,1,2,2231.7,Não,10.0,Abaixo da média
+1217,IMV-1218,Apartamento,Porto Alegre,Zona Sul,188,2,1,817.04,Sim,4.0,Abaixo da média
+1220,IMV-1221,Apartamento,São Paulo,Zona Oeste,215,4,1,4171.48,Não,19.0,Abaixo da média
+1222,IMV-1223,Apartamento,Rio de Janeiro,Zona Oeste,58,4,2,3148.79,Não,54.0,Acima da média
+1225,IMV-1226,Apartamento,Rio de Janeiro,Zona Leste,241,2,2,1135.18,Não,5.0,Abaixo da média
+1227,IMV-1228,Apartamento,Belo Horizonte,Zona Oeste,278,4,1,1822.63,Sim,7.0,Abaixo da média
+1229,IMV-1230,Apartamento,Rio de Janeiro,Zona Sul,98,1,1,2186.45,Sim,22.0,Abaixo da média
+1230,IMV-1231,Apartamento,Belo Horizonte,Zona Sul,295,2,2,1799.18,Não,6.0,Abaixo da média
+1235,IMV-1236,Apartamento,São Paulo,Zona Norte,201,3,1,4360.24,Não,22.0,Abaixo da média
+1238,IMV-1239,Apartamento,São Paulo,Zona Norte,298,4,1,847.59,Sim,3.0,Abaixo da média
+1239,IMV-1240,Apartamento,Salvador,Zona Leste,38,2,1,838.62,Sim,22.0,Abaixo da média
+1240,IMV-1241,Apartamento,Rio de Janeiro,Zona Leste,242,1,2,1836.8,Não,8.0,Abaixo da média
+1248,IMV-1249,Apartamento,Belo Horizonte,Zona Norte,224,2,2,4775.95,Sim,21.0,Abaixo da média
+1261,IMV-1262,Apartamento,Salvador,Zona Norte,205,4,1,806.84,Não,4.0,Abaixo da média
+1263,IMV-1264,Apartamento,Rio de Janeiro,Zona Oeste,174,3,1,2363.58,Sim,14.0,Abaixo da média
+1266,IMV-1267,Apartamento,Rio de Janeiro,Zona Leste,151,1,1,3470.91,Não,23.0,Abaixo da média
+1270,IMV-1271,Apartamento,Salvador,Centro,203,1,2,2483.9,Não,12.0,Abaixo da média
+1273,IMV-1274,Apartamento,Porto Alegre,Zona Leste,233,3,2,912.04,Sim,4.0,Abaixo da média
+1288,IMV-1289,Apartamento,Porto Alegre,Zona Leste,226,2,2,3237.31,Não,14.0,Abaixo da média
+1292,IMV-1293,Apartamento,Rio de Janeiro,Zona Sul,254,1,1,1682.17,Sim,7.0,Abaixo da média
+1294,IMV-1295,Apartamento,São Paulo,Zona Oeste,114,2,2,1005.02,Sim,9.0,Abaixo da média
+1300,IMV-1301,Apartamento,São Paulo,Zona Oeste,38,2,1,2092.7,Sim,55.0,Acima da média
+1301,IMV-1302,Apartamento,Porto Alegre,Zona Sul,218,3,1,1241.23,Sim,6.0,Abaixo da média
+1303,IMV-1304,Apartamento,São Paulo,Zona Norte,204,2,1,3024.96,Sim,15.0,Abaixo da média
+1305,IMV-1306,Apartamento,Rio de Janeiro,Zona Oeste,295,2,2,978.22,Sim,3.0,Abaixo da média
+1308,IMV-1309,Apartamento,Salvador,Centro,255,3,2,832.59,Não,3.0,Abaixo da média
+1309,IMV-1310,Apartamento,São Paulo,Zona Oeste,111,3,2,3246.93,Sim,29.0,Acima da média
+1313,IMV-1314,Apartamento,Rio de Janeiro,Zona Leste,57,1,1,2649.77,Sim,46.0,Acima da média
+1318,IMV-1319,Apartamento,Salvador,Centro,79,1,2,3906.89,Não,49.0,Acima da média
+1320,IMV-1321,Apartamento,Salvador,Zona Leste,125,1,1,2253.46,Não,18.0,Abaixo da média
+1323,IMV-1324,Apartamento,Rio de Janeiro,Zona Oeste,205,1,1,4162.09,Sim,20.0,Abaixo da média
+1326,IMV-1327,Apartamento,Salvador,Zona Sul,247,3,2,4460.85,Sim,18.0,Abaixo da média
+1333,IMV-1334,Apartamento,Salvador,Zona Norte,147,3,1,1539.22,Não,10.0,Abaixo da média
+1334,IMV-1335,Apartamento,Rio de Janeiro,Zona Oeste,246,1,2,3906.31,Não,16.0,Abaixo da média
+1335,IMV-1336,Apartamento,Salvador,Zona Oeste,265,3,2,3502.13,Não,13.0,Abaixo da média
+1338,IMV-1339,Apartamento,Belo Horizonte,Zona Leste,38,4,2,759.15,Sim,20.0,Abaixo da média
+1339,IMV-1340,Apartamento,Rio de Janeiro,Zona Leste,120,3,1,4635.45,Não,39.0,Acima da média
+1340,IMV-1341,Apartamento,Rio de Janeiro,Zona Sul,109,4,2,1150.75,Sim,11.0,Abaixo da média
+1341,IMV-1342,Apartamento,Porto Alegre,Zona Oeste,296,2,2,526.62,Sim,2.0,Abaixo da média
+1346,IMV-1347,Apartamento,Belo Horizonte,Centro,182,2,1,2488.37,Não,14.0,Abaixo da média
+1347,IMV-1348,Apartamento,Belo Horizonte,Zona Oeste,153,4,1,3771.76,Não,25.0,Acima da média
+1350,IMV-1351,Apartamento,Porto Alegre,Zona Leste,58,2,1,1036.8,Sim,18.0,Abaixo da média
+1351,IMV-1352,Apartamento,Salvador,Centro,239,3,2,1379.94,Não,6.0,Abaixo da média
+1352,IMV-1353,Apartamento,Rio de Janeiro,Zona Norte,293,4,2,1574.46,Sim,5.0,Abaixo da média
+1355,IMV-1356,Apartamento,São Paulo,Zona Norte,270,3,1,1166.78,Sim,4.0,Abaixo da média
+1356,IMV-1357,Apartamento,Rio de Janeiro,Zona Leste,200,2,2,1482.72,Sim,7.0,Abaixo da média
+1359,IMV-1360,Apartamento,Salvador,Zona Oeste,190,4,1,4635.66,Sim,24.0,Abaixo da média
+1362,IMV-1363,Apartamento,Porto Alegre,Zona Norte,191,2,2,4934.18,Sim,26.0,Acima da média
+1364,IMV-1365,Apartamento,Rio de Janeiro,Zona Sul,80,1,2,1060.95,Sim,13.0,Abaixo da média
+1366,IMV-1367,Apartamento,Belo Horizonte,Zona Norte,63,4,1,4341.53,Sim,69.0,Acima da média
+1368,IMV-1369,Apartamento,Rio de Janeiro,Zona Leste,80,4,2,3840.66,Sim,48.0,Acima da média
+1372,IMV-1373,Apartamento,Salvador,Zona Norte,98,4,2,854.15,Sim,9.0,Abaixo da média
+1373,IMV-1374,Apartamento,Rio de Janeiro,Zona Norte,98,2,1,2750.41,Não,28.0,Acima da média
+1380,IMV-1381,Apartamento,Porto Alegre,Zona Norte,53,1,1,2266.38,Não,43.0,Acima da média
+1382,IMV-1383,Apartamento,Salvador,Centro,273,3,2,2274.73,Não,8.0,Abaixo da média
+1384,IMV-1385,Apartamento,Belo Horizonte,Zona Oeste,192,1,1,4880.72,Sim,25.0,Acima da média
+1387,IMV-1388,Apartamento,São Paulo,Zona Leste,53,4,1,1319.84,Não,25.0,Acima da média
+1393,IMV-1394,Apartamento,Salvador,Centro,88,3,1,743.58,Sim,8.0,Abaixo da média
+1396,IMV-1397,Apartamento,Salvador,Centro,160,1,1,2120.01,Não,13.0,Abaixo da média
+1400,IMV-1401,Apartamento,Belo Horizonte,Zona Sul,54,4,2,4759.78,Não,88.0,Acima da média
+1403,IMV-1404,Apartamento,São Paulo,Zona Sul,32,2,1,3402.47,Sim,106.0,Acima da média
+1408,IMV-1409,Apartamento,Belo Horizonte,Zona Oeste,294,1,2,3068.14,Não,10.0,Abaixo da média
+1409,IMV-1410,Apartamento,Belo Horizonte,Zona Sul,48,2,1,3809.39,Sim,79.0,Acima da média
+1410,IMV-1411,Apartamento,São Paulo,Zona Oeste,219,2,2,2307.4,Não,11.0,Abaixo da média
+1411,IMV-1412,Apartamento,Rio de Janeiro,Zona Norte,137,4,1,738.74,Não,5.0,Abaixo da média
+1416,IMV-1417,Apartamento,São Paulo,Zona Sul,30,1,1,1923.16,Não,64.0,Acima da média
+1418,IMV-1419,Apartamento,Salvador,Centro,153,1,1,1700.91,Sim,11.0,Abaixo da média
+1420,IMV-1421,Apartamento,Salvador,Zona Oeste,176,3,2,2499.8,Não,14.0,Abaixo da média
+1421,IMV-1422,Apartamento,Rio de Janeiro,Zona Leste,102,2,2,2815.51,Não,28.0,Acima da média
+1422,IMV-1423,Apartamento,São Paulo,Zona Sul,152,3,2,2926.84,Sim,19.0,Abaixo da média
+1436,IMV-1437,Apartamento,Porto Alegre,Zona Sul,189,3,2,3688.84,Não,20.0,Abaixo da média
+1444,IMV-1445,Apartamento,Porto Alegre,Zona Norte,205,3,1,3862.95,Sim,19.0,Abaixo da média
+1449,IMV-1450,Apartamento,São Paulo,Zona Oeste,212,4,2,3364.87,Não,16.0,Abaixo da média
+1450,IMV-1451,Apartamento,Belo Horizonte,Zona Leste,47,1,2,1096.94,Não,23.0,Abaixo da média
+1451,IMV-1452,Apartamento,Belo Horizonte,Zona Leste,215,1,1,4756.62,Não,22.0,Abaixo da média
+1454,IMV-1455,Apartamento,Rio de Janeiro,Zona Leste,162,1,2,1899.29,Não,12.0,Abaixo da média
+1456,IMV-1457,Apartamento,Salvador,Centro,162,1,1,3596.26,Sim,22.0,Abaixo da média
+1458,IMV-1459,Apartamento,Salvador,Centro,232,4,2,1357.25,Não,6.0,Abaixo da média
+1462,IMV-1463,Apartamento,Salvador,Zona Oeste,64,1,1,2647.76,Não,41.0,Acima da média
+1464,IMV-1465,Apartamento,Salvador,Zona Sul,239,2,2,2407.39,Não,10.0,Abaixo da média
+1471,IMV-1472,Apartamento,São Paulo,Zona Leste,147,2,2,4710.67,Não,32.0,Acima da média
+1473,IMV-1474,Apartamento,Porto Alegre,Zona Leste,56,1,1,4913.45,Sim,88.0,Acima da média
+1476,IMV-1477,Apartamento,São Paulo,Zona Leste,292,2,2,3358.44,Não,12.0,Abaixo da média
+1477,IMV-1478,Apartamento,São Paulo,Zona Leste,118,3,2,2476.04,Sim,21.0,Abaixo da média
+1478,IMV-1479,Apartamento,São Paulo,Zona Oeste,210,1,2,578.35,Sim,3.0,Abaixo da média
+1483,IMV-1484,Apartamento,Belo Horizonte,Zona Norte,294,2,1,1964.39,Não,7.0,Abaixo da média
+1484,IMV-1485,Apartamento,Porto Alegre,Centro,125,1,2,1787.45,Não,14.0,Abaixo da média
+1486,IMV-1487,Apartamento,São Paulo,Zona Sul,108,3,2,2962.79,Não,27.0,Acima da média
+1488,IMV-1489,Apartamento,Salvador,Zona Leste,85,2,2,1208.86,Sim,14.0,Abaixo da média
+1489,IMV-1490,Apartamento,São Paulo,Zona Leste,98,2,1,3681.84,Sim,38.0,Acima da média
+1493,IMV-1494,Apartamento,São Paulo,Zona Oeste,266,1,1,4933.2,Não,19.0,Abaixo da média
+1501,IMV-1502,Apartamento,Salvador,Zona Sul,142,2,2,3803.46,Sim,27.0,Acima da média
+1503,IMV-1504,Apartamento,Salvador,Zona Oeste,85,1,1,2356.23,Não,28.0,Acima da média
+1511,IMV-1512,Apartamento,Porto Alegre,Zona Norte,256,4,1,2155.85,Sim,8.0,Abaixo da média
+1513,IMV-1514,Apartamento,Belo Horizonte,Zona Norte,183,3,2,2369.03,Não,13.0,Abaixo da média
+1517,IMV-1518,Apartamento,Salvador,Zona Norte,272,3,1,3991.79,Sim,15.0,Abaixo da média
+1518,IMV-1519,Apartamento,Rio de Janeiro,Zona Norte,136,3,2,3932.56,Não,29.0,Acima da média
+1519,IMV-1520,Apartamento,Rio de Janeiro,Zona Norte,254,4,1,623.56,Sim,2.0,Abaixo da média
+1520,IMV-1521,Apartamento,Belo Horizonte,Zona Norte,284,1,2,3363.39,Sim,12.0,Abaixo da média
+1523,IMV-1524,Apartamento,Salvador,Zona Norte,50,1,2,1063.43,Não,21.0,Abaixo da média
+1525,IMV-1526,Apartamento,Rio de Janeiro,Zona Oeste,55,3,2,4287.21,Não,78.0,Acima da média
+1527,IMV-1528,Apartamento,Porto Alegre,Zona Oeste,268,1,1,2314.84,Sim,9.0,Abaixo da média
+1532,IMV-1533,Apartamento,Salvador,Zona Leste,96,4,2,907.22,Sim,9.0,Abaixo da média
+1534,IMV-1535,Apartamento,Porto Alegre,Centro,32,3,2,1578.72,Sim,49.0,Acima da média
+1538,IMV-1539,Apartamento,Rio de Janeiro,Zona Sul,150,2,1,2784.57,Sim,19.0,Abaixo da média
+1542,IMV-1543,Apartamento,Salvador,Zona Leste,82,4,2,1139.98,Sim,14.0,Abaixo da média
+1550,IMV-1551,Apartamento,Rio de Janeiro,Zona Oeste,151,2,2,2168.94,Não,14.0,Abaixo da média
+1551,IMV-1552,Apartamento,Rio de Janeiro,Zona Sul,288,4,2,2999.68,Não,10.0,Abaixo da média
+1560,IMV-1561,Apartamento,Belo Horizonte,Zona Sul,83,3,1,781.31,Não,9.0,Abaixo da média
+1561,IMV-1562,Apartamento,São Paulo,Zona Sul,186,2,2,3068.27,Sim,16.0,Abaixo da média
+1562,IMV-1563,Apartamento,Belo Horizonte,Zona Oeste,60,2,1,1780.69,Não,30.0,Acima da média
+1563,IMV-1564,Apartamento,Porto Alegre,Zona Norte,77,2,2,4113.9,Não,53.0,Acima da média
+1567,IMV-1568,Apartamento,Porto Alegre,Zona Sul,278,3,1,2528.47,Não,9.0,Abaixo da média
+1568,IMV-1569,Apartamento,São Paulo,Zona Sul,267,3,1,3449.41,Não,13.0,Abaixo da média
+1571,IMV-1572,Apartamento,São Paulo,Zona Norte,250,3,1,2145.46,Não,9.0,Abaixo da média
+1572,IMV-1573,Apartamento,Salvador,Zona Oeste,215,2,1,2677.38,Sim,12.0,Abaixo da média
+1573,IMV-1574,Apartamento,São Paulo,Zona Norte,272,1,2,2016.51,Sim,7.0,Abaixo da média
+1577,IMV-1578,Apartamento,Salvador,Zona Sul,103,4,2,2441.54,Não,24.0,Abaixo da média
+1578,IMV-1579,Apartamento,Salvador,Centro,50,1,1,4027.83,Não,81.0,Acima da média
+1583,IMV-1584,Apartamento,São Paulo,Zona Leste,130,3,1,2869.88,Não,22.0,Abaixo da média
+1584,IMV-1585,Apartamento,São Paulo,Centro,73,4,1,582.6,Não,8.0,Abaixo da média
+1585,IMV-1586,Apartamento,Porto Alegre,Zona Sul,116,1,1,4592.8,Sim,40.0,Acima da média
+1588,IMV-1589,Apartamento,Salvador,Zona Leste,72,3,2,1680.94,Sim,23.0,Abaixo da média
+1591,IMV-1592,Apartamento,Rio de Janeiro,Zona Leste,36,2,1,1823.59,Sim,51.0,Acima da média
+1603,IMV-1604,Apartamento,Rio de Janeiro,Centro,278,3,2,4567.93,Sim,16.0,Abaixo da média
+1604,IMV-1605,Apartamento,Rio de Janeiro,Zona Oeste,152,1,1,1311.05,Não,9.0,Abaixo da média
+1610,IMV-1611,Apartamento,Rio de Janeiro,Centro,57,4,1,4459.07,Sim,78.0,Acima da média
+1611,IMV-1612,Apartamento,Rio de Janeiro,Zona Oeste,109,4,2,1253.81,Não,12.0,Abaixo da média
+1619,IMV-1620,Apartamento,São Paulo,Centro,38,2,2,4322.15,Sim,114.0,Acima da média
+1620,IMV-1621,Apartamento,Rio de Janeiro,Zona Oeste,149,3,2,990.61,Sim,7.0,Abaixo da média
+1624,IMV-1625,Apartamento,Rio de Janeiro,Centro,189,1,1,2796.39,Não,15.0,Abaixo da média
+1625,IMV-1626,Apartamento,São Paulo,Zona Norte,224,4,2,1254.7,Sim,6.0,Abaixo da média
+1626,IMV-1627,Apartamento,Rio de Janeiro,Zona Oeste,169,2,2,2292.91,Sim,14.0,Abaixo da média
+1627,IMV-1628,Apartamento,Rio de Janeiro,Zona Norte,157,1,2,3942.94,Sim,25.0,Acima da média
+1628,IMV-1629,Apartamento,Rio de Janeiro,Zona Norte,101,1,1,4506.2,Não,45.0,Acima da média
+1631,IMV-1632,Apartamento,Belo Horizonte,Zona Sul,66,1,1,3754.77,Não,57.0,Acima da média
+1633,IMV-1634,Apartamento,São Paulo,Zona Sul,227,3,2,4859.17,Sim,21.0,Abaixo da média
+1637,IMV-1638,Apartamento,Salvador,Centro,292,3,2,589.23,Não,2.0,Abaixo da média
+1639,IMV-1640,Apartamento,Salvador,Zona Sul,86,4,1,2090.11,Não,24.0,Abaixo da média
+1643,IMV-1644,Apartamento,Porto Alegre,Zona Sul,157,2,1,2123.92,Sim,14.0,Abaixo da média
+1645,IMV-1646,Apartamento,Porto Alegre,Zona Norte,82,2,1,4521.14,Não,55.0,Acima da média
+1646,IMV-1647,Apartamento,Porto Alegre,Zona Oeste,41,2,2,1450.32,Sim,35.0,Acima da média
+1647,IMV-1648,Apartamento,Rio de Janeiro,Zona Norte,226,2,1,4888.12,Não,22.0,Abaixo da média
+1649,IMV-1650,Apartamento,Salvador,Zona Leste,277,1,2,4724.02,Sim,17.0,Abaixo da média
+1655,IMV-1656,Apartamento,Belo Horizonte,Centro,64,1,2,1514.79,Não,24.0,Abaixo da média
+1656,IMV-1657,Apartamento,Belo Horizonte,Centro,185,4,1,2179.71,Sim,12.0,Abaixo da média
+1657,IMV-1658,Apartamento,São Paulo,Zona Sul,180,1,1,2222.45,Não,12.0,Abaixo da média
+1659,IMV-1660,Apartamento,Porto Alegre,Centro,294,2,2,4648.67,Não,16.0,Abaixo da média
+1661,IMV-1662,Apartamento,Salvador,Zona Leste,238,1,1,3292.82,Sim,14.0,Abaixo da média
+1665,IMV-1666,Apartamento,Rio de Janeiro,Zona Oeste,166,4,1,1093.2,Sim,7.0,Abaixo da média
+1670,IMV-1671,Apartamento,Belo Horizonte,Zona Norte,202,2,2,3238.66,Não,16.0,Abaixo da média
+1673,IMV-1674,Apartamento,São Paulo,Zona Leste,67,3,2,1715.4,Sim,26.0,Acima da média
+1675,IMV-1676,Apartamento,Rio de Janeiro,Zona Leste,267,2,1,2368.08,Sim,9.0,Abaixo da média
+1676,IMV-1677,Apartamento,São Paulo,Zona Leste,89,1,1,1559.77,Não,18.0,Abaixo da média
+1677,IMV-1678,Apartamento,Belo Horizonte,Centro,241,1,1,4113.06,Não,17.0,Abaixo da média
+1680,IMV-1681,Apartamento,Salvador,Zona Leste,203,2,2,4057.74,Sim,20.0,Abaixo da média
+1683,IMV-1684,Apartamento,São Paulo,Centro,43,2,1,3908.68,Não,91.0,Acima da média
+1686,IMV-1687,Apartamento,Belo Horizonte,Zona Norte,250,4,1,2269.24,Não,9.0,Abaixo da média
+1688,IMV-1689,Apartamento,Porto Alegre,Zona Sul,243,3,2,2900.3,Sim,12.0,Abaixo da média
+1690,IMV-1691,Apartamento,Porto Alegre,Centro,75,1,2,1404.89,Não,19.0,Abaixo da média
+1693,IMV-1694,Apartamento,São Paulo,Centro,91,3,2,1254.38,Sim,14.0,Abaixo da média
+1699,IMV-1700,Apartamento,Porto Alegre,Centro,281,1,1,4585.14,Não,16.0,Abaixo da média
+1703,IMV-1704,Apartamento,São Paulo,Centro,175,4,2,2396.38,Sim,14.0,Abaixo da média
+1704,IMV-1705,Apartamento,Porto Alegre,Centro,189,3,2,1116.9,Não,6.0,Abaixo da média
+1710,IMV-1711,Apartamento,Salvador,Centro,106,2,1,845.24,Sim,8.0,Abaixo da média
+1711,IMV-1712,Apartamento,Belo Horizonte,Zona Sul,295,4,2,763.05,Sim,3.0,Abaixo da média
+1715,IMV-1716,Apartamento,Belo Horizonte,Zona Norte,163,2,2,3900.66,Sim,24.0,Abaixo da média
+1717,IMV-1718,Apartamento,Belo Horizonte,Zona Oeste,64,4,2,4081.55,Sim,64.0,Acima da média
+1721,IMV-1722,Apartamento,Belo Horizonte,Zona Norte,43,3,2,2076.1,Não,48.0,Acima da média
+1724,IMV-1725,Apartamento,Porto Alegre,Zona Norte,125,3,2,2550.43,Sim,20.0,Abaixo da média
+1727,IMV-1728,Apartamento,Porto Alegre,Zona Norte,201,2,2,2670.83,Não,13.0,Abaixo da média
+1729,IMV-1730,Apartamento,Rio de Janeiro,Zona Oeste,285,2,1,3222.04,Sim,11.0,Abaixo da média
+1731,IMV-1732,Apartamento,Rio de Janeiro,Zona Sul,180,2,1,755.8,Sim,4.0,Abaixo da média
+1739,IMV-1740,Apartamento,Rio de Janeiro,Centro,231,3,1,1880.28,Não,8.0,Abaixo da média
+1744,IMV-1745,Apartamento,Porto Alegre,Centro,284,2,1,2017.04,Não,7.0,Abaixo da média
+1748,IMV-1749,Apartamento,Porto Alegre,Zona Sul,128,3,2,1157.08,Não,9.0,Abaixo da média
+1749,IMV-1750,Apartamento,Rio de Janeiro,Zona Sul,81,1,1,4558.09,Não,56.0,Acima da média
+1754,IMV-1755,Apartamento,São Paulo,Zona Norte,77,2,1,2921.33,Sim,38.0,Acima da média
+1756,IMV-1757,Apartamento,Rio de Janeiro,Zona Sul,236,1,1,1382.43,Sim,6.0,Abaixo da média
+1758,IMV-1759,Apartamento,São Paulo,Zona Norte,162,1,1,4984.43,Sim,31.0,Acima da média
+1762,IMV-1763,Apartamento,Porto Alegre,Centro,215,2,2,3779.12,Não,18.0,Abaixo da média
+1763,IMV-1764,Apartamento,Porto Alegre,Centro,256,2,2,3103.94,Não,12.0,Abaixo da média
+1768,IMV-1769,Apartamento,Porto Alegre,Zona Oeste,291,4,2,1306.28,Não,4.0,Abaixo da média
+1772,IMV-1773,Apartamento,São Paulo,Zona Norte,120,1,1,2819.38,Não,23.0,Abaixo da média
+1773,IMV-1774,Apartamento,Salvador,Zona Sul,189,4,2,2373.82,Não,13.0,Abaixo da média
+1774,IMV-1775,Apartamento,Salvador,Zona Sul,30,3,1,4272.85,Sim,142.0,Acima da média
+1775,IMV-1776,Apartamento,São Paulo,Zona Oeste,213,4,2,2727.95,Não,13.0,Abaixo da média
+1782,IMV-1783,Apartamento,São Paulo,Zona Norte,87,3,2,1346.51,Não,15.0,Abaixo da média
+1783,IMV-1784,Apartamento,Porto Alegre,Zona Oeste,172,1,2,1837.85,Sim,11.0,Abaixo da média
+1784,IMV-1785,Apartamento,Belo Horizonte,Zona Leste,203,4,1,1341.39,Sim,7.0,Abaixo da média
+1786,IMV-1787,Apartamento,Salvador,Centro,211,4,2,734.75,Sim,3.0,Abaixo da média
+1790,IMV-1791,Apartamento,Porto Alegre,Zona Norte,96,2,2,4132.07,Sim,43.0,Acima da média
+1792,IMV-1793,Apartamento,Belo Horizonte,Zona Oeste,59,3,1,2034.9,Não,34.0,Acima da média
+1797,IMV-1798,Apartamento,Rio de Janeiro,Zona Sul,30,4,2,4800.55,Não,160.0,Acima da média
+1802,IMV-1803,Apartamento,Porto Alegre,Centro,293,1,2,2746.27,Sim,9.0,Abaixo da média
+1803,IMV-1804,Apartamento,Salvador,Zona Norte,91,4,1,3364.32,Não,37.0,Acima da média
+1805,IMV-1806,Apartamento,Rio de Janeiro,Zona Norte,294,1,1,4569.78,Não,16.0,Abaixo da média
+1807,IMV-1808,Apartamento,Porto Alegre,Zona Leste,87,2,2,4281.55,Sim,49.0,Acima da média
+1809,IMV-1810,Apartamento,Belo Horizonte,Zona Norte,92,2,1,3016.24,Não,33.0,Acima da média
+1810,IMV-1811,Apartamento,Rio de Janeiro,Centro,252,2,1,4371.95,Não,17.0,Abaixo da média
+1811,IMV-1812,Apartamento,São Paulo,Zona Norte,226,4,2,3166.6,Sim,14.0,Abaixo da média
+1812,IMV-1813,Apartamento,Rio de Janeiro,Zona Norte,293,2,2,1870.52,Sim,6.0,Abaixo da média
+1813,IMV-1814,Apartamento,Belo Horizonte,Zona Oeste,116,4,1,2057.56,Sim,18.0,Abaixo da média
+1815,IMV-1816,Apartamento,São Paulo,Zona Sul,245,2,1,587.28,Sim,2.0,Abaixo da média
+1816,IMV-1817,Apartamento,São Paulo,Zona Leste,127,4,1,976.08,Sim,8.0,Abaixo da média
+1818,IMV-1819,Apartamento,São Paulo,Zona Oeste,108,1,2,4141.38,Não,38.0,Acima da média
+1821,IMV-1822,Apartamento,Salvador,Zona Leste,140,1,2,886.33,Não,6.0,Abaixo da média
+1823,IMV-1824,Apartamento,Belo Horizonte,Zona Sul,54,4,2,4230.0,Não,78.0,Acima da média
+1827,IMV-1828,Apartamento,São Paulo,Zona Leste,283,1,2,3748.92,Não,13.0,Abaixo da média
+1830,IMV-1831,Apartamento,Salvador,Zona Oeste,111,2,2,2049.57,Não,18.0,Abaixo da média
+1831,IMV-1832,Apartamento,Belo Horizonte,Centro,79,1,2,3144.31,Não,40.0,Acima da média
+1833,IMV-1834,Apartamento,São Paulo,Zona Norte,124,3,1,678.92,Sim,5.0,Abaixo da média
+1836,IMV-1837,Apartamento,Porto Alegre,Zona Leste,45,1,2,4715.23,Sim,105.0,Acima da média
+1840,IMV-1841,Apartamento,Salvador,Zona Oeste,49,1,1,2683.51,Sim,55.0,Acima da média
+1844,IMV-1845,Apartamento,Porto Alegre,Centro,91,4,2,4956.89,Sim,54.0,Acima da média
+1847,IMV-1848,Apartamento,Porto Alegre,Centro,205,2,2,1457.05,Não,7.0,Abaixo da média
+1848,IMV-1849,Apartamento,São Paulo,Zona Leste,277,4,1,3569.94,Sim,13.0,Abaixo da média
+1849,IMV-1850,Apartamento,Porto Alegre,Centro,61,4,2,4068.1,Sim,67.0,Acima da média
+1850,IMV-1851,Apartamento,Salvador,Zona Oeste,275,4,2,2349.73,Sim,9.0,Abaixo da média
+1852,IMV-1853,Apartamento,Porto Alegre,Zona Norte,260,1,2,510.97,Não,2.0,Abaixo da média
+1854,IMV-1855,Apartamento,Belo Horizonte,Zona Oeste,175,2,1,4323.31,Não,25.0,Acima da média
+1855,IMV-1856,Apartamento,São Paulo,Zona Norte,211,3,1,4998.06,Não,24.0,Abaixo da média
+1858,IMV-1859,Apartamento,São Paulo,Zona Norte,130,4,2,932.97,Sim,7.0,Abaixo da média
+1861,IMV-1862,Apartamento,Belo Horizonte,Zona Leste,127,2,1,2545.98,Sim,20.0,Abaixo da média
+1868,IMV-1869,Apartamento,Salvador,Centro,34,1,2,1187.53,Sim,35.0,Acima da média
+1869,IMV-1870,Apartamento,Salvador,Zona Norte,259,3,2,3296.35,Não,13.0,Abaixo da média
+1872,IMV-1873,Apartamento,Salvador,Zona Leste,176,3,2,4242.79,Sim,24.0,Abaixo da média
+1877,IMV-1878,Apartamento,Rio de Janeiro,Zona Sul,68,2,1,2297.07,Não,34.0,Acima da média
+1883,IMV-1884,Apartamento,São Paulo,Centro,201,2,2,3037.41,Sim,15.0,Abaixo da média
+1885,IMV-1886,Apartamento,Salvador,Zona Oeste,228,2,1,944.78,Sim,4.0,Abaixo da média
+1887,IMV-1888,Apartamento,Porto Alegre,Zona Leste,248,1,1,4886.71,Não,20.0,Abaixo da média
+1888,IMV-1889,Apartamento,Salvador,Zona Oeste,187,4,1,727.29,Sim,4.0,Abaixo da média
+1895,IMV-1896,Apartamento,Rio de Janeiro,Zona Oeste,194,3,2,4884.71,Não,25.0,Acima da média
+1899,IMV-1900,Apartamento,Belo Horizonte,Zona Sul,248,2,2,3598.24,Não,15.0,Abaixo da média
+1900,IMV-1901,Apartamento,São Paulo,Centro,234,4,2,1036.1,Não,4.0,Abaixo da média
+1903,IMV-1904,Apartamento,Belo Horizonte,Zona Norte,260,3,1,3312.77,Sim,13.0,Abaixo da média
+1904,IMV-1905,Apartamento,Belo Horizonte,Zona Oeste,184,3,1,4626.16,Não,25.0,Acima da média
+1909,IMV-1910,Apartamento,Rio de Janeiro,Zona Oeste,245,1,1,4471.0,Não,18.0,Abaixo da média
+1911,IMV-1912,Apartamento,Salvador,Centro,263,1,1,4914.07,Sim,19.0,Abaixo da média
+1913,IMV-1914,Apartamento,Porto Alegre,Zona Sul,287,1,1,2314.39,Sim,8.0,Abaixo da média
+1919,IMV-1920,Apartamento,Belo Horizonte,Zona Leste,57,4,2,4437.2,Sim,78.0,Acima da média
+1920,IMV-1921,Apartamento,São Paulo,Centro,287,1,2,2568.23,Não,9.0,Abaixo da média
+1921,IMV-1922,Apartamento,São Paulo,Zona Sul,217,3,1,2588.64,Sim,12.0,Abaixo da média
+1925,IMV-1926,Apartamento,Rio de Janeiro,Zona Norte,274,3,1,2161.56,Não,8.0,Abaixo da média
+1930,IMV-1931,Apartamento,Belo Horizonte,Zona Sul,267,4,1,4742.88,Não,18.0,Abaixo da média
+1939,IMV-1940,Apartamento,Salvador,Zona Leste,160,2,2,1891.04,Sim,12.0,Abaixo da média
+1941,IMV-1942,Apartamento,Rio de Janeiro,Zona Leste,151,1,1,3970.41,Sim,26.0,Acima da média
+1944,IMV-1945,Apartamento,Rio de Janeiro,Centro,282,2,1,3397.89,Sim,12.0,Abaixo da média
+1945,IMV-1946,Apartamento,Rio de Janeiro,Centro,82,4,1,4901.24,Não,60.0,Acima da média
+1946,IMV-1947,Apartamento,Porto Alegre,Zona Norte,72,1,2,1716.45,Sim,24.0,Abaixo da média
+1947,IMV-1948,Apartamento,Salvador,Zona Oeste,283,1,2,3466.52,Não,12.0,Abaixo da média
+1951,IMV-1952,Apartamento,Porto Alegre,Zona Norte,114,3,2,2178.86,Sim,19.0,Abaixo da média
+1953,IMV-1954,Apartamento,São Paulo,Zona Oeste,157,4,1,4393.85,Sim,28.0,Acima da média
+1954,IMV-1955,Apartamento,Salvador,Zona Leste,109,1,2,870.84,Não,8.0,Abaixo da média
+1957,IMV-1958,Apartamento,Salvador,Zona Norte,113,1,1,4759.95,Não,42.0,Acima da média
+1962,IMV-1963,Apartamento,Rio de Janeiro,Zona Norte,113,4,1,4205.45,Não,37.0,Acima da média
+1971,IMV-1972,Apartamento,São Paulo,Zona Oeste,86,2,1,2008.96,Sim,23.0,Abaixo da média
+1975,IMV-1976,Apartamento,Porto Alegre,Zona Oeste,143,1,2,3552.24,Não,25.0,Acima da média
+1980,IMV-1981,Apartamento,Porto Alegre,Zona Leste,51,2,2,3093.84,Sim,61.0,Acima da média
+1985,IMV-1986,Apartamento,Rio de Janeiro,Zona Leste,143,2,2,2998.96,Não,21.0,Abaixo da média
+1986,IMV-1987,Apartamento,Porto Alegre,Centro,230,1,1,3574.47,Sim,16.0,Abaixo da média
+1988,IMV-1989,Apartamento,Rio de Janeiro,Zona Sul,279,3,1,3624.63,Sim,13.0,Abaixo da média
+1992,IMV-1993,Apartamento,Rio de Janeiro,Centro,252,3,1,4579.5,Não,18.0,Abaixo da média
+1997,IMV-1998,Apartamento,Salvador,Zona Oeste,265,2,2,4124.04,Sim,16.0,Abaixo da média
+2000,IMV-2001,Apartamento,Porto Alegre,Zona Norte,91,4,1,1706.24,Sim,19.0,Abaixo da média
+2002,IMV-2003,Apartamento,Salvador,Zona Oeste,140,4,1,1424.49,Sim,10.0,Abaixo da média
+2005,IMV-2006,Apartamento,Belo Horizonte,Zona Leste,209,1,2,512.68,Sim,2.0,Abaixo da média
+2018,IMV-2019,Apartamento,Salvador,Zona Sul,138,1,2,3325.48,Não,24.0,Abaixo da média
+2019,IMV-2020,Apartamento,São Paulo,Zona Oeste,266,4,2,3859.73,Não,15.0,Abaixo da média
+2025,IMV-2026,Apartamento,Porto Alegre,Zona Norte,80,3,1,3008.83,Não,38.0,Acima da média
+2033,IMV-2034,Apartamento,Porto Alegre,Centro,117,2,2,1454.95,Não,12.0,Abaixo da média
+2034,IMV-2035,Apartamento,Rio de Janeiro,Zona Norte,162,1,1,1033.56,Sim,6.0,Abaixo da média
+2036,IMV-2037,Apartamento,São Paulo,Zona Sul,249,4,2,2304.43,Sim,9.0,Abaixo da média
+2047,IMV-2048,Apartamento,Salvador,Zona Sul,106,3,2,3222.98,Não,30.0,Acima da média
+2048,IMV-2049,Apartamento,São Paulo,Centro,91,3,1,4577.47,Sim,50.0,Acima da média
+2049,IMV-2050,Apartamento,São Paulo,Zona Norte,274,4,2,4208.72,Sim,15.0,Abaixo da média
+2051,IMV-2052,Apartamento,Salvador,Zona Sul,140,3,1,4076.28,Não,29.0,Acima da média
+2052,IMV-2053,Apartamento,São Paulo,Zona Sul,164,3,1,4833.13,Sim,29.0,Acima da média
+2061,IMV-2062,Apartamento,Belo Horizonte,Zona Leste,264,3,2,4324.84,Sim,16.0,Abaixo da média
+2064,IMV-2065,Apartamento,São Paulo,Zona Sul,251,1,1,4578.66,Sim,18.0,Abaixo da média
+2070,IMV-2071,Apartamento,São Paulo,Zona Oeste,181,1,1,3007.3,Sim,17.0,Abaixo da média
+2076,IMV-2077,Apartamento,Rio de Janeiro,Centro,99,2,1,1064.47,Sim,11.0,Abaixo da média
+2077,IMV-2078,Apartamento,São Paulo,Zona Norte,183,1,1,4665.66,Sim,25.0,Acima da média
+2078,IMV-2079,Apartamento,Belo Horizonte,Zona Leste,129,4,1,866.09,Sim,7.0,Abaixo da média
+2081,IMV-2082,Apartamento,Rio de Janeiro,Zona Norte,275,1,2,3821.58,Não,14.0,Abaixo da média
+2083,IMV-2084,Apartamento,Belo Horizonte,Zona Sul,98,1,2,4725.99,Sim,48.0,Acima da média
+2085,IMV-2086,Apartamento,Belo Horizonte,Zona Sul,166,2,2,1828.44,Não,11.0,Abaixo da média
+2088,IMV-2089,Apartamento,Porto Alegre,Zona Leste,211,2,1,1065.34,Não,5.0,Abaixo da média
+2097,IMV-2098,Apartamento,Salvador,Zona Sul,261,3,1,3978.24,Não,15.0,Abaixo da média
+2098,IMV-2099,Apartamento,Rio de Janeiro,Zona Oeste,93,1,2,702.26,Sim,8.0,Abaixo da média
+2100,IMV-2101,Apartamento,Belo Horizonte,Centro,50,2,2,2440.06,Não,49.0,Acima da média
+2110,IMV-2111,Apartamento,Salvador,Zona Sul,72,4,1,4935.6,Não,69.0,Acima da média
+2113,IMV-2114,Apartamento,Belo Horizonte,Zona Sul,270,4,1,1078.6,Não,4.0,Abaixo da média
+2116,IMV-2117,Apartamento,Rio de Janeiro,Zona Leste,164,2,2,751.68,Não,5.0,Abaixo da média
+2124,IMV-2125,Apartamento,São Paulo,Zona Norte,179,3,1,1574.02,Não,9.0,Abaixo da média
+2125,IMV-2126,Apartamento,São Paulo,Zona Norte,223,2,2,1018.42,Não,5.0,Abaixo da média
+2126,IMV-2127,Apartamento,Rio de Janeiro,Zona Sul,120,3,1,1189.92,Sim,10.0,Abaixo da média
+2127,IMV-2128,Apartamento,Belo Horizonte,Zona Leste,133,2,1,1557.7,Sim,12.0,Abaixo da média
+2131,IMV-2132,Apartamento,Porto Alegre,Zona Norte,283,2,1,3924.34,Sim,14.0,Abaixo da média
+2135,IMV-2136,Apartamento,Porto Alegre,Zona Sul,74,3,2,1838.69,Sim,25.0,Acima da média
+2139,IMV-2140,Apartamento,Rio de Janeiro,Zona Sul,57,4,2,4899.06,Não,86.0,Acima da média
+2140,IMV-2141,Apartamento,Porto Alegre,Zona Norte,99,1,1,3120.57,Não,32.0,Acima da média
+2143,IMV-2144,Apartamento,Belo Horizonte,Zona Norte,205,1,1,2655.0,Sim,13.0,Abaixo da média
+2145,IMV-2146,Apartamento,Belo Horizonte,Zona Leste,234,3,2,533.78,Não,2.0,Abaixo da média
+2148,IMV-2149,Apartamento,São Paulo,Zona Leste,233,1,1,1271.26,Sim,5.0,Abaixo da média
+2149,IMV-2150,Apartamento,Belo Horizonte,Centro,279,3,2,1885.78,Sim,7.0,Abaixo da média
+2150,IMV-2151,Apartamento,Rio de Janeiro,Zona Leste,64,4,1,4381.16,Não,68.0,Acima da média
+2153,IMV-2154,Apartamento,Porto Alegre,Zona Sul,256,4,2,1499.05,Não,6.0,Abaixo da média
+2154,IMV-2155,Apartamento,Porto Alegre,Zona Oeste,39,4,1,3079.14,Sim,79.0,Acima da média
+2156,IMV-2157,Apartamento,Rio de Janeiro,Zona Sul,244,4,1,1156.33,Sim,5.0,Abaixo da média
+2159,IMV-2160,Apartamento,Salvador,Zona Sul,199,3,2,927.89,Sim,5.0,Abaixo da média
+2163,IMV-2164,Apartamento,Porto Alegre,Centro,145,4,1,1706.03,Sim,12.0,Abaixo da média
+2164,IMV-2165,Apartamento,Porto Alegre,Zona Norte,239,1,2,1956.48,Não,8.0,Abaixo da média
+2169,IMV-2170,Apartamento,São Paulo,Centro,86,1,1,3686.16,Não,43.0,Acima da média
+2170,IMV-2171,Apartamento,São Paulo,Zona Sul,228,4,1,3770.09,Sim,17.0,Abaixo da média
+2173,IMV-2174,Apartamento,Belo Horizonte,Zona Sul,275,3,1,3003.13,Sim,11.0,Abaixo da média
+2178,IMV-2179,Apartamento,Rio de Janeiro,Zona Norte,58,4,1,2469.62,Sim,43.0,Acima da média
+2189,IMV-2190,Apartamento,Salvador,Zona Oeste,178,2,2,4003.49,Não,22.0,Abaixo da média
+2191,IMV-2192,Apartamento,Porto Alegre,Zona Sul,165,1,1,1227.82,Sim,7.0,Abaixo da média
+2192,IMV-2193,Apartamento,São Paulo,Zona Norte,226,3,1,2914.39,Não,13.0,Abaixo da média
+2194,IMV-2195,Apartamento,Salvador,Zona Norte,149,2,1,1939.67,Não,13.0,Abaixo da média
+2198,IMV-2199,Apartamento,Salvador,Zona Norte,220,2,1,2587.07,Sim,12.0,Abaixo da média
+2201,IMV-2202,Apartamento,Salvador,Zona Norte,190,2,2,1358.64,Não,7.0,Abaixo da média
+2202,IMV-2203,Apartamento,São Paulo,Zona Leste,79,2,2,2502.91,Sim,32.0,Acima da média
+2203,IMV-2204,Apartamento,Belo Horizonte,Centro,39,2,1,1114.18,Sim,29.0,Acima da média
+2204,IMV-2205,Apartamento,São Paulo,Zona Norte,104,1,2,3892.46,Sim,37.0,Acima da média
+2205,IMV-2206,Apartamento,Belo Horizonte,Zona Norte,232,4,1,2287.04,Sim,10.0,Abaixo da média
+2209,IMV-2210,Apartamento,Salvador,Zona Oeste,263,1,1,1612.5,Sim,6.0,Abaixo da média
+2212,IMV-2213,Apartamento,Rio de Janeiro,Centro,186,4,1,1736.1,Não,9.0,Abaixo da média
+2215,IMV-2216,Apartamento,Rio de Janeiro,Zona Norte,38,1,2,2735.88,Não,72.0,Acima da média
+2218,IMV-2219,Apartamento,Rio de Janeiro,Zona Leste,298,2,2,1625.69,Sim,5.0,Abaixo da média
+2219,IMV-2220,Apartamento,Porto Alegre,Zona Oeste,121,2,1,3371.34,Não,28.0,Acima da média
+2225,IMV-2226,Apartamento,São Paulo,Zona Leste,262,1,2,3483.87,Sim,13.0,Abaixo da média
+2227,IMV-2228,Apartamento,Belo Horizonte,Zona Norte,106,2,2,1428.02,Sim,13.0,Abaixo da média
+2235,IMV-2236,Apartamento,Rio de Janeiro,Zona Sul,69,4,1,3622.12,Não,52.0,Acima da média
+2237,IMV-2238,Apartamento,Rio de Janeiro,Zona Oeste,206,4,1,2337.33,Sim,11.0,Abaixo da média
+2240,IMV-2241,Apartamento,Rio de Janeiro,Zona Sul,62,4,2,1585.98,Não,26.0,Acima da média
+2241,IMV-2242,Apartamento,Salvador,Zona Leste,251,3,1,2629.15,Sim,10.0,Abaixo da média
+2243,IMV-2244,Apartamento,Belo Horizonte,Zona Sul,188,2,1,3423.6,Sim,18.0,Abaixo da média
+2246,IMV-2247,Apartamento,Rio de Janeiro,Centro,165,4,1,1154.0,Sim,7.0,Abaixo da média
+2250,IMV-2251,Apartamento,São Paulo,Centro,203,3,1,2614.27,Sim,13.0,Abaixo da média
+2252,IMV-2253,Apartamento,Salvador,Centro,284,4,1,3547.39,Não,12.0,Abaixo da média
+2253,IMV-2254,Apartamento,São Paulo,Zona Norte,214,4,1,1752.75,Não,8.0,Abaixo da média
+2256,IMV-2257,Apartamento,Belo Horizonte,Centro,232,4,2,4231.09,Sim,18.0,Abaixo da média
+2259,IMV-2260,Apartamento,Porto Alegre,Zona Oeste,66,4,2,2452.39,Sim,37.0,Acima da média
+2269,IMV-2270,Apartamento,Rio de Janeiro,Zona Leste,62,3,1,2286.62,Sim,37.0,Acima da média
+2276,IMV-2277,Apartamento,Salvador,Zona Sul,298,4,2,3289.25,Não,11.0,Abaixo da média
+2278,IMV-2279,Apartamento,Belo Horizonte,Zona Leste,134,4,2,1498.06,Não,11.0,Abaixo da média
+2279,IMV-2280,Apartamento,Rio de Janeiro,Centro,79,4,1,4142.49,Não,52.0,Acima da média
+2280,IMV-2281,Apartamento,Salvador,Zona Sul,187,2,2,2180.8,Sim,12.0,Abaixo da média
+2281,IMV-2282,Apartamento,Porto Alegre,Centro,125,2,1,3816.41,Não,31.0,Acima da média
+2285,IMV-2286,Apartamento,São Paulo,Zona Norte,216,1,1,561.84,Não,3.0,Abaixo da média
+2290,IMV-2291,Apartamento,Porto Alegre,Centro,129,1,1,2593.11,Sim,20.0,Abaixo da média
+2293,IMV-2294,Apartamento,Rio de Janeiro,Centro,207,2,1,898.4,Sim,4.0,Abaixo da média
+2295,IMV-2296,Apartamento,São Paulo,Zona Sul,183,1,2,2502.59,Sim,14.0,Abaixo da média
+2297,IMV-2298,Apartamento,Porto Alegre,Zona Oeste,78,3,2,4591.61,Não,59.0,Acima da média
+2299,IMV-2300,Apartamento,Belo Horizonte,Zona Oeste,224,3,1,3392.99,Não,15.0,Abaixo da média
+2303,IMV-2304,Apartamento,Salvador,Centro,199,4,1,964.46,Sim,5.0,Abaixo da média
+2305,IMV-2306,Apartamento,Rio de Janeiro,Zona Norte,119,2,1,972.99,Não,8.0,Abaixo da média
+2306,IMV-2307,Apartamento,Rio de Janeiro,Zona Sul,39,1,2,1248.91,Não,32.0,Acima da média
+2310,IMV-2311,Apartamento,Rio de Janeiro,Zona Oeste,57,3,1,666.46,Sim,12.0,Abaixo da média
+2316,IMV-2317,Apartamento,São Paulo,Zona Sul,270,4,2,4393.31,Sim,16.0,Abaixo da média
+2319,IMV-2320,Apartamento,Salvador,Zona Sul,111,1,1,2476.35,Sim,22.0,Abaixo da média
+2329,IMV-2330,Apartamento,Porto Alegre,Zona Norte,214,3,2,2236.45,Sim,10.0,Abaixo da média
+2331,IMV-2332,Apartamento,Salvador,Zona Oeste,44,2,1,2763.54,Sim,63.0,Acima da média
+2341,IMV-2342,Apartamento,Porto Alegre,Centro,256,3,1,811.75,Sim,3.0,Abaixo da média
+2342,IMV-2343,Apartamento,São Paulo,Zona Leste,179,1,1,3144.52,Sim,18.0,Abaixo da média
+2345,IMV-2346,Apartamento,Belo Horizonte,Centro,285,2,1,3449.28,Sim,12.0,Abaixo da média
+2350,IMV-2351,Apartamento,São Paulo,Zona Leste,143,4,1,2003.08,Sim,14.0,Abaixo da média
+2352,IMV-2353,Apartamento,São Paulo,Zona Oeste,42,1,1,4098.77,Não,98.0,Acima da média
+2357,IMV-2358,Apartamento,Belo Horizonte,Zona Leste,241,4,2,2424.06,Sim,10.0,Abaixo da média
+2360,IMV-2361,Apartamento,Rio de Janeiro,Zona Sul,50,1,2,2612.95,Não,52.0,Acima da média
+2361,IMV-2362,Apartamento,Belo Horizonte,Zona Sul,137,2,2,4125.53,Não,30.0,Acima da média
+2365,IMV-2366,Apartamento,Salvador,Zona Sul,257,4,1,2210.52,Sim,9.0,Abaixo da média
+2371,IMV-2372,Apartamento,Belo Horizonte,Centro,177,2,1,4001.47,Sim,23.0,Abaixo da média
+2372,IMV-2373,Apartamento,Salvador,Zona Oeste,46,3,1,2133.35,Sim,46.0,Acima da média
+2375,IMV-2376,Apartamento,Belo Horizonte,Zona Sul,40,3,1,1966.89,Não,49.0,Acima da média
+2379,IMV-2380,Apartamento,Porto Alegre,Zona Leste,245,2,1,4829.03,Não,20.0,Abaixo da média
+2380,IMV-2381,Apartamento,Porto Alegre,Zona Leste,99,4,1,4430.44,Não,45.0,Acima da média
+2383,IMV-2384,Apartamento,São Paulo,Zona Oeste,34,2,2,2047.17,Sim,60.0,Acima da média
+2387,IMV-2388,Apartamento,Salvador,Zona Sul,148,1,1,4174.45,Não,28.0,Acima da média
+2389,IMV-2390,Apartamento,São Paulo,Zona Leste,221,4,2,3060.35,Sim,14.0,Abaixo da média
+2393,IMV-2394,Apartamento,São Paulo,Zona Norte,72,1,1,1679.16,Não,23.0,Abaixo da média
+2395,IMV-2396,Apartamento,Salvador,Centro,58,3,2,3314.9,Não,57.0,Acima da média
+2396,IMV-2397,Apartamento,Belo Horizonte,Zona Oeste,121,2,2,4929.77,Não,41.0,Acima da média
+2398,IMV-2399,Apartamento,Porto Alegre,Zona Sul,131,1,1,2923.09,Não,22.0,Abaixo da média
+2400,IMV-2401,Apartamento,Belo Horizonte,Zona Oeste,263,2,2,4279.46,Sim,16.0,Abaixo da média
+2403,IMV-2404,Apartamento,Porto Alegre,Zona Leste,82,3,2,4472.48,Sim,55.0,Acima da média
+2406,IMV-2407,Apartamento,Belo Horizonte,Zona Sul,42,3,1,3040.74,Sim,72.0,Acima da média
+2407,IMV-2408,Apartamento,São Paulo,Zona Sul,68,4,1,2328.29,Sim,34.0,Acima da média
+2411,IMV-2412,Apartamento,São Paulo,Zona Leste,49,3,2,3279.03,Sim,67.0,Acima da média
+2412,IMV-2413,Apartamento,São Paulo,Zona Norte,275,1,2,1366.18,Sim,5.0,Abaixo da média
+2419,IMV-2420,Apartamento,Porto Alegre,Zona Leste,176,4,1,4615.14,Sim,26.0,Acima da média
+2420,IMV-2421,Apartamento,São Paulo,Zona Sul,109,4,2,4460.98,Não,41.0,Acima da média
+2421,IMV-2422,Apartamento,Rio de Janeiro,Zona Sul,77,4,1,1555.61,Sim,20.0,Abaixo da média
+2422,IMV-2423,Apartamento,São Paulo,Zona Oeste,135,4,2,4601.93,Sim,34.0,Acima da média
+2424,IMV-2425,Apartamento,Belo Horizonte,Centro,195,1,2,1833.34,Sim,9.0,Abaixo da média
+2425,IMV-2426,Apartamento,Belo Horizonte,Zona Sul,85,3,2,2450.54,Sim,29.0,Acima da média
+2428,IMV-2429,Apartamento,São Paulo,Centro,196,2,2,1482.77,Não,8.0,Abaixo da média
+2433,IMV-2434,Apartamento,Porto Alegre,Centro,62,3,2,2912.58,Não,47.0,Acima da média
+2436,IMV-2437,Apartamento,São Paulo,Zona Oeste,174,2,1,3977.89,Sim,23.0,Abaixo da média
+2444,IMV-2445,Apartamento,São Paulo,Zona Sul,40,2,2,1083.65,Não,27.0,Acima da média
+2451,IMV-2452,Apartamento,São Paulo,Zona Oeste,92,1,2,1207.79,Não,13.0,Abaixo da média
+2460,IMV-2461,Apartamento,São Paulo,Zona Norte,160,4,1,3833.07,Sim,24.0,Abaixo da média
+2463,IMV-2464,Apartamento,Salvador,Zona Leste,158,1,1,4050.19,Sim,26.0,Acima da média
+2464,IMV-2465,Apartamento,Salvador,Zona Norte,184,1,1,3803.2,Não,21.0,Abaixo da média
+2470,IMV-2471,Apartamento,Belo Horizonte,Zona Sul,177,1,1,4410.85,Sim,25.0,Acima da média
+2471,IMV-2472,Apartamento,Porto Alegre,Centro,215,4,1,4938.72,Não,23.0,Abaixo da média
+2474,IMV-2475,Apartamento,Rio de Janeiro,Zona Oeste,181,1,1,1306.34,Não,7.0,Abaixo da média
+2481,IMV-2482,Apartamento,Salvador,Zona Oeste,209,4,2,2371.71,Não,11.0,Abaixo da média
+2485,IMV-2486,Apartamento,Rio de Janeiro,Zona Oeste,49,3,1,917.12,Sim,19.0,Abaixo da média
+2487,IMV-2488,Apartamento,Belo Horizonte,Zona Sul,220,3,1,2510.25,Não,11.0,Abaixo da média
+2490,IMV-2491,Apartamento,Porto Alegre,Zona Norte,182,1,2,4287.34,Sim,24.0,Abaixo da média
+2494,IMV-2495,Apartamento,Belo Horizonte,Zona Leste,187,1,1,2323.58,Não,12.0,Abaixo da média
+2499,IMV-2500,Apartamento,Salvador,Zona Sul,152,4,2,4617.25,Sim,30.0,Acima da média

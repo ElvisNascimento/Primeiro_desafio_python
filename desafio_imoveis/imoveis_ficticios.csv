@@ -1,0 +1,2501 @@
+ID_Imovel,Tipo_Imovel,Cidade,Bairro,Area_m2,Num_Quartos,Num_Banheiros,Aluguel_Mensal,Disponivel
+IMV-0001,Casa,Porto Alegre,Zona Oeste,224,1,2,627.28,Sim
+IMV-0002,Estúdio,São Paulo,Centro,149,2,1,2900.75,Não
+IMV-0003,Casa,Rio de Janeiro,Zona Norte,112,2,1,3386.6,Não
+IMV-0004,Casa,Porto Alegre,Zona Oeste,265,4,2,2313.68,Sim
+IMV-0005,Apartamento,Rio de Janeiro,Zona Sul,198,3,1,3488.91,Não
+IMV-0006,Apartamento,São Paulo,Zona Norte,96,4,2,4523.81,Sim
+IMV-0007,Estúdio,Belo Horizonte,Zona Oeste,91,1,2,1506.38,Não
+IMV-0008,Casa,Salvador,Centro,128,2,1,3701.36,Sim
+IMV-0009,Apartamento,Rio de Janeiro,Zona Sul,149,1,1,2011.52,Sim
+IMV-0010,Estúdio,São Paulo,Zona Leste,238,4,2,2303.02,Não
+IMV-0011,Estúdio,São Paulo,Zona Norte,86,3,1,2107.98,Sim
+IMV-0012,Apartamento,São Paulo,Zona Sul,267,4,1,4537.05,Não
+IMV-0013,Estúdio,Salvador,Zona Leste,60,1,2,3904.69,Sim
+IMV-0014,Apartamento,Rio de Janeiro,Zona Leste,192,3,2,2210.76,Não
+IMV-0015,Casa,Salvador,Zona Leste,129,1,1,792.81,Sim
+IMV-0016,Estúdio,Salvador,Zona Norte,72,2,1,4078.0,Sim
+IMV-0017,Apartamento,São Paulo,Zona Sul,149,4,2,1823.61,Não
+IMV-0018,Casa,Salvador,Zona Leste,155,4,1,1841.19,Não
+IMV-0019,Casa,Salvador,Zona Sul,184,4,1,3627.91,Sim
+IMV-0020,Apartamento,Rio de Janeiro,Zona Leste,209,1,1,3227.1,Não
+IMV-0021,Apartamento,Salvador,Zona Oeste,253,4,2,2163.71,Não
+IMV-0022,Apartamento,Salvador,Centro,195,1,2,1481.58,Não
+IMV-0023,Apartamento,Rio de Janeiro,Zona Leste,47,2,1,2036.44,Sim
+IMV-0024,Apartamento,Salvador,Zona Leste,168,3,1,2003.83,Não
+IMV-0025,Apartamento,Rio de Janeiro,Zona Leste,295,2,1,2002.41,Não
+IMV-0026,Apartamento,Rio de Janeiro,Zona Oeste,280,2,2,1350.71,Não
+IMV-0027,Casa,Rio de Janeiro,Zona Sul,274,3,1,3926.34,Sim
+IMV-0028,Estúdio,Salvador,Zona Leste,172,2,1,2552.93,Não
+IMV-0029,Estúdio,Rio de Janeiro,Centro,226,4,2,4846.32,Não
+IMV-0030,Casa,Porto Alegre,Centro,86,1,1,3403.59,Sim
+IMV-0031,Apartamento,Belo Horizonte,Zona Oeste,67,4,2,3107.15,Não
+IMV-0032,Estúdio,São Paulo,Centro,268,3,1,1659.25,Não
+IMV-0033,Casa,Rio de Janeiro,Zona Leste,204,1,1,4655.69,Não
+IMV-0034,Apartamento,Rio de Janeiro,Zona Sul,217,1,1,2381.08,Não
+IMV-0035,Apartamento,Belo Horizonte,Zona Norte,54,2,2,3808.75,Não
+IMV-0036,Casa,Belo Horizonte,Zona Leste,132,1,2,1962.42,Não
+IMV-0037,Apartamento,Rio de Janeiro,Zona Leste,60,4,1,4719.87,Sim
+IMV-0038,Casa,São Paulo,Zona Leste,145,3,2,809.93,Sim
+IMV-0039,Estúdio,Salvador,Centro,129,1,1,1924.74,Não
+IMV-0040,Apartamento,Porto Alegre,Zona Leste,209,2,1,2979.03,Sim
+IMV-0041,Casa,Belo Horizonte,Zona Oeste,118,2,1,2161.33,Não
+IMV-0042,Estúdio,Belo Horizonte,Zona Leste,226,4,2,2784.71,Sim
+IMV-0043,Apartamento,Porto Alegre,Zona Sul,249,1,1,1544.82,Sim
+IMV-0044,Estúdio,Rio de Janeiro,Centro,64,2,2,1427.95,Não
+IMV-0045,Estúdio,Porto Alegre,Centro,274,2,1,693.88,Sim
+IMV-0046,Apartamento,Belo Horizonte,Zona Oeste,191,3,2,4861.51,Sim
+IMV-0047,Estúdio,Porto Alegre,Zona Sul,165,4,2,530.97,Não
+IMV-0048,Apartamento,Belo Horizonte,Zona Norte,50,3,2,1042.28,Não
+IMV-0049,Casa,Porto Alegre,Zona Norte,181,3,1,1738.38,Sim
+IMV-0050,Estúdio,São Paulo,Zona Oeste,276,4,2,1194.56,Sim
+IMV-0051,Estúdio,São Paulo,Zona Norte,123,1,2,2110.14,Sim
+IMV-0052,Estúdio,Belo Horizonte,Zona Sul,73,4,2,3629.59,Sim
+IMV-0053,Apartamento,Rio de Janeiro,Centro,72,1,2,1151.53,Sim
+IMV-0054,Apartamento,Porto Alegre,Zona Leste,100,2,2,1561.67,Não
+IMV-0055,Estúdio,São Paulo,Zona Norte,61,1,2,2379.23,Não
+IMV-0056,Estúdio,Porto Alegre,Centro,81,3,2,1728.69,Não
+IMV-0057,Apartamento,Belo Horizonte,Zona Oeste,133,1,2,553.13,Sim
+IMV-0058,Casa,Belo Horizonte,Centro,154,3,1,2107.78,Sim
+IMV-0059,Apartamento,Rio de Janeiro,Zona Norte,195,4,2,808.8,Sim
+IMV-0060,Estúdio,São Paulo,Zona Leste,65,1,2,4236.63,Sim
+IMV-0061,Casa,São Paulo,Zona Leste,272,1,2,4731.78,Sim
+IMV-0062,Apartamento,Rio de Janeiro,Centro,252,4,2,3345.27,Sim
+IMV-0063,Casa,São Paulo,Zona Sul,40,2,1,3121.71,Não
+IMV-0064,Casa,Rio de Janeiro,Zona Leste,223,1,2,4175.2,Não
+IMV-0065,Apartamento,São Paulo,Zona Norte,135,3,2,731.36,Não
+IMV-0066,Estúdio,São Paulo,Centro,193,1,2,3795.69,Sim
+IMV-0067,Casa,Salvador,Zona Sul,93,3,2,2946.11,Sim
+IMV-0068,Estúdio,Porto Alegre,Zona Leste,256,2,2,2623.51,Não
+IMV-0069,Casa,Salvador,Zona Norte,175,2,1,3319.62,Não
+IMV-0070,Apartamento,Rio de Janeiro,Zona Leste,178,1,1,561.53,Não
+IMV-0071,Casa,São Paulo,Zona Norte,149,4,1,2717.25,Sim
+IMV-0072,Estúdio,São Paulo,Zona Sul,272,4,2,3247.79,Sim
+IMV-0073,Apartamento,Rio de Janeiro,Zona Sul,151,2,2,1305.74,Não
+IMV-0074,Apartamento,Rio de Janeiro,Zona Leste,203,2,2,1587.95,Sim
+IMV-0075,Estúdio,Rio de Janeiro,Zona Norte,163,3,2,4164.03,Não
+IMV-0076,Estúdio,Porto Alegre,Zona Leste,152,4,2,1879.64,Não
+IMV-0077,Apartamento,Belo Horizonte,Centro,102,1,2,820.25,Não
+IMV-0078,Casa,Salvador,Zona Leste,152,1,2,1562.6,Não
+IMV-0079,Apartamento,Rio de Janeiro,Zona Norte,109,3,2,1530.47,Não
+IMV-0080,Estúdio,Salvador,Centro,153,2,1,1179.39,Não
+IMV-0081,Estúdio,São Paulo,Zona Oeste,160,2,2,1860.31,Sim
+IMV-0082,Apartamento,São Paulo,Zona Leste,41,4,1,826.16,Não
+IMV-0083,Apartamento,Porto Alegre,Zona Oeste,288,3,1,3750.98,Não
+IMV-0084,Estúdio,Rio de Janeiro,Zona Sul,76,2,2,2583.45,Sim
+IMV-0085,Casa,Porto Alegre,Zona Oeste,109,4,1,3077.19,Não
+IMV-0086,Apartamento,Porto Alegre,Zona Leste,57,3,2,3159.08,Não
+IMV-0087,Casa,Rio de Janeiro,Zona Oeste,153,4,2,4734.7,Sim
+IMV-0088,Estúdio,Belo Horizonte,Zona Norte,187,3,2,2499.86,Sim
+IMV-0089,Casa,Salvador,Centro,295,4,2,2242.54,Não
+IMV-0090,Casa,São Paulo,Zona Norte,58,2,2,1160.1,Não
+IMV-0091,Apartamento,Salvador,Zona Oeste,36,4,2,4891.47,Sim
+IMV-0092,Casa,Porto Alegre,Zona Norte,297,2,1,3829.14,Sim
+IMV-0093,Apartamento,Rio de Janeiro,Zona Oeste,90,3,1,3698.55,Não
+IMV-0094,Casa,Salvador,Centro,219,4,1,838.1,Não
+IMV-0095,Estúdio,São Paulo,Zona Leste,272,3,2,1175.8,Não
+IMV-0096,Casa,Belo Horizonte,Zona Oeste,270,4,1,2982.56,Não
+IMV-0097,Estúdio,Rio de Janeiro,Zona Oeste,250,2,1,880.72,Sim
+IMV-0098,Apartamento,São Paulo,Zona Sul,148,2,1,1122.54,Sim
+IMV-0099,Estúdio,São Paulo,Zona Leste,205,2,2,1319.08,Sim
+IMV-0100,Apartamento,Rio de Janeiro,Zona Oeste,285,4,1,3607.48,Sim
+IMV-0101,Estúdio,Belo Horizonte,Zona Sul,248,2,1,2185.5,Não
+IMV-0102,Apartamento,São Paulo,Zona Leste,234,4,1,3052.44,Não
+IMV-0103,Casa,Porto Alegre,Zona Oeste,129,2,1,1166.9,Sim
+IMV-0104,Apartamento,São Paulo,Zona Oeste,215,2,2,4870.6,Não
+IMV-0105,Estúdio,São Paulo,Zona Sul,232,4,1,4633.33,Sim
+IMV-0106,Casa,Porto Alegre,Zona Oeste,168,2,1,4077.43,Sim
+IMV-0107,Estúdio,Rio de Janeiro,Zona Oeste,50,3,2,2111.38,Não
+IMV-0108,Estúdio,São Paulo,Zona Oeste,198,2,2,2643.09,Não
+IMV-0109,Estúdio,Belo Horizonte,Centro,298,4,2,4440.8,Sim
+IMV-0110,Apartamento,Belo Horizonte,Centro,38,4,1,1146.87,Não
+IMV-0111,Casa,Salvador,Centro,141,3,1,2326.78,Sim
+IMV-0112,Apartamento,Porto Alegre,Centro,147,4,1,3821.9,Não
+IMV-0113,Casa,Rio de Janeiro,Zona Norte,163,4,1,3639.94,Sim
+IMV-0114,Apartamento,Rio de Janeiro,Centro,134,4,2,2717.24,Sim
+IMV-0115,Casa,Salvador,Zona Sul,122,4,2,501.66,Não
+IMV-0116,Apartamento,Belo Horizonte,Zona Oeste,239,1,2,1281.17,Sim
+IMV-0117,Casa,Salvador,Zona Leste,123,4,1,3615.23,Não
+IMV-0118,Casa,São Paulo,Zona Leste,66,4,1,1518.64,Sim
+IMV-0119,Estúdio,Rio de Janeiro,Zona Oeste,72,4,2,4545.45,Não
+IMV-0120,Estúdio,Porto Alegre,Zona Norte,107,2,1,1201.84,Sim
+IMV-0121,Casa,Salvador,Centro,69,3,1,4502.33,Não
+IMV-0122,Estúdio,Belo Horizonte,Zona Leste,264,4,1,3670.45,Sim
+IMV-0123,Estúdio,Belo Horizonte,Zona Oeste,285,1,2,1253.44,Não
+IMV-0124,Estúdio,Salvador,Zona Leste,80,3,2,2173.04,Sim
+IMV-0125,Casa,Rio de Janeiro,Zona Norte,46,4,1,1729.05,Não
+IMV-0126,Apartamento,Belo Horizonte,Centro,129,2,2,1756.3,Não
+IMV-0127,Estúdio,São Paulo,Centro,83,3,2,2181.27,Sim
+IMV-0128,Estúdio,Rio de Janeiro,Zona Norte,165,1,2,4428.06,Não
+IMV-0129,Casa,Belo Horizonte,Zona Oeste,243,3,1,1013.51,Sim
+IMV-0130,Casa,Salvador,Zona Oeste,109,3,1,3368.28,Sim
+IMV-0131,Apartamento,São Paulo,Zona Leste,132,1,2,3298.49,Sim
+IMV-0132,Casa,Salvador,Zona Sul,230,4,1,3172.79,Não
+IMV-0133,Casa,São Paulo,Centro,67,1,2,4361.18,Não
+IMV-0134,Estúdio,Belo Horizonte,Zona Leste,65,3,1,3718.49,Sim
+IMV-0135,Estúdio,Porto Alegre,Zona Oeste,295,2,2,2187.52,Não
+IMV-0136,Estúdio,Porto Alegre,Zona Sul,77,1,1,4927.84,Sim
+IMV-0137,Apartamento,Porto Alegre,Zona Leste,278,3,2,3658.81,Sim
+IMV-0138,Casa,São Paulo,Zona Oeste,204,4,1,4391.32,Não
+IMV-0139,Estúdio,São Paulo,Zona Leste,70,1,1,1982.63,Não
+IMV-0140,Apartamento,Porto Alegre,Zona Oeste,168,2,2,1890.22,Não
+IMV-0141,Estúdio,Porto Alegre,Zona Norte,277,1,1,4421.63,Sim
+IMV-0142,Casa,Porto Alegre,Centro,113,4,1,2791.3,Não
+IMV-0143,Apartamento,Rio de Janeiro,Zona Oeste,98,2,2,2984.05,Sim
+IMV-0144,Apartamento,Salvador,Centro,288,1,2,2846.8,Sim
+IMV-0145,Estúdio,Porto Alegre,Zona Leste,200,3,1,674.15,Sim
+IMV-0146,Casa,São Paulo,Zona Sul,272,2,1,1498.41,Sim
+IMV-0147,Estúdio,São Paulo,Zona Sul,35,4,1,967.6,Sim
+IMV-0148,Apartamento,Belo Horizonte,Zona Leste,251,4,1,877.8,Não
+IMV-0149,Casa,Belo Horizonte,Zona Sul,298,4,1,2161.87,Não
+IMV-0150,Estúdio,Porto Alegre,Zona Norte,277,4,1,752.93,Sim
+IMV-0151,Estúdio,Salvador,Zona Oeste,71,2,2,3549.62,Não
+IMV-0152,Apartamento,Salvador,Zona Oeste,136,1,2,1540.34,Sim
+IMV-0153,Apartamento,Rio de Janeiro,Zona Norte,104,2,2,987.48,Não
+IMV-0154,Estúdio,São Paulo,Zona Oeste,95,4,2,3255.62,Não
+IMV-0155,Estúdio,Porto Alegre,Zona Sul,115,2,1,4555.41,Não
+IMV-0156,Apartamento,Belo Horizonte,Centro,116,1,1,1480.45,Não
+IMV-0157,Casa,Salvador,Zona Leste,215,4,2,4773.31,Sim
+IMV-0158,Apartamento,São Paulo,Zona Leste,153,1,2,3709.46,Sim
+IMV-0159,Casa,Salvador,Zona Sul,237,4,1,4611.69,Não
+IMV-0160,Estúdio,Belo Horizonte,Centro,201,1,1,960.21,Sim
+IMV-0161,Estúdio,Porto Alegre,Centro,173,1,1,719.91,Sim
+IMV-0162,Estúdio,Belo Horizonte,Zona Leste,114,3,2,3689.68,Não
+IMV-0163,Casa,Porto Alegre,Zona Norte,37,2,2,1620.13,Não
+IMV-0164,Casa,Porto Alegre,Zona Norte,93,2,2,3881.89,Sim
+IMV-0165,Estúdio,São Paulo,Zona Oeste,33,2,2,1293.89,Não
+IMV-0166,Casa,Salvador,Zona Leste,285,2,1,3553.02,Não
+IMV-0167,Casa,Rio de Janeiro,Zona Sul,198,4,1,684.89,Sim
+IMV-0168,Apartamento,Rio de Janeiro,Centro,148,3,1,3986.71,Sim
+IMV-0169,Casa,Belo Horizonte,Zona Sul,99,3,1,4894.65,Sim
+IMV-0170,Apartamento,Salvador,Zona Oeste,269,2,1,2079.88,Não
+IMV-0171,Estúdio,Porto Alegre,Zona Leste,58,4,2,1290.25,Sim
+IMV-0172,Apartamento,São Paulo,Zona Oeste,158,1,1,2176.78,Sim
+IMV-0173,Estúdio,Belo Horizonte,Zona Oeste,176,1,2,724.44,Sim
+IMV-0174,Apartamento,São Paulo,Zona Norte,106,3,2,4012.95,Não
+IMV-0175,Casa,Porto Alegre,Centro,71,1,2,4200.37,Não
+IMV-0176,Casa,Rio de Janeiro,Zona Leste,86,1,1,2367.83,Não
+IMV-0177,Estúdio,Salvador,Zona Oeste,43,1,2,3572.64,Sim
+IMV-0178,Casa,São Paulo,Zona Leste,162,3,1,3502.47,Sim
+IMV-0179,Casa,São Paulo,Centro,148,1,2,794.46,Não
+IMV-0180,Estúdio,Salvador,Zona Oeste,135,2,1,2740.3,Sim
+IMV-0181,Casa,São Paulo,Zona Leste,198,1,2,722.46,Não
+IMV-0182,Casa,Belo Horizonte,Zona Leste,124,4,1,3923.4,Sim
+IMV-0183,Apartamento,Belo Horizonte,Zona Oeste,71,4,2,4698.11,Não
+IMV-0184,Estúdio,Porto Alegre,Centro,272,4,2,522.77,Sim
+IMV-0185,Casa,Salvador,Zona Oeste,184,3,1,2943.74,Não
+IMV-0186,Estúdio,Belo Horizonte,Zona Norte,30,2,1,1320.6,Sim
+IMV-0187,Apartamento,Porto Alegre,Zona Norte,213,4,1,4468.74,Não
+IMV-0188,Casa,Porto Alegre,Zona Sul,242,1,2,3784.72,Não
+IMV-0189,Casa,Rio de Janeiro,Zona Oeste,146,2,1,3876.67,Não
+IMV-0190,Casa,Belo Horizonte,Zona Sul,48,3,1,2790.3,Não
+IMV-0191,Apartamento,Porto Alegre,Zona Sul,199,2,1,1794.7,Sim
+IMV-0192,Apartamento,Rio de Janeiro,Centro,45,4,2,2952.06,Sim
+IMV-0193,Apartamento,São Paulo,Zona Leste,129,2,2,3787.13,Sim
+IMV-0194,Estúdio,São Paulo,Zona Sul,39,2,2,4451.65,Não
+IMV-0195,Apartamento,Porto Alegre,Zona Leste,118,3,2,4892.36,Sim
+IMV-0196,Casa,Porto Alegre,Zona Oeste,49,3,1,783.83,Sim
+IMV-0197,Casa,São Paulo,Zona Norte,294,2,1,2427.47,Sim
+IMV-0198,Estúdio,Salvador,Centro,131,2,2,805.29,Não
+IMV-0199,Apartamento,Salvador,Zona Sul,175,2,1,4344.3,Não
+IMV-0200,Estúdio,Salvador,Zona Norte,82,3,2,928.46,Sim
+IMV-0201,Apartamento,Porto Alegre,Centro,216,2,1,670.72,Sim
+IMV-0202,Apartamento,Belo Horizonte,Zona Leste,133,3,2,4834.47,Não
+IMV-0203,Estúdio,Salvador,Zona Sul,216,2,1,4119.14,Sim
+IMV-0204,Casa,São Paulo,Zona Oeste,264,1,2,2354.58,Sim
+IMV-0205,Casa,Rio de Janeiro,Centro,225,1,1,4313.95,Não
+IMV-0206,Apartamento,Porto Alegre,Zona Sul,285,3,2,4460.44,Sim
+IMV-0207,Casa,São Paulo,Zona Sul,132,3,1,805.55,Sim
+IMV-0208,Estúdio,São Paulo,Zona Oeste,195,3,1,2725.95,Sim
+IMV-0209,Casa,São Paulo,Zona Sul,150,3,2,2867.51,Sim
+IMV-0210,Apartamento,Salvador,Zona Norte,276,2,1,3075.89,Sim
+IMV-0211,Casa,Rio de Janeiro,Zona Norte,147,2,2,4597.45,Não
+IMV-0212,Estúdio,Belo Horizonte,Zona Sul,92,4,1,1933.1,Sim
+IMV-0213,Apartamento,Porto Alegre,Zona Norte,87,2,1,2182.39,Sim
+IMV-0214,Apartamento,Salvador,Zona Leste,265,2,1,1668.68,Sim
+IMV-0215,Apartamento,Salvador,Zona Leste,270,1,2,3003.58,Sim
+IMV-0216,Apartamento,São Paulo,Centro,162,2,1,3058.84,Sim
+IMV-0217,Estúdio,Belo Horizonte,Zona Oeste,203,1,1,3093.93,Não
+IMV-0218,Estúdio,Salvador,Zona Leste,195,2,2,970.15,Sim
+IMV-0219,Estúdio,São Paulo,Zona Oeste,170,4,2,4969.19,Sim
+IMV-0220,Estúdio,Salvador,Zona Leste,210,2,1,1913.04,Sim
+IMV-0221,Casa,Salvador,Zona Leste,290,4,2,1490.28,Não
+IMV-0222,Apartamento,São Paulo,Zona Norte,249,3,1,876.94,Sim
+IMV-0223,Estúdio,Rio de Janeiro,Zona Sul,114,4,2,2351.67,Não
+IMV-0224,Casa,Salvador,Zona Norte,213,4,1,1909.84,Não
+IMV-0225,Estúdio,Porto Alegre,Zona Leste,30,2,2,3262.39,Não
+IMV-0226,Apartamento,Porto Alegre,Centro,89,3,2,2245.07,Não
+IMV-0227,Casa,Porto Alegre,Zona Norte,165,2,2,2736.34,Não
+IMV-0228,Casa,Rio de Janeiro,Centro,40,1,1,1854.32,Sim
+IMV-0229,Casa,Porto Alegre,Zona Oeste,77,4,2,3312.73,Sim
+IMV-0230,Estúdio,São Paulo,Zona Norte,202,2,1,1648.36,Sim
+IMV-0231,Apartamento,Belo Horizonte,Zona Norte,287,3,2,3376.7,Sim
+IMV-0232,Casa,Porto Alegre,Centro,188,4,1,3881.56,Não
+IMV-0233,Casa,Porto Alegre,Zona Sul,127,4,2,3144.6,Sim
+IMV-0234,Estúdio,Salvador,Zona Oeste,184,2,2,2635.82,Não
+IMV-0235,Apartamento,Belo Horizonte,Zona Oeste,221,3,2,1525.91,Não
+IMV-0236,Casa,Porto Alegre,Centro,231,2,2,859.85,Não
+IMV-0237,Apartamento,Porto Alegre,Zona Sul,123,4,2,2589.47,Não
+IMV-0238,Casa,Porto Alegre,Zona Oeste,68,1,1,4738.84,Sim
+IMV-0239,Apartamento,Belo Horizonte,Zona Oeste,40,1,1,2199.2,Não
+IMV-0240,Estúdio,Salvador,Centro,91,1,1,665.85,Não
+IMV-0241,Estúdio,São Paulo,Zona Oeste,36,1,1,2750.85,Não
+IMV-0242,Estúdio,São Paulo,Zona Sul,30,3,1,1938.91,Sim
+IMV-0243,Apartamento,Porto Alegre,Zona Norte,231,2,1,4471.4,Não
+IMV-0244,Casa,São Paulo,Zona Oeste,158,1,2,1561.24,Não
+IMV-0245,Apartamento,São Paulo,Zona Sul,42,2,1,858.03,Sim
+IMV-0246,Casa,Belo Horizonte,Centro,222,2,2,2475.1,Sim
+IMV-0247,Apartamento,Salvador,Zona Sul,242,1,1,860.95,Sim
+IMV-0248,Estúdio,Porto Alegre,Zona Oeste,211,4,2,3024.03,Sim
+IMV-0249,Apartamento,Porto Alegre,Zona Sul,43,4,1,4759.86,Não
+IMV-0250,Estúdio,São Paulo,Zona Leste,173,4,2,4419.76,Sim
+IMV-0251,Estúdio,São Paulo,Zona Leste,183,1,1,2204.21,Não
+IMV-0252,Casa,Belo Horizonte,Zona Oeste,188,4,2,2900.68,Sim
+IMV-0253,Casa,Salvador,Zona Oeste,154,2,2,2642.28,Não
+IMV-0254,Casa,Salvador,Zona Oeste,42,3,2,4567.73,Sim
+IMV-0255,Estúdio,Porto Alegre,Zona Sul,150,2,2,2568.07,Sim
+IMV-0256,Casa,São Paulo,Centro,162,2,1,4724.65,Sim
+IMV-0257,Casa,Salvador,Zona Sul,274,3,1,2645.62,Sim
+IMV-0258,Apartamento,Porto Alegre,Zona Norte,141,1,1,4154.94,Não
+IMV-0259,Estúdio,Salvador,Zona Leste,190,1,1,3841.68,Não
+IMV-0260,Apartamento,Salvador,Zona Leste,183,4,1,4649.33,Sim
+IMV-0261,Casa,Rio de Janeiro,Zona Sul,143,3,1,1209.74,Sim
+IMV-0262,Estúdio,Porto Alegre,Zona Sul,82,1,1,1469.37,Sim
+IMV-0263,Estúdio,Salvador,Zona Leste,157,4,1,1379.05,Sim
+IMV-0264,Apartamento,Porto Alegre,Zona Norte,75,4,2,1315.35,Não
+IMV-0265,Apartamento,Belo Horizonte,Zona Norte,232,2,2,1010.21,Não
+IMV-0266,Estúdio,São Paulo,Zona Leste,220,1,1,2365.67,Não
+IMV-0267,Estúdio,Porto Alegre,Zona Oeste,182,2,2,3318.19,Não
+IMV-0268,Casa,Porto Alegre,Zona Sul,215,3,1,1444.75,Não
+IMV-0269,Apartamento,Rio de Janeiro,Zona Norte,198,3,1,3422.16,Sim
+IMV-0270,Apartamento,Rio de Janeiro,Centro,245,2,2,3755.57,Não
+IMV-0271,Casa,Salvador,Zona Sul,172,3,1,904.17,Sim
+IMV-0272,Apartamento,Rio de Janeiro,Zona Norte,137,1,2,3088.64,Sim
+IMV-0273,Casa,São Paulo,Zona Sul,163,2,2,3177.12,Sim
+IMV-0274,Casa,Belo Horizonte,Zona Oeste,163,4,2,1059.59,Não
+IMV-0275,Apartamento,Porto Alegre,Centro,46,4,2,1113.18,Não
+IMV-0276,Apartamento,São Paulo,Centro,186,1,2,2705.81,Não
+IMV-0277,Casa,Salvador,Centro,166,2,1,1588.57,Sim
+IMV-0278,Apartamento,Belo Horizonte,Zona Sul,280,3,1,786.58,Sim
+IMV-0279,Estúdio,São Paulo,Zona Sul,170,1,1,2517.93,Não
+IMV-0280,Casa,São Paulo,Zona Sul,44,2,1,3554.53,Não
+IMV-0281,Estúdio,Salvador,Centro,44,2,2,729.36,Sim
+IMV-0282,Estúdio,Rio de Janeiro,Zona Norte,247,2,1,871.12,Não
+IMV-0283,Estúdio,Salvador,Zona Norte,239,4,2,3588.08,Sim
+IMV-0284,Estúdio,Belo Horizonte,Zona Leste,219,2,1,1029.63,Não
+IMV-0285,Casa,São Paulo,Zona Oeste,94,4,1,3317.23,Não
+IMV-0286,Casa,Porto Alegre,Zona Leste,52,4,1,4577.94,Sim
+IMV-0287,Apartamento,Salvador,Zona Leste,224,4,1,3110.89,Não
+IMV-0288,Casa,Rio de Janeiro,Zona Norte,30,3,1,3426.42,Sim
+IMV-0289,Casa,Salvador,Zona Oeste,285,1,1,4121.17,Não
+IMV-0290,Estúdio,Belo Horizonte,Zona Leste,80,3,1,3797.9,Não
+IMV-0291,Estúdio,Rio de Janeiro,Zona Norte,220,1,1,2824.77,Sim
+IMV-0292,Estúdio,Salvador,Zona Norte,249,1,2,1908.38,Não
+IMV-0293,Estúdio,Salvador,Zona Norte,266,1,1,1526.01,Sim
+IMV-0294,Estúdio,Salvador,Zona Oeste,115,4,1,4778.64,Não
+IMV-0295,Apartamento,Rio de Janeiro,Zona Leste,283,3,1,3383.76,Sim
+IMV-0296,Apartamento,Rio de Janeiro,Centro,98,4,2,584.86,Sim
+IMV-0297,Apartamento,Belo Horizonte,Zona Sul,229,1,2,2248.6,Não
+IMV-0298,Casa,Belo Horizonte,Zona Norte,227,1,1,3164.02,Não
+IMV-0299,Apartamento,Rio de Janeiro,Centro,266,4,1,1162.7,Sim
+IMV-0300,Casa,Porto Alegre,Zona Leste,294,1,2,4539.77,Sim
+IMV-0301,Apartamento,Rio de Janeiro,Centro,79,1,1,1776.89,Sim
+IMV-0302,Casa,Porto Alegre,Zona Leste,254,1,2,1082.69,Não
+IMV-0303,Casa,Salvador,Zona Oeste,274,3,1,3284.83,Sim
+IMV-0304,Casa,Salvador,Zona Norte,131,1,2,3103.84,Não
+IMV-0305,Estúdio,Salvador,Zona Norte,205,4,1,4850.36,Sim
+IMV-0306,Casa,São Paulo,Zona Norte,85,2,1,3998.96,Não
+IMV-0307,Estúdio,São Paulo,Zona Oeste,218,3,1,4818.33,Não
+IMV-0308,Casa,Rio de Janeiro,Zona Leste,226,2,2,4749.89,Sim
+IMV-0309,Estúdio,Belo Horizonte,Zona Norte,214,3,1,3965.07,Sim
+IMV-0310,Apartamento,Porto Alegre,Zona Leste,257,3,1,567.6,Sim
+IMV-0311,Apartamento,Belo Horizonte,Zona Oeste,167,1,1,3755.57,Não
+IMV-0312,Casa,São Paulo,Zona Leste,252,3,2,815.68,Não
+IMV-0313,Apartamento,Porto Alegre,Zona Oeste,50,1,1,1757.46,Não
+IMV-0314,Casa,São Paulo,Centro,292,3,2,1691.56,Não
+IMV-0315,Casa,Belo Horizonte,Zona Oeste,252,2,2,3493.79,Não
+IMV-0316,Casa,Rio de Janeiro,Zona Leste,243,4,1,4230.36,Sim
+IMV-0317,Casa,Belo Horizonte,Centro,34,3,1,704.04,Sim
+IMV-0318,Apartamento,Salvador,Zona Sul,33,2,1,2826.39,Sim
+IMV-0319,Casa,Salvador,Zona Oeste,137,3,2,1303.77,Sim
+IMV-0320,Apartamento,Salvador,Zona Oeste,35,1,2,4663.99,Sim
+IMV-0321,Apartamento,Salvador,Centro,218,4,2,2531.43,Não
+IMV-0322,Casa,Belo Horizonte,Zona Leste,178,2,2,2611.94,Não
+IMV-0323,Apartamento,Belo Horizonte,Zona Leste,96,4,1,4003.11,Sim
+IMV-0324,Casa,Porto Alegre,Zona Sul,184,2,2,2505.83,Sim
+IMV-0325,Casa,Belo Horizonte,Centro,133,4,2,759.6,Não
+IMV-0326,Estúdio,Porto Alegre,Zona Norte,150,3,1,1646.04,Sim
+IMV-0327,Apartamento,Belo Horizonte,Zona Oeste,254,3,1,2976.29,Sim
+IMV-0328,Apartamento,Rio de Janeiro,Zona Oeste,108,1,1,1751.46,Sim
+IMV-0329,Casa,Rio de Janeiro,Zona Leste,83,1,1,3570.48,Não
+IMV-0330,Estúdio,Salvador,Zona Sul,207,1,1,1319.14,Não
+IMV-0331,Casa,São Paulo,Zona Leste,258,2,1,3647.06,Sim
+IMV-0332,Apartamento,Porto Alegre,Zona Sul,280,3,2,2523.42,Sim
+IMV-0333,Apartamento,Salvador,Zona Oeste,231,2,1,3106.0,Sim
+IMV-0334,Casa,Salvador,Zona Oeste,69,1,1,2619.3,Não
+IMV-0335,Apartamento,Porto Alegre,Zona Sul,294,2,1,2769.72,Não
+IMV-0336,Apartamento,São Paulo,Zona Sul,230,4,1,2906.82,Não
+IMV-0337,Apartamento,Porto Alegre,Zona Oeste,189,3,2,645.25,Sim
+IMV-0338,Estúdio,Salvador,Zona Norte,45,4,2,1064.82,Sim
+IMV-0339,Casa,Salvador,Zona Leste,83,1,1,2971.13,Sim
+IMV-0340,Estúdio,São Paulo,Centro,97,4,2,3116.21,Sim
+IMV-0341,Casa,Porto Alegre,Zona Sul,156,1,1,4458.69,Não
+IMV-0342,Apartamento,Rio de Janeiro,Zona Norte,175,4,2,2853.2,Não
+IMV-0343,Estúdio,Porto Alegre,Centro,146,2,1,4312.78,Não
+IMV-0344,Casa,Rio de Janeiro,Zona Oeste,180,2,1,3006.89,Não
+IMV-0345,Estúdio,São Paulo,Zona Oeste,239,4,1,3619.19,Não
+IMV-0346,Apartamento,Belo Horizonte,Zona Oeste,116,3,2,1785.56,Não
+IMV-0347,Estúdio,Belo Horizonte,Zona Oeste,162,1,2,2665.2,Sim
+IMV-0348,Estúdio,Salvador,Zona Leste,158,1,1,3108.71,Sim
+IMV-0349,Casa,Porto Alegre,Centro,276,3,2,1289.0,Sim
+IMV-0350,Estúdio,Porto Alegre,Centro,166,3,2,2671.25,Não
+IMV-0351,Casa,São Paulo,Zona Sul,32,2,1,3901.91,Sim
+IMV-0352,Apartamento,Porto Alegre,Zona Sul,110,1,2,2371.23,Não
+IMV-0353,Estúdio,São Paulo,Zona Norte,130,2,2,1586.52,Não
+IMV-0354,Estúdio,Rio de Janeiro,Zona Leste,251,4,2,3831.73,Sim
+IMV-0355,Casa,Belo Horizonte,Zona Oeste,248,4,2,2564.2,Não
+IMV-0356,Apartamento,São Paulo,Zona Leste,113,2,2,602.98,Não
+IMV-0357,Casa,Rio de Janeiro,Zona Sul,70,1,1,2337.23,Não
+IMV-0358,Estúdio,Porto Alegre,Zona Norte,130,4,1,4856.39,Não
+IMV-0359,Apartamento,Porto Alegre,Centro,252,1,2,1377.72,Não
+IMV-0360,Estúdio,Belo Horizonte,Centro,299,3,1,4300.77,Sim
+IMV-0361,Casa,Rio de Janeiro,Zona Oeste,69,1,1,3383.68,Sim
+IMV-0362,Casa,Salvador,Centro,160,2,1,1383.63,Não
+IMV-0363,Casa,Porto Alegre,Zona Sul,107,4,2,2475.52,Sim
+IMV-0364,Apartamento,São Paulo,Centro,242,1,1,3598.46,Não
+IMV-0365,Casa,Porto Alegre,Zona Leste,170,1,1,1481.15,Não
+IMV-0366,Casa,São Paulo,Zona Leste,279,4,1,1625.52,Não
+IMV-0367,Casa,Rio de Janeiro,Zona Norte,139,1,2,1244.07,Não
+IMV-0368,Apartamento,São Paulo,Zona Sul,202,4,2,1115.29,Sim
+IMV-0369,Apartamento,São Paulo,Zona Sul,136,3,1,3700.09,Não
+IMV-0370,Estúdio,São Paulo,Zona Leste,90,2,1,1387.29,Sim
+IMV-0371,Apartamento,Salvador,Zona Oeste,147,2,1,2083.05,Não
+IMV-0372,Casa,Porto Alegre,Zona Sul,216,1,1,2464.08,Sim
+IMV-0373,Apartamento,São Paulo,Zona Norte,82,2,1,2427.4,Sim
+IMV-0374,Casa,Belo Horizonte,Zona Leste,286,4,1,841.67,Sim
+IMV-0375,Apartamento,Porto Alegre,Zona Leste,279,3,2,2841.09,Sim
+IMV-0376,Estúdio,Belo Horizonte,Zona Sul,64,2,1,4112.58,Não
+IMV-0377,Estúdio,São Paulo,Zona Norte,279,3,2,519.93,Não
+IMV-0378,Apartamento,Rio de Janeiro,Centro,174,1,2,854.36,Não
+IMV-0379,Estúdio,Porto Alegre,Zona Sul,244,3,2,4372.61,Não
+IMV-0380,Apartamento,Belo Horizonte,Zona Sul,172,1,2,1328.43,Sim
+IMV-0381,Casa,Belo Horizonte,Zona Oeste,42,3,1,4440.38,Sim
+IMV-0382,Estúdio,Porto Alegre,Zona Leste,297,1,2,3234.77,Sim
+IMV-0383,Apartamento,Rio de Janeiro,Zona Norte,35,2,1,3586.49,Não
+IMV-0384,Estúdio,São Paulo,Zona Leste,168,2,1,4706.39,Não
+IMV-0385,Casa,Rio de Janeiro,Zona Leste,86,1,1,3903.65,Não
+IMV-0386,Casa,São Paulo,Zona Norte,125,3,1,3820.84,Não
+IMV-0387,Apartamento,Rio de Janeiro,Centro,56,3,2,4490.1,Não
+IMV-0388,Estúdio,Porto Alegre,Zona Norte,65,4,2,4543.89,Sim
+IMV-0389,Estúdio,Salvador,Zona Oeste,143,3,1,2243.84,Sim
+IMV-0390,Estúdio,Belo Horizonte,Zona Norte,74,2,1,3900.56,Não
+IMV-0391,Estúdio,Porto Alegre,Zona Oeste,103,1,1,3527.8,Não
+IMV-0392,Apartamento,Porto Alegre,Zona Norte,106,2,2,1850.8,Sim
+IMV-0393,Casa,Rio de Janeiro,Zona Sul,171,1,1,906.74,Sim
+IMV-0394,Casa,São Paulo,Zona Norte,57,1,2,3662.06,Não
+IMV-0395,Casa,Rio de Janeiro,Zona Norte,242,2,1,2579.99,Sim
+IMV-0396,Apartamento,Salvador,Centro,61,1,1,1152.14,Não
+IMV-0397,Apartamento,São Paulo,Zona Oeste,78,3,2,2184.94,Sim
+IMV-0398,Casa,São Paulo,Zona Sul,46,3,1,4483.99,Não
+IMV-0399,Apartamento,Belo Horizonte,Zona Norte,100,4,2,3070.78,Não
+IMV-0400,Estúdio,Salvador,Zona Leste,112,2,2,3134.35,Não
+IMV-0401,Apartamento,Porto Alegre,Zona Norte,172,3,1,4062.18,Sim
+IMV-0402,Estúdio,Salvador,Zona Leste,177,2,1,2435.24,Não
+IMV-0403,Casa,Rio de Janeiro,Zona Norte,231,3,2,2640.38,Não
+IMV-0404,Estúdio,Porto Alegre,Centro,105,2,1,1427.09,Sim
+IMV-0405,Casa,São Paulo,Centro,61,2,2,702.55,Sim
+IMV-0406,Estúdio,Porto Alegre,Zona Leste,177,1,2,1449.61,Sim
+IMV-0407,Apartamento,Belo Horizonte,Zona Sul,259,1,1,900.59,Sim
+IMV-0408,Apartamento,Belo Horizonte,Zona Oeste,104,3,1,1910.99,Sim
+IMV-0409,Apartamento,Belo Horizonte,Centro,88,3,1,2075.48,Não
+IMV-0410,Casa,Porto Alegre,Zona Sul,248,3,1,2897.08,Não
+IMV-0411,Casa,Belo Horizonte,Zona Leste,286,4,2,3586.79,Sim
+IMV-0412,Estúdio,Rio de Janeiro,Zona Oeste,100,3,2,4799.78,Não
+IMV-0413,Estúdio,São Paulo,Zona Leste,231,4,2,535.78,Não
+IMV-0414,Apartamento,Rio de Janeiro,Centro,150,4,2,634.12,Não
+IMV-0415,Apartamento,Porto Alegre,Zona Norte,81,1,1,3965.42,Sim
+IMV-0416,Apartamento,Salvador,Zona Oeste,252,3,1,3085.08,Sim
+IMV-0417,Estúdio,Rio de Janeiro,Zona Oeste,45,2,2,3346.97,Não
+IMV-0418,Apartamento,Rio de Janeiro,Zona Leste,59,3,2,3032.08,Sim
+IMV-0419,Apartamento,Belo Horizonte,Zona Oeste,168,1,2,2027.73,Sim
+IMV-0420,Casa,São Paulo,Centro,266,3,1,4195.22,Sim
+IMV-0421,Estúdio,São Paulo,Zona Leste,49,3,2,4136.77,Sim
+IMV-0422,Estúdio,Porto Alegre,Zona Oeste,150,2,2,3189.23,Sim
+IMV-0423,Estúdio,São Paulo,Centro,98,2,2,3658.3,Não
+IMV-0424,Estúdio,São Paulo,Zona Oeste,58,1,1,3229.17,Sim
+IMV-0425,Estúdio,Belo Horizonte,Zona Leste,276,3,2,4742.18,Sim
+IMV-0426,Casa,Belo Horizonte,Zona Sul,243,1,1,835.34,Não
+IMV-0427,Casa,Porto Alegre,Centro,143,3,1,1163.56,Não
+IMV-0428,Estúdio,Rio de Janeiro,Zona Leste,57,1,1,2073.44,Não
+IMV-0429,Casa,São Paulo,Zona Norte,294,4,1,2499.16,Sim
+IMV-0430,Estúdio,São Paulo,Zona Leste,243,1,2,1491.49,Sim
+IMV-0431,Apartamento,Salvador,Zona Leste,254,3,1,2625.19,Não
+IMV-0432,Estúdio,Rio de Janeiro,Centro,252,3,2,4373.12,Sim
+IMV-0433,Estúdio,Belo Horizonte,Zona Norte,113,4,2,3957.38,Sim
+IMV-0434,Casa,Porto Alegre,Zona Sul,107,1,1,3883.21,Não
+IMV-0435,Apartamento,Salvador,Zona Norte,115,3,2,671.85,Sim
+IMV-0436,Estúdio,Porto Alegre,Centro,86,2,1,2707.78,Sim
+IMV-0437,Apartamento,Belo Horizonte,Zona Oeste,46,4,2,1908.73,Não
+IMV-0438,Estúdio,Porto Alegre,Zona Leste,272,4,2,4512.66,Não
+IMV-0439,Casa,Rio de Janeiro,Zona Oeste,173,3,1,2150.29,Não
+IMV-0440,Casa,Porto Alegre,Zona Sul,226,2,2,3100.61,Não
+IMV-0441,Apartamento,Porto Alegre,Zona Leste,89,1,2,4972.67,Não
+IMV-0442,Apartamento,São Paulo,Centro,79,3,1,3982.04,Não
+IMV-0443,Casa,Rio de Janeiro,Centro,282,3,1,1700.14,Sim
+IMV-0444,Apartamento,Salvador,Zona Norte,48,2,2,1237.4,Sim
+IMV-0445,Casa,São Paulo,Zona Sul,52,1,1,3600.39,Não
+IMV-0446,Casa,São Paulo,Zona Norte,197,2,1,3352.06,Não
+IMV-0447,Casa,Rio de Janeiro,Zona Oeste,104,2,2,4231.17,Não
+IMV-0448,Apartamento,São Paulo,Zona Oeste,31,4,2,2470.19,Sim
+IMV-0449,Estúdio,Rio de Janeiro,Centro,88,2,1,1553.98,Sim
+IMV-0450,Casa,Rio de Janeiro,Centro,154,3,2,4560.85,Não
+IMV-0451,Casa,São Paulo,Centro,67,3,1,1894.01,Sim
+IMV-0452,Estúdio,Belo Horizonte,Zona Sul,132,2,2,1573.9,Não
+IMV-0453,Estúdio,Porto Alegre,Zona Norte,177,2,2,1748.06,Sim
+IMV-0454,Estúdio,Belo Horizonte,Zona Sul,140,1,1,3407.05,Não
+IMV-0455,Casa,Belo Horizonte,Zona Norte,281,1,2,4067.51,Sim
+IMV-0456,Estúdio,Porto Alegre,Zona Leste,91,2,2,3935.99,Não
+IMV-0457,Apartamento,São Paulo,Zona Norte,217,4,2,942.1,Sim
+IMV-0458,Casa,Belo Horizonte,Zona Leste,84,3,2,1767.38,Não
+IMV-0459,Casa,Porto Alegre,Zona Leste,236,2,2,4197.55,Sim
+IMV-0460,Apartamento,Porto Alegre,Zona Norte,47,4,2,837.57,Sim
+IMV-0461,Casa,Rio de Janeiro,Zona Oeste,31,2,1,4784.06,Sim
+IMV-0462,Apartamento,Rio de Janeiro,Centro,31,4,2,4176.73,Sim
+IMV-0463,Apartamento,Rio de Janeiro,Zona Sul,226,2,2,1383.66,Sim
+IMV-0464,Apartamento,Salvador,Centro,120,1,1,2037.6,Sim
+IMV-0465,Estúdio,Salvador,Centro,208,4,2,4725.27,Não
+IMV-0466,Apartamento,Belo Horizonte,Zona Oeste,275,1,1,3591.82,Sim
+IMV-0467,Estúdio,Porto Alegre,Zona Norte,256,4,1,2912.31,Não
+IMV-0468,Estúdio,São Paulo,Zona Leste,145,2,2,4310.64,Não
+IMV-0469,Apartamento,São Paulo,Zona Oeste,299,2,2,2794.61,Sim
+IMV-0470,Casa,Belo Horizonte,Centro,48,1,2,3773.65,Sim
+IMV-0471,Estúdio,Porto Alegre,Centro,256,4,1,3614.53,Não
+IMV-0472,Casa,Belo Horizonte,Zona Sul,157,3,1,2571.94,Não
+IMV-0473,Casa,Salvador,Zona Norte,86,3,2,1115.08,Sim
+IMV-0474,Apartamento,Porto Alegre,Zona Sul,167,2,1,3289.12,Sim
+IMV-0475,Casa,Salvador,Zona Norte,298,4,1,857.02,Não
+IMV-0476,Casa,Porto Alegre,Centro,154,3,2,3806.85,Não
+IMV-0477,Estúdio,Belo Horizonte,Zona Oeste,234,4,1,3730.61,Sim
+IMV-0478,Casa,Rio de Janeiro,Centro,135,4,2,4609.56,Sim
+IMV-0479,Casa,Belo Horizonte,Zona Leste,106,4,1,4352.12,Não
+IMV-0480,Apartamento,Belo Horizonte,Zona Oeste,239,3,1,4534.28,Não
+IMV-0481,Estúdio,Porto Alegre,Zona Norte,60,3,1,4481.61,Sim
+IMV-0482,Casa,São Paulo,Zona Sul,207,2,2,4789.73,Não
+IMV-0483,Casa,Rio de Janeiro,Zona Sul,110,2,2,4834.65,Não
+IMV-0484,Casa,Porto Alegre,Zona Oeste,273,1,2,2589.4,Sim
+IMV-0485,Casa,Rio de Janeiro,Centro,130,2,1,798.29,Sim
+IMV-0486,Casa,São Paulo,Zona Sul,140,2,2,3122.95,Não
+IMV-0487,Apartamento,Porto Alegre,Zona Sul,104,4,2,4327.2,Sim
+IMV-0488,Casa,Salvador,Centro,114,2,1,3496.98,Não
+IMV-0489,Casa,Salvador,Zona Leste,69,3,1,2480.07,Sim
+IMV-0490,Casa,Salvador,Zona Norte,67,1,2,987.39,Sim
+IMV-0491,Estúdio,Rio de Janeiro,Zona Oeste,190,4,1,2398.76,Não
+IMV-0492,Apartamento,Salvador,Zona Oeste,190,3,2,3035.19,Sim
+IMV-0493,Estúdio,São Paulo,Zona Oeste,64,1,2,4694.37,Sim
+IMV-0494,Apartamento,São Paulo,Zona Oeste,230,1,1,4744.32,Sim
+IMV-0495,Estúdio,Porto Alegre,Zona Oeste,165,3,1,3282.89,Sim
+IMV-0496,Casa,Rio de Janeiro,Zona Leste,96,3,2,1840.15,Sim
+IMV-0497,Casa,Belo Horizonte,Zona Leste,100,1,1,1594.53,Não
+IMV-0498,Estúdio,Belo Horizonte,Centro,299,4,2,2596.23,Não
+IMV-0499,Apartamento,Rio de Janeiro,Zona Sul,173,1,2,1424.73,Não
+IMV-0500,Estúdio,Rio de Janeiro,Zona Norte,271,4,2,4619.63,Sim
+IMV-0501,Casa,Belo Horizonte,Zona Norte,201,3,1,2070.3,Sim
+IMV-0502,Estúdio,Salvador,Zona Oeste,169,1,2,1155.2,Sim
+IMV-0503,Apartamento,Porto Alegre,Zona Oeste,62,1,2,4308.63,Não
+IMV-0504,Estúdio,São Paulo,Centro,52,1,2,2257.51,Sim
+IMV-0505,Casa,Porto Alegre,Zona Norte,209,4,1,4973.55,Sim
+IMV-0506,Apartamento,São Paulo,Zona Oeste,293,4,2,3654.1,Sim
+IMV-0507,Estúdio,Salvador,Zona Sul,102,4,2,4340.63,Sim
+IMV-0508,Estúdio,Belo Horizonte,Zona Oeste,224,4,1,2462.94,Não
+IMV-0509,Estúdio,Porto Alegre,Centro,152,1,2,811.21,Não
+IMV-0510,Estúdio,Rio de Janeiro,Zona Leste,192,1,1,3504.68,Não
+IMV-0511,Casa,Belo Horizonte,Zona Norte,82,1,2,2442.53,Sim
+IMV-0512,Estúdio,Salvador,Zona Norte,203,1,2,1658.81,Não
+IMV-0513,Apartamento,Rio de Janeiro,Zona Leste,255,2,2,2610.04,Sim
+IMV-0514,Estúdio,Salvador,Zona Oeste,37,3,1,1338.62,Não
+IMV-0515,Estúdio,Salvador,Zona Norte,60,4,1,4281.02,Não
+IMV-0516,Estúdio,Belo Horizonte,Zona Sul,161,3,2,4865.17,Sim
+IMV-0517,Casa,Rio de Janeiro,Zona Leste,178,3,2,607.46,Sim
+IMV-0518,Casa,Rio de Janeiro,Zona Norte,275,3,1,2465.26,Sim
+IMV-0519,Casa,Porto Alegre,Zona Leste,122,3,1,4252.05,Sim
+IMV-0520,Apartamento,Belo Horizonte,Zona Sul,122,3,1,4983.77,Não
+IMV-0521,Apartamento,São Paulo,Zona Oeste,167,1,1,3521.01,Não
+IMV-0522,Casa,São Paulo,Zona Sul,270,2,1,1316.56,Não
+IMV-0523,Estúdio,Belo Horizonte,Zona Sul,52,1,2,4147.2,Sim
+IMV-0524,Casa,Belo Horizonte,Zona Oeste,47,4,1,1139.71,Não
+IMV-0525,Estúdio,São Paulo,Centro,124,3,2,2586.24,Não
+IMV-0526,Estúdio,Belo Horizonte,Zona Norte,178,3,2,4198.74,Não
+IMV-0527,Estúdio,São Paulo,Zona Norte,70,2,1,2115.96,Não
+IMV-0528,Apartamento,Rio de Janeiro,Zona Norte,281,1,1,2896.81,Sim
+IMV-0529,Apartamento,Porto Alegre,Zona Oeste,242,4,2,784.35,Sim
+IMV-0530,Apartamento,Belo Horizonte,Zona Norte,211,2,1,4925.46,Não
+IMV-0531,Casa,Belo Horizonte,Zona Sul,53,4,1,4960.76,Não
+IMV-0532,Estúdio,Salvador,Centro,201,2,2,4415.44,Sim
+IMV-0533,Apartamento,Salvador,Zona Norte,122,3,2,920.47,Não
+IMV-0534,Casa,Porto Alegre,Centro,185,1,2,3583.96,Não
+IMV-0535,Apartamento,Porto Alegre,Zona Leste,230,1,1,2809.07,Não
+IMV-0536,Apartamento,Salvador,Zona Sul,195,4,2,1025.9,Sim
+IMV-0537,Casa,São Paulo,Centro,276,2,1,2797.08,Sim
+IMV-0538,Estúdio,São Paulo,Zona Norte,293,2,2,3672.84,Sim
+IMV-0539,Apartamento,Belo Horizonte,Zona Oeste,40,1,1,1450.35,Não
+IMV-0540,Apartamento,São Paulo,Zona Leste,86,3,1,2765.57,Sim
+IMV-0541,Casa,Belo Horizonte,Zona Leste,283,4,2,4075.16,Não
+IMV-0542,Casa,Porto Alegre,Zona Sul,269,2,1,818.51,Não
+IMV-0543,Apartamento,Salvador,Zona Leste,200,3,2,1975.18,Não
+IMV-0544,Apartamento,Rio de Janeiro,Zona Norte,150,1,2,1998.19,Sim
+IMV-0545,Apartamento,São Paulo,Zona Sul,236,2,2,3117.88,Sim
+IMV-0546,Estúdio,São Paulo,Zona Norte,105,1,1,4227.74,Sim
+IMV-0547,Estúdio,Rio de Janeiro,Zona Oeste,104,3,1,1761.3,Sim
+IMV-0548,Estúdio,Salvador,Zona Leste,202,4,2,4326.75,Não
+IMV-0549,Casa,Porto Alegre,Centro,111,3,2,4421.02,Não
+IMV-0550,Casa,Belo Horizonte,Zona Oeste,140,3,2,4675.33,Sim
+IMV-0551,Casa,Rio de Janeiro,Centro,141,2,2,3398.69,Não
+IMV-0552,Apartamento,Porto Alegre,Zona Leste,88,3,2,2982.62,Sim
+IMV-0553,Apartamento,Rio de Janeiro,Zona Sul,35,1,2,2272.52,Sim
+IMV-0554,Apartamento,Salvador,Zona Leste,185,4,1,2499.17,Não
+IMV-0555,Apartamento,São Paulo,Zona Norte,261,2,1,4680.89,Não
+IMV-0556,Apartamento,Rio de Janeiro,Zona Sul,224,3,1,2756.47,Sim
+IMV-0557,Casa,São Paulo,Zona Sul,193,1,1,4729.63,Sim
+IMV-0558,Apartamento,Rio de Janeiro,Centro,262,1,1,4540.39,Não
+IMV-0559,Estúdio,São Paulo,Zona Norte,135,3,2,4433.6,Sim
+IMV-0560,Estúdio,Belo Horizonte,Zona Leste,99,2,1,1833.83,Não
+IMV-0561,Apartamento,Belo Horizonte,Zona Leste,100,3,2,1582.05,Não
+IMV-0562,Apartamento,Belo Horizonte,Zona Norte,214,4,1,3072.01,Não
+IMV-0563,Estúdio,Belo Horizonte,Centro,282,4,2,3559.83,Não
+IMV-0564,Casa,Rio de Janeiro,Zona Sul,231,1,2,1799.13,Sim
+IMV-0565,Apartamento,Belo Horizonte,Zona Norte,288,4,1,539.78,Não
+IMV-0566,Apartamento,São Paulo,Zona Norte,45,3,1,3151.64,Não
+IMV-0567,Casa,Porto Alegre,Centro,86,4,2,1725.19,Não
+IMV-0568,Casa,Porto Alegre,Zona Norte,226,2,2,1642.86,Não
+IMV-0569,Estúdio,Porto Alegre,Zona Oeste,206,4,1,900.05,Não
+IMV-0570,Apartamento,Belo Horizonte,Zona Sul,64,4,2,4997.68,Sim
+IMV-0571,Estúdio,Rio de Janeiro,Zona Norte,225,4,2,527.01,Sim
+IMV-0572,Apartamento,Belo Horizonte,Zona Oeste,144,3,1,2302.07,Não
+IMV-0573,Apartamento,Porto Alegre,Zona Norte,74,3,2,2389.09,Não
+IMV-0574,Estúdio,Rio de Janeiro,Zona Oeste,37,3,2,1167.26,Sim
+IMV-0575,Estúdio,Rio de Janeiro,Zona Leste,68,1,2,4662.79,Sim
+IMV-0576,Apartamento,São Paulo,Zona Leste,110,2,2,2363.21,Não
+IMV-0577,Apartamento,Salvador,Zona Oeste,80,1,2,3603.37,Sim
+IMV-0578,Apartamento,São Paulo,Zona Norte,202,3,1,4105.96,Sim
+IMV-0579,Estúdio,Porto Alegre,Centro,283,3,1,3344.36,Não
+IMV-0580,Casa,São Paulo,Zona Sul,47,3,1,2395.46,Não
+IMV-0581,Apartamento,Belo Horizonte,Zona Norte,192,1,1,1198.08,Não
+IMV-0582,Apartamento,Salvador,Zona Oeste,45,3,2,2046.56,Sim
+IMV-0583,Estúdio,Rio de Janeiro,Zona Norte,140,2,2,1203.78,Sim
+IMV-0584,Estúdio,Rio de Janeiro,Zona Oeste,266,1,1,1542.8,Sim
+IMV-0585,Estúdio,Porto Alegre,Centro,30,2,2,540.9,Sim
+IMV-0586,Casa,São Paulo,Centro,63,2,1,2209.85,Não
+IMV-0587,Casa,Salvador,Centro,226,4,1,2938.56,Não
+IMV-0588,Casa,Rio de Janeiro,Centro,129,1,2,1000.33,Sim
+IMV-0589,Casa,Salvador,Centro,241,3,1,4750.78,Não
+IMV-0590,Estúdio,Porto Alegre,Centro,63,3,2,2765.61,Sim
+IMV-0591,Apartamento,Porto Alegre,Zona Leste,275,2,2,3505.57,Sim
+IMV-0592,Apartamento,Porto Alegre,Zona Norte,47,2,1,3419.84,Não
+IMV-0593,Estúdio,Belo Horizonte,Zona Leste,85,4,2,793.07,Sim
+IMV-0594,Estúdio,Belo Horizonte,Zona Norte,273,3,2,4687.01,Não
+IMV-0595,Apartamento,Salvador,Zona Sul,213,1,2,4783.57,Não
+IMV-0596,Casa,Porto Alegre,Zona Oeste,179,3,2,1507.68,Sim
+IMV-0597,Apartamento,Rio de Janeiro,Zona Leste,181,2,2,2998.9,Sim
+IMV-0598,Apartamento,Belo Horizonte,Zona Sul,104,4,2,4983.11,Não
+IMV-0599,Casa,Salvador,Zona Norte,260,2,1,2605.35,Não
+IMV-0600,Casa,Porto Alegre,Zona Sul,109,1,1,1071.25,Sim
+IMV-0601,Casa,Salvador,Centro,239,3,2,2914.56,Sim
+IMV-0602,Estúdio,São Paulo,Centro,278,2,2,2940.68,Não
+IMV-0603,Apartamento,Porto Alegre,Centro,169,3,1,3296.6,Não
+IMV-0604,Casa,São Paulo,Zona Oeste,224,4,2,4476.6,Não
+IMV-0605,Estúdio,Belo Horizonte,Zona Sul,233,1,2,1544.1,Sim
+IMV-0606,Apartamento,São Paulo,Zona Oeste,285,4,1,1954.11,Sim
+IMV-0607,Estúdio,Porto Alegre,Zona Oeste,249,2,1,3905.57,Sim
+IMV-0608,Casa,Salvador,Zona Oeste,153,2,1,4508.69,Sim
+IMV-0609,Apartamento,Belo Horizonte,Zona Norte,157,1,1,3800.79,Não
+IMV-0610,Casa,Belo Horizonte,Zona Leste,101,3,2,1978.63,Sim
+IMV-0611,Casa,Salvador,Zona Oeste,249,2,1,1609.36,Não
+IMV-0612,Apartamento,Porto Alegre,Zona Sul,283,4,1,2929.31,Não
+IMV-0613,Estúdio,São Paulo,Zona Leste,76,1,2,4233.06,Não
+IMV-0614,Estúdio,Belo Horizonte,Zona Sul,125,2,2,4600.27,Sim
+IMV-0615,Apartamento,Belo Horizonte,Centro,240,4,1,558.95,Sim
+IMV-0616,Apartamento,São Paulo,Centro,284,3,2,4474.92,Sim
+IMV-0617,Estúdio,Salvador,Zona Sul,237,2,2,2069.56,Não
+IMV-0618,Estúdio,Porto Alegre,Zona Oeste,107,4,1,3520.16,Não
+IMV-0619,Apartamento,Rio de Janeiro,Zona Sul,259,4,2,1052.5,Sim
+IMV-0620,Estúdio,Rio de Janeiro,Zona Leste,279,2,2,1901.4,Sim
+IMV-0621,Apartamento,Salvador,Zona Oeste,83,3,1,3663.11,Sim
+IMV-0622,Apartamento,São Paulo,Zona Norte,205,3,1,2428.87,Sim
+IMV-0623,Casa,Belo Horizonte,Zona Sul,48,1,2,3156.61,Sim
+IMV-0624,Casa,São Paulo,Zona Sul,203,1,2,3122.33,Sim
+IMV-0625,Estúdio,Belo Horizonte,Zona Leste,72,4,2,1534.29,Sim
+IMV-0626,Apartamento,Belo Horizonte,Zona Oeste,170,2,2,4023.66,Sim
+IMV-0627,Casa,Rio de Janeiro,Centro,121,3,1,2081.41,Não
+IMV-0628,Apartamento,Rio de Janeiro,Zona Leste,193,1,1,2477.58,Não
+IMV-0629,Apartamento,São Paulo,Zona Norte,114,4,1,1454.76,Não
+IMV-0630,Estúdio,Rio de Janeiro,Zona Sul,204,2,2,3921.63,Sim
+IMV-0631,Estúdio,Belo Horizonte,Zona Oeste,88,4,2,1201.08,Não
+IMV-0632,Casa,São Paulo,Zona Sul,48,2,1,4062.09,Sim
+IMV-0633,Estúdio,Belo Horizonte,Zona Oeste,109,3,1,4378.92,Sim
+IMV-0634,Estúdio,Rio de Janeiro,Centro,252,1,2,752.66,Não
+IMV-0635,Casa,Rio de Janeiro,Zona Sul,151,2,2,4561.82,Sim
+IMV-0636,Casa,Salvador,Zona Leste,246,3,1,4694.59,Não
+IMV-0637,Estúdio,Porto Alegre,Zona Norte,121,4,2,4726.47,Sim
+IMV-0638,Apartamento,São Paulo,Zona Norte,63,1,2,4996.87,Não
+IMV-0639,Estúdio,Belo Horizonte,Zona Norte,154,2,2,1162.9,Sim
+IMV-0640,Estúdio,Belo Horizonte,Zona Leste,39,3,2,2798.8,Sim
+IMV-0641,Apartamento,Salvador,Zona Leste,121,3,2,1168.56,Sim
+IMV-0642,Casa,Porto Alegre,Zona Sul,209,3,2,1117.31,Não
+IMV-0643,Estúdio,Porto Alegre,Zona Norte,66,4,2,2214.28,Sim
+IMV-0644,Apartamento,São Paulo,Centro,221,1,1,2162.22,Sim
+IMV-0645,Casa,Salvador,Zona Sul,178,2,1,4478.22,Sim
+IMV-0646,Apartamento,Belo Horizonte,Zona Leste,133,2,2,701.53,Sim
+IMV-0647,Estúdio,Porto Alegre,Zona Oeste,189,1,1,3059.53,Não
+IMV-0648,Apartamento,Porto Alegre,Zona Leste,277,2,2,3234.08,Sim
+IMV-0649,Apartamento,Salvador,Centro,94,1,2,2870.67,Sim
+IMV-0650,Estúdio,Salvador,Zona Norte,219,2,2,918.16,Não
+IMV-0651,Casa,Belo Horizonte,Centro,60,3,2,564.44,Não
+IMV-0652,Estúdio,Rio de Janeiro,Zona Oeste,275,2,2,3367.54,Sim
+IMV-0653,Apartamento,São Paulo,Zona Leste,252,3,2,1994.39,Não
+IMV-0654,Apartamento,Porto Alegre,Centro,120,2,1,1335.77,Sim
+IMV-0655,Casa,Salvador,Centro,205,2,1,3207.66,Sim
+IMV-0656,Casa,Rio de Janeiro,Centro,99,1,1,3562.56,Sim
+IMV-0657,Apartamento,São Paulo,Zona Oeste,70,4,1,3728.04,Não
+IMV-0658,Casa,São Paulo,Zona Leste,277,2,2,1211.18,Não
+IMV-0659,Casa,São Paulo,Centro,242,1,1,996.16,Não
+IMV-0660,Casa,São Paulo,Zona Leste,93,1,2,1862.6,Não
+IMV-0661,Apartamento,Rio de Janeiro,Zona Oeste,33,1,2,3903.28,Não
+IMV-0662,Estúdio,Porto Alegre,Zona Sul,68,2,1,1407.08,Sim
+IMV-0663,Casa,São Paulo,Centro,75,4,2,3764.53,Não
+IMV-0664,Casa,São Paulo,Zona Sul,196,1,2,4153.63,Sim
+IMV-0665,Apartamento,Salvador,Zona Leste,115,3,2,4282.17,Não
+IMV-0666,Estúdio,Salvador,Zona Norte,97,1,1,4091.96,Não
+IMV-0667,Casa,Porto Alegre,Zona Sul,273,3,2,3910.4,Não
+IMV-0668,Apartamento,Porto Alegre,Zona Sul,181,2,2,4638.77,Não
+IMV-0669,Apartamento,Belo Horizonte,Centro,165,2,2,4933.69,Sim
+IMV-0670,Casa,Salvador,Zona Sul,38,3,1,998.15,Não
+IMV-0671,Estúdio,Porto Alegre,Zona Sul,40,1,1,2857.95,Não
+IMV-0672,Apartamento,Salvador,Zona Norte,228,2,1,669.16,Sim
+IMV-0673,Apartamento,São Paulo,Zona Norte,242,2,1,4287.32,Não
+IMV-0674,Apartamento,Rio de Janeiro,Zona Leste,156,2,1,1026.44,Sim
+IMV-0675,Estúdio,Salvador,Centro,290,3,2,974.33,Sim
+IMV-0676,Casa,Porto Alegre,Zona Leste,38,2,1,2514.14,Não
+IMV-0677,Casa,Rio de Janeiro,Zona Leste,119,2,1,2892.91,Não
+IMV-0678,Estúdio,Belo Horizonte,Zona Leste,197,1,1,4251.12,Sim
+IMV-0679,Estúdio,Belo Horizonte,Zona Leste,112,1,1,2247.82,Não
+IMV-0680,Apartamento,Salvador,Zona Norte,205,3,2,2783.49,Sim
+IMV-0681,Apartamento,Porto Alegre,Zona Leste,63,2,2,2705.68,Não
+IMV-0682,Apartamento,Porto Alegre,Centro,78,1,2,662.09,Sim
+IMV-0683,Casa,São Paulo,Zona Leste,142,2,1,4441.06,Não
+IMV-0684,Estúdio,São Paulo,Zona Oeste,168,4,2,753.94,Sim
+IMV-0685,Apartamento,Rio de Janeiro,Zona Sul,216,1,1,3035.0,Não
+IMV-0686,Apartamento,Rio de Janeiro,Zona Norte,213,2,2,4143.75,Sim
+IMV-0687,Apartamento,Belo Horizonte,Zona Norte,62,1,2,4136.99,Não
+IMV-0688,Casa,Porto Alegre,Zona Leste,177,1,1,1614.94,Sim
+IMV-0689,Casa,São Paulo,Zona Norte,293,3,1,517.04,Sim
+IMV-0690,Estúdio,Salvador,Centro,122,4,1,2143.14,Não
+IMV-0691,Casa,Rio de Janeiro,Centro,45,2,2,1323.43,Sim
+IMV-0692,Estúdio,Rio de Janeiro,Zona Sul,120,4,2,2529.09,Não
+IMV-0693,Apartamento,São Paulo,Zona Norte,180,1,1,4849.7,Não
+IMV-0694,Apartamento,São Paulo,Zona Oeste,46,1,2,3848.76,Não
+IMV-0695,Apartamento,Porto Alegre,Zona Oeste,275,4,2,2170.57,Sim
+IMV-0696,Apartamento,Salvador,Centro,207,3,2,3769.56,Sim
+IMV-0697,Apartamento,Rio de Janeiro,Zona Sul,271,2,2,1672.82,Não
+IMV-0698,Apartamento,Belo Horizonte,Centro,281,4,1,2878.21,Não
+IMV-0699,Casa,Rio de Janeiro,Centro,163,2,1,1229.72,Sim
+IMV-0700,Estúdio,Porto Alegre,Zona Norte,288,2,1,3093.92,Sim
+IMV-0701,Estúdio,Porto Alegre,Zona Sul,172,2,2,2687.95,Sim
+IMV-0702,Casa,Porto Alegre,Centro,30,1,2,4373.89,Sim
+IMV-0703,Estúdio,Salvador,Zona Oeste,62,3,2,4886.78,Não
+IMV-0704,Apartamento,Salvador,Centro,233,3,1,2081.17,Não
+IMV-0705,Casa,Belo Horizonte,Zona Oeste,160,2,2,2385.75,Sim
+IMV-0706,Estúdio,Rio de Janeiro,Zona Sul,127,4,1,4973.05,Não
+IMV-0707,Estúdio,Belo Horizonte,Zona Norte,215,1,2,753.25,Não
+IMV-0708,Casa,Salvador,Centro,141,4,1,4433.09,Sim
+IMV-0709,Apartamento,Rio de Janeiro,Zona Norte,146,4,1,3793.46,Não
+IMV-0710,Casa,Rio de Janeiro,Zona Norte,87,1,1,2858.07,Não
+IMV-0711,Casa,São Paulo,Centro,270,3,1,4118.72,Não
+IMV-0712,Estúdio,Rio de Janeiro,Zona Leste,234,4,2,4698.59,Sim
+IMV-0713,Casa,Belo Horizonte,Zona Oeste,97,2,1,2444.33,Sim
+IMV-0714,Estúdio,Belo Horizonte,Zona Norte,34,1,2,2189.08,Não
+IMV-0715,Estúdio,São Paulo,Zona Leste,235,3,1,2410.3,Não
+IMV-0716,Estúdio,Salvador,Zona Sul,275,1,2,3210.0,Não
+IMV-0717,Casa,São Paulo,Zona Oeste,174,2,1,4286.36,Não
+IMV-0718,Estúdio,Salvador,Zona Norte,272,4,1,4477.07,Sim
+IMV-0719,Estúdio,São Paulo,Zona Leste,191,4,2,2199.97,Não
+IMV-0720,Estúdio,Salvador,Zona Sul,217,4,2,3420.37,Sim
+IMV-0721,Apartamento,Rio de Janeiro,Centro,225,4,1,2834.29,Sim
+IMV-0722,Apartamento,Porto Alegre,Zona Leste,33,1,2,4410.0,Sim
+IMV-0723,Estúdio,Salvador,Zona Norte,202,2,1,2132.89,Sim
+IMV-0724,Apartamento,Salvador,Zona Oeste,32,3,1,4826.35,Não
+IMV-0725,Estúdio,Porto Alegre,Zona Oeste,265,2,1,845.66,Não
+IMV-0726,Casa,Salvador,Centro,127,1,1,814.95,Não
+IMV-0727,Apartamento,Salvador,Zona Sul,150,1,2,1371.76,Sim
+IMV-0728,Apartamento,São Paulo,Zona Oeste,178,2,2,4923.85,Não
+IMV-0729,Estúdio,Salvador,Zona Sul,197,1,2,2105.48,Não
+IMV-0730,Casa,Salvador,Zona Sul,144,1,1,1155.94,Sim
+IMV-0731,Apartamento,Porto Alegre,Zona Sul,228,4,1,4342.48,Sim
+IMV-0732,Estúdio,São Paulo,Zona Norte,47,1,2,1696.98,Não
+IMV-0733,Casa,Rio de Janeiro,Zona Leste,291,4,2,1790.72,Não
+IMV-0734,Estúdio,Salvador,Centro,272,1,2,850.65,Sim
+IMV-0735,Apartamento,Porto Alegre,Centro,203,4,1,3411.64,Não
+IMV-0736,Apartamento,Rio de Janeiro,Zona Norte,177,1,2,1811.48,Não
+IMV-0737,Estúdio,Belo Horizonte,Zona Oeste,147,1,1,4900.32,Não
+IMV-0738,Apartamento,Salvador,Zona Leste,132,4,2,1171.72,Sim
+IMV-0739,Casa,Salvador,Zona Leste,75,1,1,4959.25,Sim
+IMV-0740,Casa,Rio de Janeiro,Zona Norte,291,4,1,2565.61,Não
+IMV-0741,Estúdio,São Paulo,Zona Norte,116,3,1,1245.79,Sim
+IMV-0742,Estúdio,Rio de Janeiro,Zona Oeste,162,2,2,2843.25,Sim
+IMV-0743,Casa,Porto Alegre,Zona Oeste,146,2,1,1599.64,Sim
+IMV-0744,Estúdio,Belo Horizonte,Zona Sul,91,1,2,2519.74,Não
+IMV-0745,Estúdio,Belo Horizonte,Centro,148,2,1,950.07,Sim
+IMV-0746,Casa,Rio de Janeiro,Zona Leste,211,1,2,3912.77,Sim
+IMV-0747,Casa,São Paulo,Zona Sul,281,1,1,2367.46,Não
+IMV-0748,Apartamento,Porto Alegre,Zona Oeste,105,4,1,4823.04,Não
+IMV-0749,Casa,São Paulo,Zona Oeste,192,1,2,4853.79,Não
+IMV-0750,Casa,São Paulo,Zona Sul,182,2,1,679.53,Sim
+IMV-0751,Apartamento,Salvador,Zona Leste,274,1,2,4715.81,Não
+IMV-0752,Apartamento,Salvador,Zona Leste,41,4,1,2195.05,Não
+IMV-0753,Estúdio,Belo Horizonte,Zona Leste,172,1,1,3582.85,Sim
+IMV-0754,Apartamento,Porto Alegre,Zona Norte,50,1,1,4600.53,Não
+IMV-0755,Apartamento,Salvador,Zona Leste,230,1,2,3252.72,Não
+IMV-0756,Estúdio,Porto Alegre,Zona Oeste,57,4,1,1950.33,Sim
+IMV-0757,Estúdio,Rio de Janeiro,Zona Leste,196,4,2,1987.57,Sim
+IMV-0758,Estúdio,Porto Alegre,Zona Leste,155,1,2,3421.18,Sim
+IMV-0759,Apartamento,Salvador,Zona Sul,170,2,1,2181.3,Sim
+IMV-0760,Casa,Belo Horizonte,Zona Leste,284,3,2,711.33,Sim
+IMV-0761,Estúdio,Belo Horizonte,Zona Norte,116,1,1,1207.36,Não
+IMV-0762,Apartamento,São Paulo,Zona Sul,196,1,1,3727.24,Não
+IMV-0763,Estúdio,Belo Horizonte,Zona Oeste,228,2,2,1545.94,Não
+IMV-0764,Apartamento,São Paulo,Zona Sul,281,4,2,1003.08,Não
+IMV-0765,Casa,Salvador,Centro,120,3,2,4429.55,Sim
+IMV-0766,Apartamento,Porto Alegre,Zona Leste,33,4,2,549.58,Sim
+IMV-0767,Apartamento,Belo Horizonte,Zona Norte,277,1,1,1044.29,Sim
+IMV-0768,Estúdio,Salvador,Zona Sul,116,4,1,1404.35,Não
+IMV-0769,Apartamento,São Paulo,Centro,157,1,2,2824.88,Não
+IMV-0770,Casa,Belo Horizonte,Centro,93,1,1,3341.46,Não
+IMV-0771,Casa,Rio de Janeiro,Zona Leste,261,1,2,2153.32,Sim
+IMV-0772,Casa,Belo Horizonte,Zona Norte,69,4,1,4756.68,Não
+IMV-0773,Casa,Salvador,Centro,172,2,1,4587.39,Sim
+IMV-0774,Apartamento,Rio de Janeiro,Zona Norte,208,2,2,1134.58,Não
+IMV-0775,Apartamento,Salvador,Zona Oeste,293,1,1,1765.43,Sim
+IMV-0776,Casa,Salvador,Zona Leste,219,4,2,662.62,Não
+IMV-0777,Estúdio,São Paulo,Centro,185,4,2,4482.6,Não
+IMV-0778,Apartamento,Porto Alegre,Zona Norte,45,4,1,1066.37,Não
+IMV-0779,Casa,Porto Alegre,Zona Oeste,254,3,2,4004.47,Sim
+IMV-0780,Estúdio,Belo Horizonte,Zona Oeste,122,2,1,928.01,Sim
+IMV-0781,Casa,São Paulo,Zona Norte,235,2,2,4547.77,Não
+IMV-0782,Estúdio,São Paulo,Centro,183,2,1,2018.19,Sim
+IMV-0783,Casa,Belo Horizonte,Zona Sul,30,2,2,3127.58,Não
+IMV-0784,Apartamento,Salvador,Zona Oeste,31,4,2,4603.14,Não
+IMV-0785,Casa,Rio de Janeiro,Zona Leste,292,3,1,3303.1,Sim
+IMV-0786,Estúdio,Porto Alegre,Centro,98,3,2,3857.15,Não
+IMV-0787,Apartamento,Belo Horizonte,Centro,203,2,2,1415.17,Não
+IMV-0788,Apartamento,Belo Horizonte,Zona Leste,57,4,2,4369.05,Não
+IMV-0789,Casa,Rio de Janeiro,Zona Oeste,64,3,1,3197.5,Não
+IMV-0790,Apartamento,Salvador,Centro,100,2,1,3117.7,Não
+IMV-0791,Apartamento,São Paulo,Zona Norte,250,4,2,3138.7,Sim
+IMV-0792,Apartamento,Salvador,Zona Oeste,78,3,2,1862.62,Não
+IMV-0793,Casa,Porto Alegre,Centro,197,2,2,4613.32,Sim
+IMV-0794,Casa,Porto Alegre,Zona Norte,210,3,2,1345.96,Sim
+IMV-0795,Apartamento,Salvador,Zona Leste,281,1,1,3272.13,Não
+IMV-0796,Casa,São Paulo,Zona Sul,269,1,2,4067.39,Sim
+IMV-0797,Casa,Rio de Janeiro,Zona Oeste,197,1,2,4091.84,Sim
+IMV-0798,Estúdio,São Paulo,Zona Sul,256,2,1,3236.94,Não
+IMV-0799,Apartamento,Belo Horizonte,Zona Norte,223,1,1,973.29,Sim
+IMV-0800,Casa,Porto Alegre,Zona Norte,122,1,2,930.89,Não
+IMV-0801,Apartamento,São Paulo,Zona Norte,271,4,2,1685.39,Não
+IMV-0802,Casa,Salvador,Zona Norte,244,2,1,3188.97,Não
+IMV-0803,Apartamento,São Paulo,Zona Sul,167,2,2,2460.99,Sim
+IMV-0804,Estúdio,São Paulo,Zona Leste,181,2,2,1658.86,Não
+IMV-0805,Apartamento,Rio de Janeiro,Zona Sul,40,3,2,3920.76,Sim
+IMV-0806,Estúdio,Rio de Janeiro,Zona Sul,58,4,1,3575.87,Não
+IMV-0807,Apartamento,Belo Horizonte,Centro,299,1,1,1852.54,Sim
+IMV-0808,Estúdio,Porto Alegre,Zona Norte,42,2,1,2996.26,Sim
+IMV-0809,Casa,Porto Alegre,Zona Leste,175,2,1,1044.09,Sim
+IMV-0810,Estúdio,São Paulo,Zona Oeste,35,2,1,2457.66,Não
+IMV-0811,Apartamento,São Paulo,Centro,189,2,2,2115.95,Sim
+IMV-0812,Estúdio,Belo Horizonte,Zona Leste,269,3,1,2350.72,Não
+IMV-0813,Apartamento,Belo Horizonte,Zona Oeste,32,1,2,4167.84,Não
+IMV-0814,Estúdio,Porto Alegre,Zona Sul,146,3,2,1704.65,Sim
+IMV-0815,Apartamento,Belo Horizonte,Zona Oeste,85,4,2,4700.18,Não
+IMV-0816,Apartamento,São Paulo,Zona Norte,146,2,2,4038.71,Sim
+IMV-0817,Casa,Belo Horizonte,Zona Norte,227,4,2,2954.64,Não
+IMV-0818,Estúdio,São Paulo,Zona Norte,191,2,1,1072.77,Sim
+IMV-0819,Apartamento,São Paulo,Centro,162,3,2,3787.26,Sim
+IMV-0820,Estúdio,Salvador,Zona Oeste,169,1,1,4729.35,Não
+IMV-0821,Apartamento,São Paulo,Zona Norte,192,3,2,3933.12,Sim
+IMV-0822,Estúdio,Belo Horizonte,Zona Norte,159,1,2,2956.31,Sim
+IMV-0823,Estúdio,Salvador,Zona Oeste,289,1,1,2435.52,Sim
+IMV-0824,Casa,São Paulo,Centro,112,3,1,3460.57,Não
+IMV-0825,Apartamento,Salvador,Centro,281,4,2,546.96,Sim
+IMV-0826,Apartamento,São Paulo,Zona Leste,31,3,1,3352.43,Sim
+IMV-0827,Apartamento,Belo Horizonte,Centro,125,4,1,4495.64,Sim
+IMV-0828,Estúdio,Salvador,Centro,149,2,2,1364.22,Não
+IMV-0829,Apartamento,Salvador,Zona Oeste,89,4,1,1498.29,Sim
+IMV-0830,Apartamento,Belo Horizonte,Zona Oeste,290,3,2,2561.17,Não
+IMV-0831,Casa,Salvador,Zona Oeste,98,3,2,504.72,Não
+IMV-0832,Estúdio,Belo Horizonte,Zona Sul,67,2,1,4338.96,Não
+IMV-0833,Casa,Salvador,Zona Norte,205,2,2,4487.05,Não
+IMV-0834,Estúdio,Salvador,Centro,92,3,2,2063.91,Não
+IMV-0835,Apartamento,Belo Horizonte,Zona Leste,82,1,1,3797.1,Não
+IMV-0836,Estúdio,Salvador,Centro,163,3,2,2870.14,Não
+IMV-0837,Apartamento,Salvador,Zona Norte,76,3,2,1775.49,Não
+IMV-0838,Apartamento,Salvador,Zona Leste,251,1,1,3468.41,Não
+IMV-0839,Apartamento,São Paulo,Zona Norte,169,3,2,4437.97,Sim
+IMV-0840,Apartamento,Porto Alegre,Zona Leste,102,1,2,3325.24,Sim
+IMV-0841,Apartamento,Salvador,Zona Sul,97,3,1,4653.71,Sim
+IMV-0842,Apartamento,Salvador,Zona Oeste,95,2,1,3372.16,Não
+IMV-0843,Casa,Porto Alegre,Centro,60,3,1,3451.55,Sim
+IMV-0844,Estúdio,Salvador,Centro,220,2,2,4262.71,Não
+IMV-0845,Casa,Belo Horizonte,Zona Leste,108,3,2,3773.3,Sim
+IMV-0846,Estúdio,Salvador,Zona Norte,238,1,2,1620.49,Não
+IMV-0847,Apartamento,Belo Horizonte,Zona Leste,212,3,2,4621.14,Não
+IMV-0848,Estúdio,Rio de Janeiro,Zona Sul,256,4,1,4971.66,Não
+IMV-0849,Apartamento,Porto Alegre,Zona Leste,168,1,2,652.21,Sim
+IMV-0850,Apartamento,Porto Alegre,Zona Norte,212,2,1,864.65,Não
+IMV-0851,Casa,Belo Horizonte,Zona Leste,61,2,1,3609.16,Sim
+IMV-0852,Estúdio,Belo Horizonte,Zona Oeste,80,3,1,829.47,Sim
+IMV-0853,Apartamento,Salvador,Zona Norte,86,4,2,2375.59,Não
+IMV-0854,Estúdio,Porto Alegre,Centro,217,2,2,3572.1,Não
+IMV-0855,Casa,Salvador,Zona Norte,142,3,2,1170.84,Sim
+IMV-0856,Apartamento,Rio de Janeiro,Zona Leste,157,1,2,2709.22,Sim
+IMV-0857,Casa,São Paulo,Centro,221,1,1,4963.0,Não
+IMV-0858,Casa,Salvador,Zona Leste,148,4,1,3375.78,Não
+IMV-0859,Apartamento,Porto Alegre,Centro,255,3,2,3733.61,Não
+IMV-0860,Estúdio,Porto Alegre,Zona Sul,126,1,2,549.24,Não
+IMV-0861,Estúdio,Salvador,Zona Sul,63,3,2,4879.65,Não
+IMV-0862,Apartamento,Belo Horizonte,Zona Norte,258,1,1,2626.68,Não
+IMV-0863,Estúdio,Rio de Janeiro,Centro,277,4,2,2011.65,Não
+IMV-0864,Casa,Rio de Janeiro,Zona Sul,147,3,1,2552.17,Não
+IMV-0865,Casa,Belo Horizonte,Zona Oeste,55,1,1,3719.53,Não
+IMV-0866,Casa,Belo Horizonte,Zona Leste,231,3,1,1146.71,Não
+IMV-0867,Casa,Salvador,Zona Oeste,75,1,1,1902.8,Sim
+IMV-0868,Estúdio,Belo Horizonte,Zona Oeste,70,3,1,1981.64,Sim
+IMV-0869,Casa,São Paulo,Centro,266,3,1,2385.16,Não
+IMV-0870,Apartamento,Porto Alegre,Zona Leste,63,1,2,4835.81,Sim
+IMV-0871,Estúdio,Belo Horizonte,Zona Norte,116,1,1,3333.62,Sim
+IMV-0872,Apartamento,Rio de Janeiro,Zona Oeste,256,4,2,1049.25,Sim
+IMV-0873,Apartamento,São Paulo,Zona Norte,295,1,2,1970.81,Sim
+IMV-0874,Estúdio,Salvador,Centro,83,2,2,3577.33,Não
+IMV-0875,Casa,Rio de Janeiro,Zona Oeste,242,1,2,4330.09,Sim
+IMV-0876,Casa,Belo Horizonte,Zona Oeste,235,4,2,3924.36,Não
+IMV-0877,Apartamento,São Paulo,Zona Leste,241,2,1,2560.16,Sim
+IMV-0878,Apartamento,Salvador,Centro,181,3,1,3698.97,Não
+IMV-0879,Estúdio,Porto Alegre,Zona Sul,257,2,2,1560.05,Sim
+IMV-0880,Estúdio,Porto Alegre,Zona Norte,90,2,2,3781.4,Sim
+IMV-0881,Casa,Rio de Janeiro,Zona Leste,88,2,2,578.26,Sim
+IMV-0882,Casa,Belo Horizonte,Zona Sul,257,1,1,1478.36,Sim
+IMV-0883,Casa,São Paulo,Zona Oeste,285,4,2,4071.54,Sim
+IMV-0884,Casa,Porto Alegre,Zona Leste,265,3,1,2959.67,Não
+IMV-0885,Casa,Porto Alegre,Zona Leste,44,2,2,4233.06,Sim
+IMV-0886,Casa,São Paulo,Zona Oeste,240,2,2,2711.42,Sim
+IMV-0887,Estúdio,Salvador,Zona Leste,147,3,2,4005.18,Não
+IMV-0888,Estúdio,São Paulo,Zona Oeste,30,1,1,2442.39,Não
+IMV-0889,Casa,Salvador,Zona Oeste,126,2,1,3821.82,Não
+IMV-0890,Estúdio,São Paulo,Centro,258,1,1,4834.75,Sim
+IMV-0891,Apartamento,Belo Horizonte,Zona Oeste,189,1,2,3632.49,Não
+IMV-0892,Apartamento,São Paulo,Zona Sul,63,2,1,1326.19,Não
+IMV-0893,Estúdio,Salvador,Zona Norte,195,3,1,4254.69,Não
+IMV-0894,Estúdio,Belo Horizonte,Zona Leste,207,2,2,4003.46,Sim
+IMV-0895,Estúdio,São Paulo,Zona Oeste,69,3,2,1493.11,Não
+IMV-0896,Estúdio,Belo Horizonte,Zona Sul,271,3,2,4632.94,Não
+IMV-0897,Estúdio,Salvador,Zona Sul,278,3,2,2860.05,Sim
+IMV-0898,Apartamento,Belo Horizonte,Centro,176,2,2,2020.35,Não
+IMV-0899,Apartamento,São Paulo,Zona Sul,163,3,1,3205.31,Sim
+IMV-0900,Apartamento,São Paulo,Zona Sul,278,1,2,1957.6,Não
+IMV-0901,Apartamento,Rio de Janeiro,Zona Sul,270,3,2,4165.07,Sim
+IMV-0902,Apartamento,Rio de Janeiro,Zona Oeste,34,4,2,2788.61,Sim
+IMV-0903,Estúdio,Rio de Janeiro,Zona Leste,95,1,2,4625.87,Não
+IMV-0904,Estúdio,São Paulo,Zona Leste,201,3,2,4996.65,Não
+IMV-0905,Apartamento,Porto Alegre,Zona Oeste,223,3,1,2412.99,Sim
+IMV-0906,Casa,Porto Alegre,Zona Leste,265,4,2,4304.48,Não
+IMV-0907,Apartamento,Rio de Janeiro,Zona Sul,75,1,1,3518.03,Sim
+IMV-0908,Casa,Salvador,Centro,63,1,2,1967.12,Não
+IMV-0909,Estúdio,Salvador,Centro,230,1,1,3512.91,Sim
+IMV-0910,Estúdio,Porto Alegre,Zona Norte,205,3,1,1721.13,Não
+IMV-0911,Casa,Belo Horizonte,Zona Sul,149,2,1,1415.29,Não
+IMV-0912,Estúdio,Porto Alegre,Zona Sul,217,2,2,1522.26,Sim
+IMV-0913,Casa,São Paulo,Zona Sul,232,1,1,4815.46,Não
+IMV-0914,Casa,São Paulo,Zona Leste,226,2,1,1994.01,Sim
+IMV-0915,Estúdio,Belo Horizonte,Centro,117,4,1,3000.5,Não
+IMV-0916,Casa,Porto Alegre,Zona Leste,246,4,2,3998.07,Sim
+IMV-0917,Apartamento,Rio de Janeiro,Zona Sul,189,3,1,3522.19,Não
+IMV-0918,Estúdio,Belo Horizonte,Centro,222,1,2,2487.73,Sim
+IMV-0919,Apartamento,Belo Horizonte,Zona Norte,198,3,1,1015.51,Sim
+IMV-0920,Apartamento,Porto Alegre,Zona Sul,103,2,1,2851.81,Não
+IMV-0921,Casa,Salvador,Zona Leste,33,2,2,694.34,Não
+IMV-0922,Apartamento,Belo Horizonte,Zona Leste,217,4,1,4982.19,Sim
+IMV-0923,Apartamento,Belo Horizonte,Zona Leste,123,4,1,3037.87,Sim
+IMV-0924,Estúdio,São Paulo,Zona Leste,165,2,2,543.91,Não
+IMV-0925,Estúdio,Salvador,Zona Norte,35,1,2,3269.16,Sim
+IMV-0926,Apartamento,São Paulo,Zona Norte,262,1,1,2910.74,Sim
+IMV-0927,Apartamento,Belo Horizonte,Zona Oeste,211,1,2,4491.59,Sim
+IMV-0928,Estúdio,Belo Horizonte,Centro,58,3,1,4883.77,Não
+IMV-0929,Apartamento,São Paulo,Centro,242,4,1,1419.7,Sim
+IMV-0930,Estúdio,Porto Alegre,Zona Sul,240,3,1,1301.29,Não
+IMV-0931,Apartamento,Porto Alegre,Zona Sul,173,4,2,521.67,Não
+IMV-0932,Casa,Salvador,Zona Oeste,150,3,1,4680.06,Não
+IMV-0933,Estúdio,Rio de Janeiro,Zona Leste,65,2,1,4314.44,Não
+IMV-0934,Casa,Rio de Janeiro,Zona Leste,260,3,2,3686.39,Não
+IMV-0935,Casa,Porto Alegre,Zona Sul,217,4,2,1525.04,Não
+IMV-0936,Casa,São Paulo,Zona Oeste,248,3,2,509.31,Sim
+IMV-0937,Estúdio,São Paulo,Zona Norte,181,4,2,3593.87,Não
+IMV-0938,Casa,Belo Horizonte,Zona Oeste,85,2,1,3948.8,Não
+IMV-0939,Apartamento,Porto Alegre,Zona Sul,77,2,2,4550.44,Sim
+IMV-0940,Estúdio,Rio de Janeiro,Zona Leste,218,4,2,4521.44,Sim
+IMV-0941,Estúdio,Salvador,Zona Sul,32,3,2,927.18,Sim
+IMV-0942,Apartamento,Salvador,Zona Norte,131,2,2,4475.37,Sim
+IMV-0943,Apartamento,Porto Alegre,Zona Leste,92,3,2,1762.2,Sim
+IMV-0944,Apartamento,Belo Horizonte,Centro,139,3,1,4396.23,Não
+IMV-0945,Apartamento,Belo Horizonte,Zona Leste,135,4,2,720.54,Sim
+IMV-0946,Estúdio,Salvador,Zona Leste,83,1,2,2946.64,Não
+IMV-0947,Estúdio,Porto Alegre,Zona Leste,244,4,2,4659.99,Não
+IMV-0948,Casa,Porto Alegre,Zona Oeste,88,3,2,4738.66,Sim
+IMV-0949,Casa,Belo Horizonte,Zona Oeste,103,4,2,4684.42,Sim
+IMV-0950,Casa,Belo Horizonte,Zona Leste,260,3,1,3541.04,Sim
+IMV-0951,Apartamento,São Paulo,Zona Norte,208,4,2,3591.76,Não
+IMV-0952,Casa,Rio de Janeiro,Zona Sul,217,3,1,3548.36,Não
+IMV-0953,Estúdio,São Paulo,Zona Leste,56,1,2,2299.5,Não
+IMV-0954,Estúdio,São Paulo,Zona Sul,91,4,1,3971.89,Sim
+IMV-0955,Estúdio,São Paulo,Centro,135,4,1,2205.35,Sim
+IMV-0956,Apartamento,Belo Horizonte,Zona Leste,186,1,2,3034.17,Não
+IMV-0957,Casa,São Paulo,Zona Norte,84,3,2,2621.49,Não
+IMV-0958,Casa,Rio de Janeiro,Centro,211,1,2,1653.83,Não
+IMV-0959,Casa,Rio de Janeiro,Zona Norte,227,3,1,3920.33,Não
+IMV-0960,Apartamento,São Paulo,Centro,44,1,2,2770.96,Sim
+IMV-0961,Apartamento,Porto Alegre,Zona Norte,205,2,1,4931.32,Sim
+IMV-0962,Apartamento,Porto Alegre,Zona Oeste,193,4,1,1628.21,Sim
+IMV-0963,Apartamento,São Paulo,Centro,125,4,1,3952.26,Não
+IMV-0964,Apartamento,Belo Horizonte,Zona Sul,115,4,1,2992.43,Não
+IMV-0965,Apartamento,Belo Horizonte,Zona Oeste,33,4,1,2374.86,Sim
+IMV-0966,Estúdio,Salvador,Centro,263,3,1,4380.49,Não
+IMV-0967,Estúdio,Porto Alegre,Centro,175,3,1,1222.4,Não
+IMV-0968,Casa,Belo Horizonte,Zona Leste,281,2,2,991.31,Sim
+IMV-0969,Apartamento,Salvador,Zona Sul,194,3,2,1030.81,Não
+IMV-0970,Casa,Belo Horizonte,Zona Sul,112,3,2,4863.09,Não
+IMV-0971,Apartamento,Salvador,Zona Norte,35,3,1,4838.28,Sim
+IMV-0972,Estúdio,Rio de Janeiro,Zona Leste,35,3,2,2321.17,Sim
+IMV-0973,Apartamento,São Paulo,Zona Sul,178,1,2,2567.48,Sim
+IMV-0974,Estúdio,São Paulo,Zona Sul,110,3,2,1046.86,Sim
+IMV-0975,Casa,Salvador,Zona Sul,264,1,2,1557.3,Sim
+IMV-0976,Apartamento,Belo Horizonte,Centro,35,1,2,4213.22,Sim
+IMV-0977,Casa,Belo Horizonte,Zona Oeste,266,3,2,2912.86,Não
+IMV-0978,Casa,Belo Horizonte,Zona Sul,207,2,1,3814.5,Sim
+IMV-0979,Apartamento,Porto Alegre,Zona Leste,144,4,2,1932.77,Não
+IMV-0980,Estúdio,Salvador,Centro,31,2,1,4402.1,Não
+IMV-0981,Apartamento,Porto Alegre,Zona Sul,62,3,2,4774.1,Não
+IMV-0982,Casa,São Paulo,Zona Norte,46,3,2,559.02,Sim
+IMV-0983,Estúdio,São Paulo,Zona Sul,125,1,2,4229.18,Não
+IMV-0984,Estúdio,Salvador,Centro,95,4,1,2002.91,Sim
+IMV-0985,Estúdio,Salvador,Zona Oeste,210,3,1,4819.65,Não
+IMV-0986,Casa,São Paulo,Zona Norte,279,4,2,3136.97,Sim
+IMV-0987,Apartamento,Porto Alegre,Zona Norte,106,2,2,2184.81,Não
+IMV-0988,Casa,Rio de Janeiro,Centro,96,4,2,4985.65,Sim
+IMV-0989,Estúdio,Rio de Janeiro,Zona Sul,92,3,2,2337.78,Não
+IMV-0990,Estúdio,Rio de Janeiro,Zona Sul,244,2,2,2401.97,Não
+IMV-0991,Apartamento,Salvador,Zona Norte,195,1,1,2869.77,Sim
+IMV-0992,Apartamento,Belo Horizonte,Zona Oeste,246,1,2,1865.93,Não
+IMV-0993,Apartamento,Rio de Janeiro,Zona Norte,176,1,1,1314.42,Não
+IMV-0994,Apartamento,Salvador,Zona Norte,193,3,2,1076.23,Não
+IMV-0995,Estúdio,São Paulo,Zona Sul,250,4,1,4251.12,Não
+IMV-0996,Estúdio,São Paulo,Zona Oeste,129,1,2,1996.32,Não
+IMV-0997,Apartamento,Porto Alegre,Centro,101,4,2,3740.53,Não
+IMV-0998,Casa,São Paulo,Zona Sul,42,4,1,2509.42,Sim
+IMV-0999,Estúdio,Salvador,Zona Sul,75,3,1,3036.14,Sim
+IMV-1000,Apartamento,Rio de Janeiro,Zona Norte,131,3,1,1929.91,Sim
+IMV-1001,Estúdio,Porto Alegre,Zona Oeste,215,2,2,4575.42,Sim
+IMV-1002,Apartamento,Rio de Janeiro,Zona Norte,144,2,1,3833.85,Não
+IMV-1003,Estúdio,Porto Alegre,Zona Oeste,295,4,2,2147.95,Sim
+IMV-1004,Casa,Salvador,Zona Oeste,46,2,2,4307.27,Sim
+IMV-1005,Apartamento,Belo Horizonte,Zona Oeste,79,1,1,1947.51,Não
+IMV-1006,Apartamento,Rio de Janeiro,Zona Oeste,80,4,2,3013.17,Não
+IMV-1007,Apartamento,Salvador,Zona Oeste,150,4,2,1049.64,Não
+IMV-1008,Casa,Belo Horizonte,Zona Leste,56,4,1,2938.39,Sim
+IMV-1009,Casa,Rio de Janeiro,Zona Sul,47,4,1,2199.1,Não
+IMV-1010,Casa,Rio de Janeiro,Zona Norte,87,1,1,738.79,Sim
+IMV-1011,Apartamento,Rio de Janeiro,Zona Leste,184,3,2,1939.84,Sim
+IMV-1012,Apartamento,São Paulo,Zona Norte,214,1,1,2421.02,Não
+IMV-1013,Estúdio,Porto Alegre,Zona Leste,264,4,2,2443.77,Sim
+IMV-1014,Estúdio,Porto Alegre,Zona Leste,48,1,2,1842.24,Sim
+IMV-1015,Estúdio,Belo Horizonte,Centro,55,3,1,4257.78,Não
+IMV-1016,Apartamento,Belo Horizonte,Zona Norte,73,4,1,1415.1,Não
+IMV-1017,Apartamento,Porto Alegre,Centro,50,3,2,2922.21,Sim
+IMV-1018,Apartamento,Porto Alegre,Zona Leste,260,3,1,3667.36,Sim
+IMV-1019,Casa,São Paulo,Zona Leste,63,3,2,1720.04,Não
+IMV-1020,Casa,Porto Alegre,Zona Leste,207,4,1,3395.63,Sim
+IMV-1021,Estúdio,Porto Alegre,Zona Leste,104,1,1,879.66,Sim
+IMV-1022,Apartamento,Rio de Janeiro,Zona Sul,56,3,2,1769.58,Não
+IMV-1023,Apartamento,Porto Alegre,Centro,254,3,1,4604.36,Não
+IMV-1024,Estúdio,Belo Horizonte,Zona Oeste,148,2,2,1859.5,Não
+IMV-1025,Casa,Porto Alegre,Zona Sul,188,4,1,3547.93,Não
+IMV-1026,Apartamento,Porto Alegre,Zona Oeste,297,3,2,3899.96,Sim
+IMV-1027,Estúdio,Belo Horizonte,Zona Oeste,249,4,2,2319.78,Sim
+IMV-1028,Estúdio,Porto Alegre,Centro,201,2,2,2310.58,Sim
+IMV-1029,Apartamento,São Paulo,Zona Sul,260,3,2,2479.36,Não
+IMV-1030,Estúdio,Rio de Janeiro,Zona Oeste,79,1,1,2423.52,Não
+IMV-1031,Casa,Belo Horizonte,Zona Sul,33,3,1,1176.97,Não
+IMV-1032,Casa,Belo Horizonte,Zona Norte,261,1,2,740.03,Sim
+IMV-1033,Casa,Salvador,Zona Leste,78,3,1,3438.09,Sim
+IMV-1034,Apartamento,Salvador,Zona Leste,233,2,2,3426.54,Sim
+IMV-1035,Apartamento,Salvador,Zona Sul,216,4,1,1450.09,Não
+IMV-1036,Apartamento,São Paulo,Zona Sul,179,2,2,4749.75,Sim
+IMV-1037,Apartamento,Rio de Janeiro,Zona Oeste,210,2,1,3533.36,Não
+IMV-1038,Apartamento,Rio de Janeiro,Centro,240,2,2,3349.71,Não
+IMV-1039,Casa,Belo Horizonte,Zona Norte,69,1,1,2146.77,Não
+IMV-1040,Casa,Belo Horizonte,Centro,116,4,2,698.34,Não
+IMV-1041,Estúdio,Rio de Janeiro,Centro,123,1,2,4106.99,Não
+IMV-1042,Casa,Salvador,Centro,295,1,1,947.93,Não
+IMV-1043,Casa,Rio de Janeiro,Zona Leste,200,4,2,4951.52,Sim
+IMV-1044,Casa,São Paulo,Centro,193,4,1,2684.88,Sim
+IMV-1045,Estúdio,Belo Horizonte,Zona Leste,279,4,2,4261.65,Sim
+IMV-1046,Casa,Salvador,Zona Leste,260,2,1,2326.36,Sim
+IMV-1047,Estúdio,São Paulo,Zona Norte,222,3,2,944.52,Não
+IMV-1048,Estúdio,Belo Horizonte,Centro,45,3,1,1938.44,Sim
+IMV-1049,Apartamento,Belo Horizonte,Zona Norte,176,3,2,3376.83,Não
+IMV-1050,Apartamento,São Paulo,Zona Oeste,102,3,2,1361.15,Não
+IMV-1051,Apartamento,Belo Horizonte,Zona Sul,237,2,2,3381.82,Não
+IMV-1052,Casa,São Paulo,Zona Norte,108,4,2,2037.35,Sim
+IMV-1053,Estúdio,Porto Alegre,Centro,48,4,1,3336.13,Não
+IMV-1054,Casa,São Paulo,Zona Norte,199,3,1,842.05,Não
+IMV-1055,Casa,São Paulo,Zona Norte,146,3,2,904.76,Sim
+IMV-1056,Casa,São Paulo,Zona Sul,199,3,1,1491.17,Sim
+IMV-1057,Casa,São Paulo,Centro,166,2,2,1198.79,Não
+IMV-1058,Casa,Rio de Janeiro,Zona Norte,165,1,2,3451.85,Não
+IMV-1059,Estúdio,Belo Horizonte,Centro,297,2,2,3580.28,Sim
+IMV-1060,Estúdio,Salvador,Zona Norte,249,1,1,1718.59,Sim
+IMV-1061,Estúdio,São Paulo,Zona Leste,155,2,1,1982.62,Não
+IMV-1062,Apartamento,Rio de Janeiro,Zona Leste,187,1,1,4047.87,Não
+IMV-1063,Casa,Rio de Janeiro,Centro,282,3,2,2620.41,Não
+IMV-1064,Apartamento,Porto Alegre,Zona Norte,167,1,1,4211.74,Não
+IMV-1065,Casa,Belo Horizonte,Zona Norte,264,1,2,1483.26,Sim
+IMV-1066,Estúdio,Porto Alegre,Zona Norte,263,1,1,2101.77,Sim
+IMV-1067,Estúdio,Belo Horizonte,Zona Oeste,97,1,2,2144.99,Não
+IMV-1068,Apartamento,Belo Horizonte,Centro,161,1,1,2548.49,Sim
+IMV-1069,Estúdio,Porto Alegre,Zona Oeste,92,1,1,4016.42,Sim
+IMV-1070,Apartamento,Porto Alegre,Centro,234,2,1,3451.55,Sim
+IMV-1071,Casa,São Paulo,Zona Oeste,295,3,1,4692.51,Sim
+IMV-1072,Estúdio,Rio de Janeiro,Zona Sul,80,1,2,1747.47,Sim
+IMV-1073,Casa,Rio de Janeiro,Zona Sul,41,4,1,1856.13,Sim
+IMV-1074,Apartamento,Salvador,Zona Oeste,186,4,1,2694.7,Sim
+IMV-1075,Casa,Rio de Janeiro,Zona Norte,55,1,1,2677.47,Sim
+IMV-1076,Casa,Belo Horizonte,Zona Leste,194,4,2,1891.27,Sim
+IMV-1077,Apartamento,Porto Alegre,Centro,294,1,1,2441.71,Sim
+IMV-1078,Estúdio,Rio de Janeiro,Zona Sul,203,1,1,3794.9,Não
+IMV-1079,Estúdio,Salvador,Zona Norte,217,1,1,4758.26,Sim
+IMV-1080,Casa,Belo Horizonte,Zona Leste,101,2,2,739.2,Não
+IMV-1081,Apartamento,Salvador,Zona Norte,279,2,1,509.95,Sim
+IMV-1082,Apartamento,São Paulo,Zona Leste,292,3,2,2260.53,Não
+IMV-1083,Apartamento,São Paulo,Centro,230,2,1,1662.34,Não
+IMV-1084,Apartamento,Porto Alegre,Zona Oeste,201,4,2,3624.95,Sim
+IMV-1085,Estúdio,São Paulo,Zona Norte,183,2,1,1322.09,Não
+IMV-1086,Apartamento,Porto Alegre,Zona Sul,121,2,2,4068.01,Sim
+IMV-1087,Casa,Porto Alegre,Zona Leste,185,2,1,1050.69,Não
+IMV-1088,Estúdio,Porto Alegre,Zona Norte,202,3,2,2149.46,Não
+IMV-1089,Apartamento,Porto Alegre,Zona Sul,244,4,2,1714.95,Sim
+IMV-1090,Apartamento,Rio de Janeiro,Zona Norte,202,4,2,1178.12,Sim
+IMV-1091,Casa,Porto Alegre,Zona Norte,136,1,2,3694.65,Sim
+IMV-1092,Casa,Salvador,Zona Norte,217,2,2,1226.32,Não
+IMV-1093,Casa,Porto Alegre,Centro,70,1,1,3452.91,Não
+IMV-1094,Estúdio,Porto Alegre,Centro,110,4,2,3086.93,Sim
+IMV-1095,Estúdio,Belo Horizonte,Zona Norte,94,4,1,3045.67,Sim
+IMV-1096,Estúdio,São Paulo,Zona Oeste,270,2,2,815.61,Não
+IMV-1097,Casa,Porto Alegre,Zona Oeste,184,3,2,4026.03,Não
+IMV-1098,Apartamento,Porto Alegre,Centro,108,3,1,1500.44,Sim
+IMV-1099,Casa,Belo Horizonte,Zona Sul,133,3,1,2104.88,Sim
+IMV-1100,Casa,Porto Alegre,Zona Sul,95,4,2,3827.53,Sim
+IMV-1101,Casa,Belo Horizonte,Zona Norte,46,3,2,3083.67,Sim
+IMV-1102,Estúdio,Porto Alegre,Zona Sul,89,3,1,3543.98,Não
+IMV-1103,Casa,Rio de Janeiro,Zona Sul,48,3,2,2438.2,Sim
+IMV-1104,Apartamento,Belo Horizonte,Zona Norte,171,4,1,1920.1,Não
+IMV-1105,Apartamento,São Paulo,Centro,141,1,1,4074.45,Não
+IMV-1106,Estúdio,Rio de Janeiro,Zona Leste,83,4,2,4681.09,Sim
+IMV-1107,Apartamento,Porto Alegre,Zona Oeste,111,2,2,1153.66,Sim
+IMV-1108,Apartamento,Rio de Janeiro,Zona Oeste,191,1,2,4786.08,Não
+IMV-1109,Apartamento,Porto Alegre,Zona Sul,183,1,1,2441.34,Sim
+IMV-1110,Estúdio,Belo Horizonte,Zona Norte,276,3,1,1047.17,Não
+IMV-1111,Apartamento,Belo Horizonte,Zona Sul,60,2,2,3204.46,Não
+IMV-1112,Casa,Porto Alegre,Zona Leste,84,3,1,1737.9,Sim
+IMV-1113,Estúdio,Belo Horizonte,Zona Leste,51,2,2,4136.63,Sim
+IMV-1114,Apartamento,Rio de Janeiro,Zona Sul,233,3,1,703.23,Não
+IMV-1115,Casa,São Paulo,Zona Oeste,209,4,1,4469.41,Sim
+IMV-1116,Casa,Porto Alegre,Zona Norte,154,4,2,2706.95,Não
+IMV-1117,Estúdio,São Paulo,Zona Norte,52,2,2,1211.81,Não
+IMV-1118,Casa,Belo Horizonte,Zona Sul,117,1,2,1468.32,Sim
+IMV-1119,Estúdio,Salvador,Zona Oeste,95,1,2,1902.54,Não
+IMV-1120,Apartamento,Salvador,Zona Norte,266,4,2,662.54,Sim
+IMV-1121,Casa,Belo Horizonte,Centro,73,1,1,4974.3,Sim
+IMV-1122,Apartamento,Porto Alegre,Zona Oeste,167,2,2,3059.77,Sim
+IMV-1123,Estúdio,Salvador,Centro,155,2,1,1326.53,Não
+IMV-1124,Casa,Rio de Janeiro,Zona Norte,249,4,2,4107.16,Não
+IMV-1125,Casa,Porto Alegre,Centro,261,3,1,1039.83,Não
+IMV-1126,Apartamento,Salvador,Centro,110,1,1,779.99,Sim
+IMV-1127,Casa,Belo Horizonte,Zona Leste,231,3,1,1772.93,Sim
+IMV-1128,Casa,Belo Horizonte,Centro,241,4,1,4742.22,Sim
+IMV-1129,Casa,Porto Alegre,Zona Norte,86,2,2,2491.38,Não
+IMV-1130,Apartamento,São Paulo,Zona Norte,46,2,2,4377.39,Não
+IMV-1131,Estúdio,Belo Horizonte,Zona Leste,207,2,1,784.44,Sim
+IMV-1132,Apartamento,Rio de Janeiro,Zona Sul,56,2,2,1299.23,Sim
+IMV-1133,Casa,Porto Alegre,Zona Leste,199,2,1,1607.33,Não
+IMV-1134,Apartamento,Belo Horizonte,Zona Norte,199,3,2,3492.76,Não
+IMV-1135,Casa,Salvador,Zona Sul,235,2,1,1396.06,Não
+IMV-1136,Estúdio,Salvador,Zona Sul,253,4,1,4955.95,Sim
+IMV-1137,Apartamento,Porto Alegre,Zona Leste,261,4,1,2999.57,Sim
+IMV-1138,Apartamento,Rio de Janeiro,Centro,148,1,2,4199.75,Sim
+IMV-1139,Apartamento,Porto Alegre,Zona Leste,105,1,2,2055.36,Sim
+IMV-1140,Casa,Rio de Janeiro,Zona Norte,92,4,2,4205.39,Sim
+IMV-1141,Casa,Belo Horizonte,Centro,258,2,2,1574.3,Sim
+IMV-1142,Apartamento,São Paulo,Zona Leste,145,3,1,3946.76,Sim
+IMV-1143,Casa,Belo Horizonte,Centro,280,3,2,3172.87,Não
+IMV-1144,Estúdio,Belo Horizonte,Centro,211,3,2,4716.31,Sim
+IMV-1145,Estúdio,Salvador,Centro,206,4,1,4737.09,Sim
+IMV-1146,Casa,Salvador,Centro,151,2,2,1602.21,Sim
+IMV-1147,Apartamento,São Paulo,Zona Leste,287,2,2,740.19,Não
+IMV-1148,Casa,Belo Horizonte,Zona Norte,218,2,1,4182.68,Sim
+IMV-1149,Estúdio,Salvador,Zona Sul,175,3,1,4266.16,Sim
+IMV-1150,Estúdio,Belo Horizonte,Zona Oeste,112,4,1,989.34,Não
+IMV-1151,Apartamento,São Paulo,Centro,42,2,1,3435.42,Não
+IMV-1152,Casa,Rio de Janeiro,Centro,256,1,2,4217.48,Sim
+IMV-1153,Apartamento,Porto Alegre,Centro,89,1,1,2909.64,Sim
+IMV-1154,Estúdio,Salvador,Zona Oeste,50,1,2,3564.16,Não
+IMV-1155,Apartamento,Rio de Janeiro,Zona Oeste,240,1,2,1286.92,Não
+IMV-1156,Casa,Salvador,Zona Sul,64,1,2,1698.69,Sim
+IMV-1157,Apartamento,Belo Horizonte,Zona Norte,280,2,2,2413.86,Não
+IMV-1158,Casa,Porto Alegre,Zona Sul,221,3,2,3349.2,Sim
+IMV-1159,Apartamento,São Paulo,Zona Leste,235,4,2,4513.49,Sim
+IMV-1160,Apartamento,Belo Horizonte,Centro,101,3,1,4096.61,Sim
+IMV-1161,Estúdio,Rio de Janeiro,Zona Leste,67,2,2,3926.86,Sim
+IMV-1162,Estúdio,São Paulo,Centro,191,1,1,2496.48,Sim
+IMV-1163,Casa,Rio de Janeiro,Zona Sul,76,3,1,2823.31,Não
+IMV-1164,Estúdio,Salvador,Centro,81,4,1,3806.46,Não
+IMV-1165,Casa,Porto Alegre,Centro,188,2,1,4334.48,Sim
+IMV-1166,Estúdio,Rio de Janeiro,Zona Oeste,277,4,2,4014.47,Não
+IMV-1167,Casa,Salvador,Zona Leste,172,4,2,3605.57,Sim
+IMV-1168,Apartamento,São Paulo,Zona Norte,269,4,1,1723.33,Sim
+IMV-1169,Estúdio,Porto Alegre,Zona Leste,177,1,2,4984.28,Sim
+IMV-1170,Apartamento,Belo Horizonte,Centro,158,2,2,2313.43,Sim
+IMV-1171,Apartamento,Porto Alegre,Zona Sul,154,4,2,4858.38,Não
+IMV-1172,Estúdio,Rio de Janeiro,Zona Leste,106,2,2,4195.49,Não
+IMV-1173,Casa,Salvador,Zona Sul,31,1,1,2757.68,Não
+IMV-1174,Casa,Belo Horizonte,Zona Leste,48,4,2,3865.67,Sim
+IMV-1175,Estúdio,Belo Horizonte,Zona Sul,173,2,2,2581.32,Sim
+IMV-1176,Estúdio,Porto Alegre,Zona Norte,116,3,2,2043.47,Não
+IMV-1177,Casa,Salvador,Zona Oeste,161,3,1,4857.62,Não
+IMV-1178,Apartamento,Belo Horizonte,Zona Sul,267,1,2,1329.7,Não
+IMV-1179,Apartamento,Belo Horizonte,Zona Oeste,75,1,2,2824.56,Não
+IMV-1180,Apartamento,Rio de Janeiro,Zona Norte,253,3,1,4669.37,Sim
+IMV-1181,Apartamento,Salvador,Zona Oeste,69,2,1,4801.59,Não
+IMV-1182,Casa,Porto Alegre,Centro,131,4,2,4194.59,Não
+IMV-1183,Estúdio,Rio de Janeiro,Zona Norte,181,2,1,4159.42,Não
+IMV-1184,Casa,Salvador,Zona Sul,112,3,1,3583.32,Sim
+IMV-1185,Estúdio,Belo Horizonte,Zona Norte,107,1,2,2696.57,Não
+IMV-1186,Casa,Belo Horizonte,Zona Oeste,35,2,1,2775.09,Não
+IMV-1187,Estúdio,Rio de Janeiro,Zona Leste,135,3,1,3526.26,Sim
+IMV-1188,Estúdio,Rio de Janeiro,Centro,267,2,1,4021.74,Sim
+IMV-1189,Casa,Salvador,Centro,171,3,2,3043.27,Não
+IMV-1190,Estúdio,Salvador,Zona Norte,170,4,1,2096.44,Não
+IMV-1191,Casa,Porto Alegre,Zona Oeste,78,4,2,4989.13,Não
+IMV-1192,Casa,Salvador,Centro,167,1,1,2485.9,Não
+IMV-1193,Apartamento,São Paulo,Zona Norte,239,4,2,3345.88,Não
+IMV-1194,Apartamento,Belo Horizonte,Zona Sul,196,3,2,4366.86,Não
+IMV-1195,Casa,Rio de Janeiro,Zona Oeste,267,1,2,1766.52,Não
+IMV-1196,Casa,São Paulo,Zona Norte,124,2,1,617.67,Não
+IMV-1197,Apartamento,São Paulo,Zona Leste,59,1,1,3421.93,Sim
+IMV-1198,Estúdio,Porto Alegre,Centro,58,3,2,523.92,Não
+IMV-1199,Estúdio,Rio de Janeiro,Zona Sul,158,4,2,4041.61,Sim
+IMV-1200,Estúdio,Porto Alegre,Zona Sul,115,4,2,1359.78,Não
+IMV-1201,Casa,Porto Alegre,Zona Norte,167,1,1,3438.1,Não
+IMV-1202,Apartamento,Rio de Janeiro,Zona Sul,236,4,1,2282.24,Sim
+IMV-1203,Casa,São Paulo,Zona Oeste,220,4,2,2018.98,Sim
+IMV-1204,Casa,Porto Alegre,Centro,105,4,2,4309.79,Não
+IMV-1205,Apartamento,Porto Alegre,Zona Sul,60,2,2,3722.35,Não
+IMV-1206,Casa,Belo Horizonte,Zona Norte,245,4,2,3931.17,Sim
+IMV-1207,Casa,São Paulo,Zona Norte,239,3,1,4149.78,Sim
+IMV-1208,Casa,Porto Alegre,Zona Norte,117,4,1,2718.94,Sim
+IMV-1209,Estúdio,Belo Horizonte,Zona Norte,109,2,2,1096.32,Sim
+IMV-1210,Apartamento,Salvador,Zona Sul,214,1,2,2231.7,Não
+IMV-1211,Estúdio,São Paulo,Zona Sul,161,2,1,1562.08,Não
+IMV-1212,Casa,Rio de Janeiro,Zona Oeste,292,1,1,2285.08,Sim
+IMV-1213,Estúdio,Belo Horizonte,Zona Sul,133,2,1,1116.25,Não
+IMV-1214,Estúdio,São Paulo,Zona Sul,135,4,2,4232.83,Não
+IMV-1215,Casa,Porto Alegre,Zona Sul,272,2,1,3808.21,Não
+IMV-1216,Estúdio,Rio de Janeiro,Centro,277,1,1,2867.72,Sim
+IMV-1217,Casa,Rio de Janeiro,Zona Leste,297,1,2,2631.6,Sim
+IMV-1218,Apartamento,Porto Alegre,Zona Sul,188,2,1,817.04,Sim
+IMV-1219,Casa,São Paulo,Zona Leste,231,4,2,3401.5,Não
+IMV-1220,Casa,Porto Alegre,Zona Sul,126,4,2,2976.03,Não
+IMV-1221,Apartamento,São Paulo,Zona Oeste,215,4,1,4171.48,Não
+IMV-1222,Casa,Porto Alegre,Zona Oeste,78,1,2,3973.02,Sim
+IMV-1223,Apartamento,Rio de Janeiro,Zona Oeste,58,4,2,3148.79,Não
+IMV-1224,Estúdio,Belo Horizonte,Zona Norte,162,4,2,761.06,Sim
+IMV-1225,Casa,Salvador,Zona Leste,155,4,1,3201.22,Sim
+IMV-1226,Apartamento,Rio de Janeiro,Zona Leste,241,2,2,1135.18,Não
+IMV-1227,Estúdio,Salvador,Zona Oeste,234,3,1,1248.67,Não
+IMV-1228,Apartamento,Belo Horizonte,Zona Oeste,278,4,1,1822.63,Sim
+IMV-1229,Casa,São Paulo,Zona Leste,227,3,2,3087.32,Sim
+IMV-1230,Apartamento,Rio de Janeiro,Zona Sul,98,1,1,2186.45,Sim
+IMV-1231,Apartamento,Belo Horizonte,Zona Sul,295,2,2,1799.18,Não
+IMV-1232,Casa,Belo Horizonte,Zona Sul,288,2,1,3948.53,Não
+IMV-1233,Estúdio,Belo Horizonte,Zona Oeste,253,4,2,4504.2,Sim
+IMV-1234,Casa,Belo Horizonte,Zona Oeste,260,4,1,524.7,Sim
+IMV-1235,Estúdio,Porto Alegre,Zona Norte,131,4,1,1033.2,Não
+IMV-1236,Apartamento,São Paulo,Zona Norte,201,3,1,4360.24,Não
+IMV-1237,Casa,Porto Alegre,Zona Oeste,153,3,1,2647.09,Não
+IMV-1238,Estúdio,São Paulo,Zona Norte,52,2,2,2190.1,Não
+IMV-1239,Apartamento,São Paulo,Zona Norte,298,4,1,847.59,Sim
+IMV-1240,Apartamento,Salvador,Zona Leste,38,2,1,838.62,Sim
+IMV-1241,Apartamento,Rio de Janeiro,Zona Leste,242,1,2,1836.8,Não
+IMV-1242,Casa,Rio de Janeiro,Centro,294,4,1,3715.46,Não
+IMV-1243,Estúdio,Salvador,Zona Sul,49,2,2,1809.01,Sim
+IMV-1244,Casa,Porto Alegre,Zona Sul,200,1,1,4493.51,Sim
+IMV-1245,Estúdio,Porto Alegre,Zona Oeste,171,2,2,3229.72,Sim
+IMV-1246,Casa,Salvador,Zona Sul,211,3,2,1567.75,Sim
+IMV-1247,Estúdio,São Paulo,Zona Sul,240,2,1,1694.72,Sim
+IMV-1248,Estúdio,Porto Alegre,Centro,263,2,2,2251.96,Não
+IMV-1249,Apartamento,Belo Horizonte,Zona Norte,224,2,2,4775.95,Sim
+IMV-1250,Casa,Belo Horizonte,Centro,74,2,1,3987.14,Sim
+IMV-1251,Estúdio,Rio de Janeiro,Zona Sul,257,2,2,3838.71,Sim
+IMV-1252,Estúdio,Belo Horizonte,Zona Oeste,62,4,1,1748.15,Sim
+IMV-1253,Estúdio,Porto Alegre,Zona Norte,299,3,2,2199.44,Não
+IMV-1254,Estúdio,Porto Alegre,Zona Leste,99,2,1,1705.83,Não
+IMV-1255,Estúdio,Rio de Janeiro,Zona Sul,178,2,2,3392.09,Não
+IMV-1256,Estúdio,Rio de Janeiro,Zona Leste,36,3,2,4655.04,Não
+IMV-1257,Casa,São Paulo,Centro,160,1,1,3672.12,Não
+IMV-1258,Estúdio,São Paulo,Zona Sul,137,4,1,731.59,Sim
+IMV-1259,Estúdio,Salvador,Zona Oeste,239,1,2,3438.63,Sim
+IMV-1260,Estúdio,Belo Horizonte,Centro,288,3,2,1633.28,Não
+IMV-1261,Casa,Salvador,Centro,119,3,2,679.68,Não
+IMV-1262,Apartamento,Salvador,Zona Norte,205,4,1,806.84,Não
+IMV-1263,Casa,São Paulo,Zona Norte,188,1,2,3814.98,Não
+IMV-1264,Apartamento,Rio de Janeiro,Zona Oeste,174,3,1,2363.58,Sim
+IMV-1265,Estúdio,Porto Alegre,Zona Oeste,139,2,2,1505.34,Sim
+IMV-1266,Estúdio,São Paulo,Zona Oeste,219,3,2,2177.7,Sim
+IMV-1267,Apartamento,Rio de Janeiro,Zona Leste,151,1,1,3470.91,Não
+IMV-1268,Casa,Belo Horizonte,Zona Norte,58,1,2,4371.62,Não
+IMV-1269,Casa,Porto Alegre,Zona Leste,268,2,1,862.71,Não
+IMV-1270,Estúdio,Rio de Janeiro,Centro,166,1,1,2605.69,Não
+IMV-1271,Apartamento,Salvador,Centro,203,1,2,2483.9,Não
+IMV-1272,Casa,São Paulo,Zona Norte,87,3,1,2488.06,Não
+IMV-1273,Casa,Belo Horizonte,Centro,102,3,2,786.41,Não
+IMV-1274,Apartamento,Porto Alegre,Zona Leste,233,3,2,912.04,Sim
+IMV-1275,Casa,São Paulo,Centro,241,4,1,2788.33,Não
+IMV-1276,Casa,Porto Alegre,Zona Leste,43,3,2,542.55,Sim
+IMV-1277,Casa,Salvador,Centro,126,2,1,2336.31,Não
+IMV-1278,Casa,Rio de Janeiro,Zona Oeste,193,1,2,4143.57,Não
+IMV-1279,Casa,Salvador,Zona Oeste,80,3,1,1593.82,Sim
+IMV-1280,Estúdio,São Paulo,Centro,171,1,1,1334.28,Sim
+IMV-1281,Estúdio,Rio de Janeiro,Zona Oeste,253,2,2,4719.03,Sim
+IMV-1282,Casa,Belo Horizonte,Zona Oeste,154,3,2,1487.83,Não
+IMV-1283,Casa,São Paulo,Centro,131,3,1,4712.88,Sim
+IMV-1284,Estúdio,São Paulo,Zona Sul,97,3,2,2019.06,Não
+IMV-1285,Estúdio,São Paulo,Zona Norte,197,3,2,3207.42,Sim
+IMV-1286,Casa,Belo Horizonte,Centro,107,4,1,3628.45,Não
+IMV-1287,Estúdio,Salvador,Zona Oeste,179,2,1,543.48,Não
+IMV-1288,Casa,Rio de Janeiro,Centro,94,1,1,1579.17,Não
+IMV-1289,Apartamento,Porto Alegre,Zona Leste,226,2,2,3237.31,Não
+IMV-1290,Estúdio,Porto Alegre,Zona Oeste,56,1,2,1847.12,Não
+IMV-1291,Casa,Porto Alegre,Zona Norte,129,1,2,4875.69,Sim
+IMV-1292,Casa,São Paulo,Zona Leste,270,1,1,2210.79,Sim
+IMV-1293,Apartamento,Rio de Janeiro,Zona Sul,254,1,1,1682.17,Sim
+IMV-1294,Casa,Belo Horizonte,Zona Leste,148,2,2,4111.58,Não
+IMV-1295,Apartamento,São Paulo,Zona Oeste,114,2,2,1005.02,Sim
+IMV-1296,Casa,São Paulo,Zona Oeste,184,3,1,2588.7,Sim
+IMV-1297,Estúdio,São Paulo,Zona Leste,129,4,1,4176.36,Sim
+IMV-1298,Estúdio,Porto Alegre,Zona Leste,200,3,2,3817.93,Não
+IMV-1299,Casa,Porto Alegre,Zona Norte,81,2,2,2517.99,Não
+IMV-1300,Estúdio,Rio de Janeiro,Zona Norte,47,4,1,840.56,Sim
+IMV-1301,Apartamento,São Paulo,Zona Oeste,38,2,1,2092.7,Sim
+IMV-1302,Apartamento,Porto Alegre,Zona Sul,218,3,1,1241.23,Sim
+IMV-1303,Estúdio,Belo Horizonte,Zona Sul,190,4,1,2175.38,Não
+IMV-1304,Apartamento,São Paulo,Zona Norte,204,2,1,3024.96,Sim
+IMV-1305,Casa,Rio de Janeiro,Zona Oeste,256,3,2,517.65,Sim
+IMV-1306,Apartamento,Rio de Janeiro,Zona Oeste,295,2,2,978.22,Sim
+IMV-1307,Casa,Salvador,Centro,262,4,1,1314.33,Não
+IMV-1308,Estúdio,Salvador,Zona Sul,77,4,2,963.92,Não
+IMV-1309,Apartamento,Salvador,Centro,255,3,2,832.59,Não
+IMV-1310,Apartamento,São Paulo,Zona Oeste,111,3,2,3246.93,Sim
+IMV-1311,Casa,Belo Horizonte,Zona Oeste,51,3,1,3495.34,Não
+IMV-1312,Casa,Porto Alegre,Zona Sul,245,2,2,3701.32,Não
+IMV-1313,Casa,Porto Alegre,Zona Oeste,131,4,1,4982.01,Não
+IMV-1314,Apartamento,Rio de Janeiro,Zona Leste,57,1,1,2649.77,Sim
+IMV-1315,Casa,Rio de Janeiro,Zona Sul,54,4,1,3111.93,Não
+IMV-1316,Casa,São Paulo,Centro,160,1,2,2973.6,Não
+IMV-1317,Casa,Belo Horizonte,Zona Oeste,113,2,2,1625.81,Não
+IMV-1318,Estúdio,Salvador,Zona Leste,35,4,2,4518.19,Não
+IMV-1319,Apartamento,Salvador,Centro,79,1,2,3906.89,Não
+IMV-1320,Casa,Rio de Janeiro,Centro,289,3,1,3439.11,Sim
+IMV-1321,Apartamento,Salvador,Zona Leste,125,1,1,2253.46,Não
+IMV-1322,Casa,Salvador,Zona Oeste,152,1,2,4237.93,Não
+IMV-1323,Estúdio,Belo Horizonte,Zona Oeste,132,3,1,4323.5,Não
+IMV-1324,Apartamento,Rio de Janeiro,Zona Oeste,205,1,1,4162.09,Sim
+IMV-1325,Estúdio,Rio de Janeiro,Centro,166,3,2,2917.36,Sim
+IMV-1326,Estúdio,São Paulo,Zona Sul,30,4,1,843.47,Não
+IMV-1327,Apartamento,Salvador,Zona Sul,247,3,2,4460.85,Sim
+IMV-1328,Estúdio,Belo Horizonte,Centro,76,2,2,2650.03,Sim
+IMV-1329,Casa,Salvador,Centro,232,3,1,2699.26,Não
+IMV-1330,Casa,Salvador,Zona Oeste,123,4,1,3541.61,Sim
+IMV-1331,Estúdio,Porto Alegre,Zona Leste,250,2,1,4185.21,Sim
+IMV-1332,Estúdio,São Paulo,Centro,222,3,2,2518.33,Sim
+IMV-1333,Casa,São Paulo,Centro,187,1,2,4211.45,Sim
+IMV-1334,Apartamento,Salvador,Zona Norte,147,3,1,1539.22,Não
+IMV-1335,Apartamento,Rio de Janeiro,Zona Oeste,246,1,2,3906.31,Não
+IMV-1336,Apartamento,Salvador,Zona Oeste,265,3,2,3502.13,Não
+IMV-1337,Casa,Belo Horizonte,Zona Norte,55,4,2,1186.46,Sim
+IMV-1338,Estúdio,Belo Horizonte,Zona Oeste,173,3,2,4018.79,Não
+IMV-1339,Apartamento,Belo Horizonte,Zona Leste,38,4,2,759.15,Sim
+IMV-1340,Apartamento,Rio de Janeiro,Zona Leste,120,3,1,4635.45,Não
+IMV-1341,Apartamento,Rio de Janeiro,Zona Sul,109,4,2,1150.75,Sim
+IMV-1342,Apartamento,Porto Alegre,Zona Oeste,296,2,2,526.62,Sim
+IMV-1343,Estúdio,São Paulo,Zona Sul,236,2,2,2407.15,Não
+IMV-1344,Estúdio,São Paulo,Zona Leste,230,1,1,4085.64,Não
+IMV-1345,Casa,Belo Horizonte,Zona Norte,149,1,1,1269.81,Não
+IMV-1346,Casa,São Paulo,Centro,122,3,1,1729.82,Não
+IMV-1347,Apartamento,Belo Horizonte,Centro,182,2,1,2488.37,Não
+IMV-1348,Apartamento,Belo Horizonte,Zona Oeste,153,4,1,3771.76,Não
+IMV-1349,Estúdio,Porto Alegre,Zona Leste,47,4,1,4947.6,Sim
+IMV-1350,Casa,Belo Horizonte,Zona Norte,91,3,2,2805.1,Sim
+IMV-1351,Apartamento,Porto Alegre,Zona Leste,58,2,1,1036.8,Sim
+IMV-1352,Apartamento,Salvador,Centro,239,3,2,1379.94,Não
+IMV-1353,Apartamento,Rio de Janeiro,Zona Norte,293,4,2,1574.46,Sim
+IMV-1354,Estúdio,Salvador,Zona Norte,201,4,1,873.19,Não
+IMV-1355,Casa,Belo Horizonte,Zona Norte,287,3,1,4263.59,Sim
+IMV-1356,Apartamento,São Paulo,Zona Norte,270,3,1,1166.78,Sim
+IMV-1357,Apartamento,Rio de Janeiro,Zona Leste,200,2,2,1482.72,Sim
+IMV-1358,Estúdio,Belo Horizonte,Zona Oeste,246,1,1,643.91,Não
+IMV-1359,Estúdio,São Paulo,Zona Sul,291,3,1,2584.07,Sim
+IMV-1360,Apartamento,Salvador,Zona Oeste,190,4,1,4635.66,Sim
+IMV-1361,Estúdio,Salvador,Zona Sul,108,1,2,3161.22,Não
+IMV-1362,Casa,Belo Horizonte,Centro,229,2,2,3874.01,Sim
+IMV-1363,Apartamento,Porto Alegre,Zona Norte,191,2,2,4934.18,Sim
+IMV-1364,Estúdio,Porto Alegre,Zona Oeste,176,4,2,1232.55,Sim
+IMV-1365,Apartamento,Rio de Janeiro,Zona Sul,80,1,2,1060.95,Sim
+IMV-1366,Estúdio,Salvador,Zona Sul,53,1,1,903.61,Não
+IMV-1367,Apartamento,Belo Horizonte,Zona Norte,63,4,1,4341.53,Sim
+IMV-1368,Estúdio,Rio de Janeiro,Zona Leste,137,1,1,4061.0,Não
+IMV-1369,Apartamento,Rio de Janeiro,Zona Leste,80,4,2,3840.66,Sim
+IMV-1370,Estúdio,Porto Alegre,Zona Norte,191,1,2,1282.07,Sim
+IMV-1371,Estúdio,Rio de Janeiro,Zona Oeste,56,1,1,1837.01,Sim
+IMV-1372,Casa,Porto Alegre,Zona Norte,40,1,2,4639.87,Não
+IMV-1373,Apartamento,Salvador,Zona Norte,98,4,2,854.15,Sim
+IMV-1374,Apartamento,Rio de Janeiro,Zona Norte,98,2,1,2750.41,Não
+IMV-1375,Casa,Belo Horizonte,Zona Leste,228,1,2,1081.36,Sim
+IMV-1376,Estúdio,São Paulo,Zona Oeste,33,4,1,3759.18,Sim
+IMV-1377,Estúdio,Salvador,Zona Sul,116,4,1,4448.35,Sim
+IMV-1378,Casa,Porto Alegre,Zona Oeste,141,3,1,1548.29,Não
+IMV-1379,Casa,Belo Horizonte,Zona Norte,204,3,2,2680.5,Sim
+IMV-1380,Casa,Rio de Janeiro,Zona Oeste,153,3,1,1222.89,Sim
+IMV-1381,Apartamento,Porto Alegre,Zona Norte,53,1,1,2266.38,Não
+IMV-1382,Casa,Rio de Janeiro,Zona Norte,99,1,1,4624.5,Não
+IMV-1383,Apartamento,Salvador,Centro,273,3,2,2274.73,Não
+IMV-1384,Casa,São Paulo,Zona Sul,246,3,2,975.82,Sim
+IMV-1385,Apartamento,Belo Horizonte,Zona Oeste,192,1,1,4880.72,Sim
+IMV-1386,Casa,Salvador,Zona Sul,269,1,2,3459.62,Não
+IMV-1387,Estúdio,Rio de Janeiro,Zona Norte,146,4,1,1741.79,Não
+IMV-1388,Apartamento,São Paulo,Zona Leste,53,4,1,1319.84,Não
+IMV-1389,Estúdio,Belo Horizonte,Zona Sul,39,2,2,1001.26,Sim
+IMV-1390,Estúdio,São Paulo,Zona Norte,253,2,1,1512.22,Não
+IMV-1391,Estúdio,Belo Horizonte,Zona Oeste,210,3,1,4436.06,Não
+IMV-1392,Casa,Rio de Janeiro,Zona Norte,199,2,2,4407.45,Sim
+IMV-1393,Casa,Porto Alegre,Centro,118,3,2,3602.48,Sim
+IMV-1394,Apartamento,Salvador,Centro,88,3,1,743.58,Sim
+IMV-1395,Estúdio,Rio de Janeiro,Zona Oeste,105,3,1,3051.42,Sim
+IMV-1396,Estúdio,Porto Alegre,Centro,290,2,2,4170.66,Não
+IMV-1397,Apartamento,Salvador,Centro,160,1,1,2120.01,Não
+IMV-1398,Estúdio,São Paulo,Zona Leste,278,4,1,648.29,Sim
+IMV-1399,Estúdio,Porto Alegre,Zona Norte,297,3,2,3764.02,Não
+IMV-1400,Casa,São Paulo,Zona Leste,249,2,1,3482.42,Não
+IMV-1401,Apartamento,Belo Horizonte,Zona Sul,54,4,2,4759.78,Não
+IMV-1402,Estúdio,Porto Alegre,Zona Sul,229,3,1,3300.99,Não
+IMV-1403,Casa,Rio de Janeiro,Zona Leste,94,3,1,4414.9,Não
+IMV-1404,Apartamento,São Paulo,Zona Sul,32,2,1,3402.47,Sim
+IMV-1405,Estúdio,Rio de Janeiro,Centro,244,2,2,2798.84,Sim
+IMV-1406,Estúdio,Rio de Janeiro,Centro,76,1,1,1455.17,Não
+IMV-1407,Estúdio,Belo Horizonte,Centro,173,4,1,2870.29,Não
+IMV-1408,Casa,Salvador,Zona Oeste,281,3,2,4824.04,Sim
+IMV-1409,Apartamento,Belo Horizonte,Zona Oeste,294,1,2,3068.14,Não
+IMV-1410,Apartamento,Belo Horizonte,Zona Sul,48,2,1,3809.39,Sim
+IMV-1411,Apartamento,São Paulo,Zona Oeste,219,2,2,2307.4,Não
+IMV-1412,Apartamento,Rio de Janeiro,Zona Norte,137,4,1,738.74,Não
+IMV-1413,Casa,São Paulo,Zona Norte,284,1,1,3710.44,Não
+IMV-1414,Estúdio,Porto Alegre,Centro,85,4,2,1590.54,Não
+IMV-1415,Casa,Belo Horizonte,Centro,249,3,2,2734.5,Não
+IMV-1416,Estúdio,Belo Horizonte,Zona Leste,175,4,2,4485.03,Não
+IMV-1417,Apartamento,São Paulo,Zona Sul,30,1,1,1923.16,Não
+IMV-1418,Casa,Rio de Janeiro,Zona Norte,238,4,2,2230.85,Sim
+IMV-1419,Apartamento,Salvador,Centro,153,1,1,1700.91,Sim
+IMV-1420,Casa,Rio de Janeiro,Centro,52,3,2,895.68,Não
+IMV-1421,Apartamento,Salvador,Zona Oeste,176,3,2,2499.8,Não
+IMV-1422,Apartamento,Rio de Janeiro,Zona Leste,102,2,2,2815.51,Não
+IMV-1423,Apartamento,São Paulo,Zona Sul,152,3,2,2926.84,Sim
+IMV-1424,Casa,São Paulo,Zona Oeste,218,4,2,4075.97,Sim
+IMV-1425,Casa,Rio de Janeiro,Zona Oeste,42,3,1,3606.65,Sim
+IMV-1426,Casa,São Paulo,Zona Sul,41,4,1,4154.17,Sim
+IMV-1427,Estúdio,São Paulo,Zona Leste,245,1,1,3223.94,Sim
+IMV-1428,Estúdio,Porto Alegre,Zona Leste,255,2,2,880.35,Sim
+IMV-1429,Estúdio,São Paulo,Zona Sul,125,3,2,3743.93,Não
+IMV-1430,Estúdio,Porto Alegre,Zona Oeste,167,3,1,2639.24,Sim
+IMV-1431,Estúdio,Salvador,Zona Oeste,125,2,1,2688.01,Não
+IMV-1432,Casa,Porto Alegre,Zona Leste,248,4,2,2390.71,Não
+IMV-1433,Estúdio,Salvador,Zona Norte,59,1,1,3645.05,Não
+IMV-1434,Estúdio,Salvador,Centro,226,2,1,4708.05,Sim
+IMV-1435,Estúdio,Belo Horizonte,Centro,193,1,2,3924.45,Não
+IMV-1436,Casa,Porto Alegre,Zona Leste,215,4,2,4800.14,Não
+IMV-1437,Apartamento,Porto Alegre,Zona Sul,189,3,2,3688.84,Não
+IMV-1438,Estúdio,São Paulo,Zona Oeste,97,3,2,1617.57,Não
+IMV-1439,Estúdio,Belo Horizonte,Zona Leste,222,3,2,4493.15,Não
+IMV-1440,Estúdio,Rio de Janeiro,Zona Leste,74,4,1,1325.7,Sim
+IMV-1441,Casa,São Paulo,Zona Norte,92,4,2,851.86,Não
+IMV-1442,Estúdio,São Paulo,Centro,104,1,1,4731.46,Não
+IMV-1443,Estúdio,Belo Horizonte,Zona Norte,62,4,2,4023.64,Sim
+IMV-1444,Estúdio,Porto Alegre,Zona Leste,109,3,2,689.92,Sim
+IMV-1445,Apartamento,Porto Alegre,Zona Norte,205,3,1,3862.95,Sim
+IMV-1446,Estúdio,Porto Alegre,Zona Norte,203,4,1,2242.55,Não
+IMV-1447,Casa,Rio de Janeiro,Zona Sul,91,2,1,2853.09,Não
+IMV-1448,Casa,São Paulo,Zona Norte,31,4,2,2897.83,Sim
+IMV-1449,Casa,Salvador,Zona Sul,260,1,2,1523.32,Sim
+IMV-1450,Apartamento,São Paulo,Zona Oeste,212,4,2,3364.87,Não
+IMV-1451,Apartamento,Belo Horizonte,Zona Leste,47,1,2,1096.94,Não
+IMV-1452,Apartamento,Belo Horizonte,Zona Leste,215,1,1,4756.62,Não
+IMV-1453,Casa,São Paulo,Zona Oeste,272,3,1,2211.49,Não
+IMV-1454,Casa,Rio de Janeiro,Centro,254,3,1,4632.74,Sim
+IMV-1455,Apartamento,Rio de Janeiro,Zona Leste,162,1,2,1899.29,Não
+IMV-1456,Casa,Salvador,Zona Sul,145,4,2,4876.0,Sim
+IMV-1457,Apartamento,Salvador,Centro,162,1,1,3596.26,Sim
+IMV-1458,Estúdio,São Paulo,Zona Norte,30,1,1,3587.1,Não
+IMV-1459,Apartamento,Salvador,Centro,232,4,2,1357.25,Não
+IMV-1460,Casa,Belo Horizonte,Centro,261,2,1,4220.68,Não
+IMV-1461,Estúdio,Belo Horizonte,Zona Leste,208,3,2,1830.23,Sim
+IMV-1462,Casa,Belo Horizonte,Zona Oeste,30,2,1,2357.61,Não
+IMV-1463,Apartamento,Salvador,Zona Oeste,64,1,1,2647.76,Não
+IMV-1464,Casa,Belo Horizonte,Centro,232,3,2,4743.64,Sim
+IMV-1465,Apartamento,Salvador,Zona Sul,239,2,2,2407.39,Não
+IMV-1466,Estúdio,Salvador,Centro,234,4,1,2037.74,Não
+IMV-1467,Estúdio,Porto Alegre,Centro,183,1,1,4477.87,Não
+IMV-1468,Casa,Belo Horizonte,Zona Leste,255,4,2,3932.6,Sim
+IMV-1469,Casa,Porto Alegre,Centro,64,4,2,3604.66,Sim
+IMV-1470,Estúdio,Porto Alegre,Zona Leste,104,4,1,3853.43,Sim
+IMV-1471,Casa,Salvador,Zona Sul,225,3,2,3624.16,Sim
+IMV-1472,Apartamento,São Paulo,Zona Leste,147,2,2,4710.67,Não
+IMV-1473,Casa,Salvador,Zona Sul,253,1,2,1241.79,Não
+IMV-1474,Apartamento,Porto Alegre,Zona Leste,56,1,1,4913.45,Sim
+IMV-1475,Estúdio,Salvador,Zona Sul,58,1,2,1460.62,Sim
+IMV-1476,Estúdio,Belo Horizonte,Zona Sul,63,2,2,1180.69,Não
+IMV-1477,Apartamento,São Paulo,Zona Leste,292,2,2,3358.44,Não
+IMV-1478,Apartamento,São Paulo,Zona Leste,118,3,2,2476.04,Sim
+IMV-1479,Apartamento,São Paulo,Zona Oeste,210,1,2,578.35,Sim
+IMV-1480,Estúdio,Salvador,Centro,234,3,1,4132.66,Não
+IMV-1481,Estúdio,São Paulo,Zona Norte,248,3,2,4242.21,Sim
+IMV-1482,Estúdio,Salvador,Zona Norte,172,4,2,1794.47,Não
+IMV-1483,Estúdio,São Paulo,Zona Oeste,156,3,1,2303.08,Não
+IMV-1484,Apartamento,Belo Horizonte,Zona Norte,294,2,1,1964.39,Não
+IMV-1485,Apartamento,Porto Alegre,Centro,125,1,2,1787.45,Não
+IMV-1486,Casa,Belo Horizonte,Zona Sul,248,2,1,1842.18,Sim
+IMV-1487,Apartamento,São Paulo,Zona Sul,108,3,2,2962.79,Não
+IMV-1488,Estúdio,São Paulo,Zona Norte,78,2,1,4655.06,Sim
+IMV-1489,Apartamento,Salvador,Zona Leste,85,2,2,1208.86,Sim
+IMV-1490,Apartamento,São Paulo,Zona Leste,98,2,1,3681.84,Sim
+IMV-1491,Casa,Salvador,Zona Oeste,84,4,1,1854.12,Não
+IMV-1492,Estúdio,Porto Alegre,Zona Sul,66,2,2,3448.34,Não
+IMV-1493,Casa,Salvador,Zona Sul,285,4,2,672.41,Sim
+IMV-1494,Apartamento,São Paulo,Zona Oeste,266,1,1,4933.2,Não
+IMV-1495,Estúdio,Porto Alegre,Zona Oeste,250,2,2,1198.26,Sim
+IMV-1496,Estúdio,Salvador,Zona Leste,238,2,2,4440.43,Sim
+IMV-1497,Estúdio,São Paulo,Zona Oeste,280,2,1,1115.16,Não
+IMV-1498,Estúdio,Salvador,Centro,137,1,2,1842.58,Não
+IMV-1499,Casa,Belo Horizonte,Centro,116,3,2,689.19,Não
+IMV-1500,Casa,Porto Alegre,Zona Oeste,131,1,2,1249.55,Não
+IMV-1501,Casa,Rio de Janeiro,Zona Oeste,205,1,2,3653.87,Sim
+IMV-1502,Apartamento,Salvador,Zona Sul,142,2,2,3803.46,Sim
+IMV-1503,Estúdio,Porto Alegre,Centro,161,4,1,2568.94,Sim
+IMV-1504,Apartamento,Salvador,Zona Oeste,85,1,1,2356.23,Não
+IMV-1505,Estúdio,São Paulo,Zona Oeste,261,2,1,3361.51,Sim
+IMV-1506,Casa,São Paulo,Zona Sul,163,4,2,3154.83,Sim
+IMV-1507,Estúdio,Porto Alegre,Zona Norte,173,4,1,3948.01,Sim
+IMV-1508,Estúdio,Salvador,Zona Oeste,247,2,1,973.96,Sim
+IMV-1509,Estúdio,Rio de Janeiro,Zona Sul,148,1,1,2126.8,Sim
+IMV-1510,Estúdio,Belo Horizonte,Zona Oeste,164,1,2,4390.21,Sim
+IMV-1511,Estúdio,Rio de Janeiro,Centro,99,1,2,1869.79,Não
+IMV-1512,Apartamento,Porto Alegre,Zona Norte,256,4,1,2155.85,Sim
+IMV-1513,Estúdio,São Paulo,Zona Oeste,203,1,1,4599.24,Não
+IMV-1514,Apartamento,Belo Horizonte,Zona Norte,183,3,2,2369.03,Não
+IMV-1515,Estúdio,São Paulo,Centro,134,3,1,3934.4,Não
+IMV-1516,Casa,Rio de Janeiro,Zona Oeste,48,4,1,2506.43,Sim
+IMV-1517,Estúdio,Rio de Janeiro,Zona Oeste,84,1,2,2169.99,Não
+IMV-1518,Apartamento,Salvador,Zona Norte,272,3,1,3991.79,Sim
+IMV-1519,Apartamento,Rio de Janeiro,Zona Norte,136,3,2,3932.56,Não
+IMV-1520,Apartamento,Rio de Janeiro,Zona Norte,254,4,1,623.56,Sim
+IMV-1521,Apartamento,Belo Horizonte,Zona Norte,284,1,2,3363.39,Sim
+IMV-1522,Estúdio,Rio de Janeiro,Zona Norte,33,3,1,2251.7,Sim
+IMV-1523,Estúdio,Belo Horizonte,Zona Oeste,63,4,1,1751.41,Sim
+IMV-1524,Apartamento,Salvador,Zona Norte,50,1,2,1063.43,Não
+IMV-1525,Casa,Porto Alegre,Centro,80,2,1,2325.09,Não
+IMV-1526,Apartamento,Rio de Janeiro,Zona Oeste,55,3,2,4287.21,Não
+IMV-1527,Casa,Belo Horizonte,Zona Sul,215,1,1,1290.13,Não
+IMV-1528,Apartamento,Porto Alegre,Zona Oeste,268,1,1,2314.84,Sim
+IMV-1529,Estúdio,São Paulo,Zona Oeste,275,2,1,687.41,Sim
+IMV-1530,Estúdio,Porto Alegre,Zona Norte,286,3,1,3948.23,Não
+IMV-1531,Estúdio,Belo Horizonte,Zona Leste,220,4,2,4629.27,Sim
+IMV-1532,Estúdio,Porto Alegre,Zona Sul,212,1,2,3056.9,Não
+IMV-1533,Apartamento,Salvador,Zona Leste,96,4,2,907.22,Sim
+IMV-1534,Casa,Rio de Janeiro,Zona Leste,62,3,1,3780.85,Sim
+IMV-1535,Apartamento,Porto Alegre,Centro,32,3,2,1578.72,Sim
+IMV-1536,Estúdio,São Paulo,Centro,80,2,2,4664.34,Não
+IMV-1537,Estúdio,São Paulo,Zona Oeste,174,1,2,4516.43,Não
+IMV-1538,Estúdio,Porto Alegre,Zona Oeste,76,3,2,2323.31,Não
+IMV-1539,Apartamento,Rio de Janeiro,Zona Sul,150,2,1,2784.57,Sim
+IMV-1540,Estúdio,Porto Alegre,Zona Oeste,30,4,1,683.2,Sim
+IMV-1541,Casa,Salvador,Zona Oeste,186,3,1,2384.42,Sim
+IMV-1542,Estúdio,Salvador,Zona Leste,281,1,2,4947.45,Sim
+IMV-1543,Apartamento,Salvador,Zona Leste,82,4,2,1139.98,Sim
+IMV-1544,Estúdio,Rio de Janeiro,Zona Sul,218,2,1,1986.37,Não
+IMV-1545,Casa,Salvador,Zona Norte,104,2,1,4380.32,Sim
+IMV-1546,Estúdio,Rio de Janeiro,Zona Leste,173,4,1,3938.34,Não
+IMV-1547,Estúdio,Rio de Janeiro,Zona Sul,284,1,1,3018.68,Sim
+IMV-1548,Estúdio,Porto Alegre,Zona Norte,42,2,1,889.14,Não
+IMV-1549,Estúdio,Belo Horizonte,Zona Norte,270,1,2,3082.32,Não
+IMV-1550,Casa,Belo Horizonte,Centro,159,4,2,685.69,Não
+IMV-1551,Apartamento,Rio de Janeiro,Zona Oeste,151,2,2,2168.94,Não
+IMV-1552,Apartamento,Rio de Janeiro,Zona Sul,288,4,2,2999.68,Não
+IMV-1553,Estúdio,Salvador,Centro,52,1,1,3765.54,Sim
+IMV-1554,Estúdio,Rio de Janeiro,Zona Norte,227,1,2,2571.63,Não
+IMV-1555,Estúdio,Rio de Janeiro,Zona Norte,286,3,1,3915.81,Não
+IMV-1556,Casa,Porto Alegre,Zona Sul,52,4,2,1204.85,Sim
+IMV-1557,Estúdio,Rio de Janeiro,Zona Oeste,75,2,2,2701.48,Sim
+IMV-1558,Casa,Porto Alegre,Zona Leste,222,1,1,4755.65,Sim
+IMV-1559,Estúdio,Salvador,Centro,59,4,1,4932.12,Não
+IMV-1560,Casa,Porto Alegre,Centro,193,4,1,3574.12,Sim
+IMV-1561,Apartamento,Belo Horizonte,Zona Sul,83,3,1,781.31,Não
+IMV-1562,Apartamento,São Paulo,Zona Sul,186,2,2,3068.27,Sim
+IMV-1563,Apartamento,Belo Horizonte,Zona Oeste,60,2,1,1780.69,Não
+IMV-1564,Apartamento,Porto Alegre,Zona Norte,77,2,2,4113.9,Não
+IMV-1565,Estúdio,Salvador,Zona Oeste,278,3,1,1436.3,Sim
+IMV-1566,Casa,Rio de Janeiro,Zona Sul,207,4,1,1201.5,Não
+IMV-1567,Casa,São Paulo,Zona Leste,273,2,1,2089.71,Não
+IMV-1568,Apartamento,Porto Alegre,Zona Sul,278,3,1,2528.47,Não
+IMV-1569,Apartamento,São Paulo,Zona Sul,267,3,1,3449.41,Não
+IMV-1570,Estúdio,São Paulo,Centro,212,4,1,3181.6,Não
+IMV-1571,Casa,Rio de Janeiro,Zona Sul,285,1,2,2442.59,Não
+IMV-1572,Apartamento,São Paulo,Zona Norte,250,3,1,2145.46,Não
+IMV-1573,Apartamento,Salvador,Zona Oeste,215,2,1,2677.38,Sim
+IMV-1574,Apartamento,São Paulo,Zona Norte,272,1,2,2016.51,Sim
+IMV-1575,Estúdio,Porto Alegre,Centro,201,4,2,1654.59,Não
+IMV-1576,Casa,Rio de Janeiro,Zona Norte,226,2,2,557.63,Sim
+IMV-1577,Casa,Belo Horizonte,Centro,237,1,2,4057.18,Não
+IMV-1578,Apartamento,Salvador,Zona Sul,103,4,2,2441.54,Não
+IMV-1579,Apartamento,Salvador,Centro,50,1,1,4027.83,Não
+IMV-1580,Casa,Rio de Janeiro,Zona Sul,281,1,2,3156.09,Não
+IMV-1581,Casa,Porto Alegre,Zona Oeste,286,1,2,1947.13,Não
+IMV-1582,Casa,Belo Horizonte,Zona Oeste,142,3,2,1766.19,Não
+IMV-1583,Estúdio,Porto Alegre,Zona Oeste,209,4,1,2343.48,Sim
+IMV-1584,Apartamento,São Paulo,Zona Leste,130,3,1,2869.88,Não
+IMV-1585,Apartamento,São Paulo,Centro,73,4,1,582.6,Não
+IMV-1586,Apartamento,Porto Alegre,Zona Sul,116,1,1,4592.8,Sim
+IMV-1587,Casa,São Paulo,Zona Leste,176,1,1,589.79,Não
+IMV-1588,Estúdio,Belo Horizonte,Zona Norte,69,2,2,1352.53,Sim
+IMV-1589,Apartamento,Salvador,Zona Leste,72,3,2,1680.94,Sim
+IMV-1590,Estúdio,São Paulo,Zona Sul,145,2,1,3153.0,Sim
+IMV-1591,Casa,São Paulo,Zona Leste,274,3,1,3105.78,Sim
+IMV-1592,Apartamento,Rio de Janeiro,Zona Leste,36,2,1,1823.59,Sim
+IMV-1593,Estúdio,Porto Alegre,Centro,242,3,1,984.8,Não
+IMV-1594,Casa,Porto Alegre,Centro,115,3,1,2229.49,Sim
+IMV-1595,Estúdio,São Paulo,Zona Leste,214,1,1,2748.7,Não
+IMV-1596,Casa,Porto Alegre,Zona Leste,286,1,1,2797.03,Não
+IMV-1597,Casa,Belo Horizonte,Zona Oeste,239,4,2,1273.43,Sim
+IMV-1598,Casa,Rio de Janeiro,Zona Leste,271,4,2,4924.71,Sim
+IMV-1599,Estúdio,Rio de Janeiro,Centro,39,2,1,521.69,Não
+IMV-1600,Estúdio,São Paulo,Centro,72,1,1,786.69,Não
+IMV-1601,Casa,Porto Alegre,Zona Sul,112,2,1,4906.4,Não
+IMV-1602,Estúdio,Belo Horizonte,Centro,121,2,2,3198.93,Não
+IMV-1603,Casa,São Paulo,Zona Norte,289,3,1,4871.13,Sim
+IMV-1604,Apartamento,Rio de Janeiro,Centro,278,3,2,4567.93,Sim
+IMV-1605,Apartamento,Rio de Janeiro,Zona Oeste,152,1,1,1311.05,Não
+IMV-1606,Estúdio,Rio de Janeiro,Zona Norte,212,3,1,4568.49,Não
+IMV-1607,Estúdio,Belo Horizonte,Centro,97,1,1,3935.14,Sim
+IMV-1608,Estúdio,Rio de Janeiro,Centro,268,4,2,1627.84,Sim
+IMV-1609,Casa,Belo Horizonte,Centro,90,2,1,4667.11,Sim
+IMV-1610,Estúdio,Rio de Janeiro,Zona Leste,262,1,2,3092.57,Não
+IMV-1611,Apartamento,Rio de Janeiro,Centro,57,4,1,4459.07,Sim
+IMV-1612,Apartamento,Rio de Janeiro,Zona Oeste,109,4,2,1253.81,Não
+IMV-1613,Estúdio,Salvador,Zona Norte,227,1,1,2131.46,Não
+IMV-1614,Estúdio,Salvador,Centro,244,3,2,2565.77,Sim
+IMV-1615,Casa,Salvador,Zona Leste,68,2,2,1976.01,Sim
+IMV-1616,Casa,São Paulo,Zona Sul,204,1,2,3939.26,Não
+IMV-1617,Casa,Rio de Janeiro,Zona Leste,57,4,2,1919.27,Sim
+IMV-1618,Estúdio,São Paulo,Centro,125,3,1,4675.58,Sim
+IMV-1619,Estúdio,Belo Horizonte,Zona Sul,292,1,1,1466.18,Sim
+IMV-1620,Apartamento,São Paulo,Centro,38,2,2,4322.15,Sim
+IMV-1621,Apartamento,Rio de Janeiro,Zona Oeste,149,3,2,990.61,Sim
+IMV-1622,Casa,Rio de Janeiro,Zona Leste,230,2,2,958.78,Sim
+IMV-1623,Estúdio,Rio de Janeiro,Zona Sul,252,4,1,1825.73,Sim
+IMV-1624,Estúdio,Salvador,Zona Sul,177,2,2,3199.56,Não
+IMV-1625,Apartamento,Rio de Janeiro,Centro,189,1,1,2796.39,Não
+IMV-1626,Apartamento,São Paulo,Zona Norte,224,4,2,1254.7,Sim
+IMV-1627,Apartamento,Rio de Janeiro,Zona Oeste,169,2,2,2292.91,Sim
+IMV-1628,Apartamento,Rio de Janeiro,Zona Norte,157,1,2,3942.94,Sim
+IMV-1629,Apartamento,Rio de Janeiro,Zona Norte,101,1,1,4506.2,Não
+IMV-1630,Estúdio,Salvador,Zona Oeste,45,3,1,1907.22,Não
+IMV-1631,Estúdio,Belo Horizonte,Zona Leste,155,3,2,4371.92,Não
+IMV-1632,Apartamento,Belo Horizonte,Zona Sul,66,1,1,3754.77,Não
+IMV-1633,Casa,Belo Horizonte,Centro,212,3,1,3946.51,Não
+IMV-1634,Apartamento,São Paulo,Zona Sul,227,3,2,4859.17,Sim
+IMV-1635,Estúdio,Porto Alegre,Zona Norte,255,4,1,520.86,Não
+IMV-1636,Estúdio,Belo Horizonte,Zona Oeste,50,2,2,1946.53,Sim
+IMV-1637,Casa,Porto Alegre,Zona Sul,95,2,2,2538.37,Sim
+IMV-1638,Apartamento,Salvador,Centro,292,3,2,589.23,Não
+IMV-1639,Casa,Belo Horizonte,Zona Norte,151,1,1,2044.2,Não
+IMV-1640,Apartamento,Salvador,Zona Sul,86,4,1,2090.11,Não
+IMV-1641,Casa,Salvador,Zona Leste,282,1,2,3095.4,Não
+IMV-1642,Casa,Rio de Janeiro,Centro,231,1,2,4192.16,Sim
+IMV-1643,Estúdio,Belo Horizonte,Zona Norte,193,3,1,714.59,Não
+IMV-1644,Apartamento,Porto Alegre,Zona Sul,157,2,1,2123.92,Sim
+IMV-1645,Casa,São Paulo,Centro,234,2,2,4028.85,Sim
+IMV-1646,Apartamento,Porto Alegre,Zona Norte,82,2,1,4521.14,Não
+IMV-1647,Apartamento,Porto Alegre,Zona Oeste,41,2,2,1450.32,Sim
+IMV-1648,Apartamento,Rio de Janeiro,Zona Norte,226,2,1,4888.12,Não
+IMV-1649,Estúdio,Rio de Janeiro,Zona Oeste,282,1,1,4954.1,Não
+IMV-1650,Apartamento,Salvador,Zona Leste,277,1,2,4724.02,Sim
+IMV-1651,Estúdio,Porto Alegre,Zona Sul,223,2,1,2380.18,Não
+IMV-1652,Casa,Rio de Janeiro,Zona Norte,172,2,1,2891.87,Sim
+IMV-1653,Casa,Porto Alegre,Centro,124,4,2,4732.24,Não
+IMV-1654,Estúdio,São Paulo,Zona Norte,98,1,1,4097.96,Não
+IMV-1655,Estúdio,Salvador,Zona Leste,130,1,2,2792.71,Não
+IMV-1656,Apartamento,Belo Horizonte,Centro,64,1,2,1514.79,Não
+IMV-1657,Apartamento,Belo Horizonte,Centro,185,4,1,2179.71,Sim
+IMV-1658,Apartamento,São Paulo,Zona Sul,180,1,1,2222.45,Não
+IMV-1659,Casa,Belo Horizonte,Centro,126,1,2,2849.38,Não
+IMV-1660,Apartamento,Porto Alegre,Centro,294,2,2,4648.67,Não
+IMV-1661,Casa,São Paulo,Zona Norte,103,4,1,2749.93,Sim
+IMV-1662,Apartamento,Salvador,Zona Leste,238,1,1,3292.82,Sim
+IMV-1663,Estúdio,Belo Horizonte,Zona Oeste,76,3,1,4953.44,Não
+IMV-1664,Casa,São Paulo,Zona Oeste,211,2,2,1874.9,Sim
+IMV-1665,Casa,Belo Horizonte,Zona Oeste,132,2,1,2127.53,Não
+IMV-1666,Apartamento,Rio de Janeiro,Zona Oeste,166,4,1,1093.2,Sim
+IMV-1667,Estúdio,Rio de Janeiro,Zona Leste,238,4,1,2077.87,Sim
+IMV-1668,Estúdio,Belo Horizonte,Zona Leste,86,2,1,716.47,Não
+IMV-1669,Estúdio,Rio de Janeiro,Zona Oeste,52,1,1,1649.68,Sim
+IMV-1670,Estúdio,Belo Horizonte,Zona Sul,265,3,1,1759.3,Não
+IMV-1671,Apartamento,Belo Horizonte,Zona Norte,202,2,2,3238.66,Não
+IMV-1672,Casa,Rio de Janeiro,Zona Sul,213,3,2,2355.09,Não
+IMV-1673,Casa,Rio de Janeiro,Zona Leste,135,1,2,2531.51,Não
+IMV-1674,Apartamento,São Paulo,Zona Leste,67,3,2,1715.4,Sim
+IMV-1675,Casa,Salvador,Centro,164,4,2,3024.77,Sim
+IMV-1676,Apartamento,Rio de Janeiro,Zona Leste,267,2,1,2368.08,Sim
+IMV-1677,Apartamento,São Paulo,Zona Leste,89,1,1,1559.77,Não
+IMV-1678,Apartamento,Belo Horizonte,Centro,241,1,1,4113.06,Não
+IMV-1679,Estúdio,Belo Horizonte,Zona Sul,299,2,2,3512.59,Não
+IMV-1680,Estúdio,Salvador,Zona Leste,219,4,1,2997.78,Não
+IMV-1681,Apartamento,Salvador,Zona Leste,203,2,2,4057.74,Sim
+IMV-1682,Estúdio,Rio de Janeiro,Zona Sul,31,3,1,3619.25,Sim
+IMV-1683,Estúdio,Rio de Janeiro,Centro,223,2,1,4275.91,Não
+IMV-1684,Apartamento,São Paulo,Centro,43,2,1,3908.68,Não
+IMV-1685,Casa,São Paulo,Zona Oeste,84,3,2,3044.74,Sim
+IMV-1686,Estúdio,Salvador,Zona Norte,48,2,2,3260.42,Sim
+IMV-1687,Apartamento,Belo Horizonte,Zona Norte,250,4,1,2269.24,Não
+IMV-1688,Casa,Belo Horizonte,Centro,204,4,2,1774.09,Não
+IMV-1689,Apartamento,Porto Alegre,Zona Sul,243,3,2,2900.3,Sim
+IMV-1690,Casa,São Paulo,Zona Oeste,41,4,1,1960.27,Não
+IMV-1691,Apartamento,Porto Alegre,Centro,75,1,2,1404.89,Não
+IMV-1692,Estúdio,Belo Horizonte,Zona Leste,143,1,2,3672.4,Não
+IMV-1693,Casa,Rio de Janeiro,Zona Sul,103,3,2,2970.92,Não
+IMV-1694,Apartamento,São Paulo,Centro,91,3,2,1254.38,Sim
+IMV-1695,Casa,Rio de Janeiro,Zona Sul,196,4,1,1074.38,Não
+IMV-1696,Casa,Salvador,Zona Leste,292,3,1,2157.41,Não
+IMV-1697,Casa,São Paulo,Zona Oeste,297,3,2,1848.9,Sim
+IMV-1698,Estúdio,Porto Alegre,Zona Leste,198,3,1,4550.41,Não
+IMV-1699,Casa,São Paulo,Centro,160,2,2,1407.36,Sim
+IMV-1700,Apartamento,Porto Alegre,Centro,281,1,1,4585.14,Não
+IMV-1701,Estúdio,Porto Alegre,Zona Norte,226,2,1,4777.94,Sim
+IMV-1702,Casa,Belo Horizonte,Zona Oeste,213,3,1,3362.93,Sim
+IMV-1703,Casa,Salvador,Zona Norte,74,3,1,4075.16,Não
+IMV-1704,Apartamento,São Paulo,Centro,175,4,2,2396.38,Sim
+IMV-1705,Apartamento,Porto Alegre,Centro,189,3,2,1116.9,Não
+IMV-1706,Casa,Salvador,Zona Leste,87,2,1,3218.62,Não
+IMV-1707,Estúdio,Salvador,Zona Leste,252,4,2,3047.29,Não
+IMV-1708,Estúdio,Rio de Janeiro,Zona Oeste,81,2,1,4136.73,Não
+IMV-1709,Estúdio,Rio de Janeiro,Zona Leste,168,3,1,1384.4,Não
+IMV-1710,Estúdio,Rio de Janeiro,Zona Sul,193,2,2,3915.88,Sim
+IMV-1711,Apartamento,Salvador,Centro,106,2,1,845.24,Sim
+IMV-1712,Apartamento,Belo Horizonte,Zona Sul,295,4,2,763.05,Sim
+IMV-1713,Casa,São Paulo,Zona Oeste,182,2,2,3191.84,Não
+IMV-1714,Casa,São Paulo,Centro,221,2,2,2629.88,Não
+IMV-1715,Estúdio,Rio de Janeiro,Zona Sul,95,3,2,3906.62,Sim
+IMV-1716,Apartamento,Belo Horizonte,Zona Norte,163,2,2,3900.66,Sim
+IMV-1717,Estúdio,Salvador,Zona Oeste,112,1,2,2611.38,Não
+IMV-1718,Apartamento,Belo Horizonte,Zona Oeste,64,4,2,4081.55,Sim
+IMV-1719,Estúdio,Belo Horizonte,Zona Norte,139,1,2,1397.8,Sim
+IMV-1720,Estúdio,Salvador,Zona Norte,171,4,2,4363.42,Sim
+IMV-1721,Casa,São Paulo,Centro,246,2,1,1867.73,Não
+IMV-1722,Apartamento,Belo Horizonte,Zona Norte,43,3,2,2076.1,Não
+IMV-1723,Casa,Belo Horizonte,Zona Sul,205,1,2,1071.03,Sim
+IMV-1724,Estúdio,São Paulo,Zona Norte,77,3,2,2835.11,Sim
+IMV-1725,Apartamento,Porto Alegre,Zona Norte,125,3,2,2550.43,Sim
+IMV-1726,Estúdio,São Paulo,Zona Leste,268,4,2,4681.21,Não
+IMV-1727,Casa,Porto Alegre,Zona Norte,218,4,2,2881.82,Não
+IMV-1728,Apartamento,Porto Alegre,Zona Norte,201,2,2,2670.83,Não
+IMV-1729,Estúdio,Salvador,Zona Leste,94,3,1,4019.79,Não
+IMV-1730,Apartamento,Rio de Janeiro,Zona Oeste,285,2,1,3222.04,Sim
+IMV-1731,Estúdio,Rio de Janeiro,Zona Leste,178,1,2,3011.58,Não
+IMV-1732,Apartamento,Rio de Janeiro,Zona Sul,180,2,1,755.8,Sim
+IMV-1733,Estúdio,Belo Horizonte,Centro,118,3,2,758.85,Não
+IMV-1734,Casa,Belo Horizonte,Zona Norte,47,4,2,3845.39,Sim
+IMV-1735,Estúdio,São Paulo,Zona Norte,288,2,2,1844.67,Não
+IMV-1736,Casa,Porto Alegre,Zona Sul,177,2,1,4396.35,Não
+IMV-1737,Casa,São Paulo,Zona Oeste,266,3,1,2516.64,Sim
+IMV-1738,Casa,Salvador,Zona Leste,106,3,2,503.23,Sim
+IMV-1739,Casa,Belo Horizonte,Zona Norte,280,1,2,658.7,Não
+IMV-1740,Apartamento,Rio de Janeiro,Centro,231,3,1,1880.28,Não
+IMV-1741,Estúdio,Porto Alegre,Zona Leste,142,2,2,4284.91,Não
+IMV-1742,Estúdio,Salvador,Centro,118,3,1,1940.29,Não
+IMV-1743,Casa,Rio de Janeiro,Zona Leste,277,2,1,3328.77,Sim
+IMV-1744,Casa,Porto Alegre,Centro,47,3,2,4828.67,Não
+IMV-1745,Apartamento,Porto Alegre,Centro,284,2,1,2017.04,Não
+IMV-1746,Estúdio,São Paulo,Zona Sul,50,3,2,1156.22,Sim
+IMV-1747,Casa,Salvador,Zona Norte,267,4,2,1735.03,Não
+IMV-1748,Casa,São Paulo,Zona Norte,205,1,1,2921.19,Sim
+IMV-1749,Apartamento,Porto Alegre,Zona Sul,128,3,2,1157.08,Não
+IMV-1750,Apartamento,Rio de Janeiro,Zona Sul,81,1,1,4558.09,Não
+IMV-1751,Estúdio,Rio de Janeiro,Zona Leste,138,3,1,1300.42,Sim
+IMV-1752,Casa,São Paulo,Zona Norte,217,1,2,4782.87,Não
+IMV-1753,Estúdio,Belo Horizonte,Zona Oeste,95,1,1,2075.95,Sim
+IMV-1754,Casa,Porto Alegre,Zona Sul,193,4,1,3965.91,Não
+IMV-1755,Apartamento,São Paulo,Zona Norte,77,2,1,2921.33,Sim
+IMV-1756,Casa,São Paulo,Zona Norte,152,4,1,3607.28,Sim
+IMV-1757,Apartamento,Rio de Janeiro,Zona Sul,236,1,1,1382.43,Sim
+IMV-1758,Estúdio,Porto Alegre,Zona Oeste,174,3,1,2854.14,Não
+IMV-1759,Apartamento,São Paulo,Zona Norte,162,1,1,4984.43,Sim
+IMV-1760,Estúdio,São Paulo,Zona Leste,97,2,1,974.16,Não
+IMV-1761,Casa,Rio de Janeiro,Zona Leste,99,2,1,1989.03,Não
+IMV-1762,Estúdio,Porto Alegre,Zona Leste,218,1,2,3401.32,Sim
+IMV-1763,Apartamento,Porto Alegre,Centro,215,2,2,3779.12,Não
+IMV-1764,Apartamento,Porto Alegre,Centro,256,2,2,3103.94,Não
+IMV-1765,Estúdio,Porto Alegre,Zona Oeste,127,3,1,4192.93,Sim
+IMV-1766,Estúdio,Rio de Janeiro,Centro,227,3,1,3873.09,Não
+IMV-1767,Casa,Salvador,Zona Norte,122,1,1,3033.77,Não
+IMV-1768,Estúdio,Salvador,Zona Oeste,292,2,2,2173.15,Sim
+IMV-1769,Apartamento,Porto Alegre,Zona Oeste,291,4,2,1306.28,Não
+IMV-1770,Casa,Porto Alegre,Zona Norte,66,1,2,3961.67,Não
+IMV-1771,Estúdio,Porto Alegre,Zona Leste,230,1,1,1835.27,Não
+IMV-1772,Casa,Belo Horizonte,Zona Norte,40,4,2,3232.81,Não
+IMV-1773,Apartamento,São Paulo,Zona Norte,120,1,1,2819.38,Não
+IMV-1774,Apartamento,Salvador,Zona Sul,189,4,2,2373.82,Não
+IMV-1775,Apartamento,Salvador,Zona Sul,30,3,1,4272.85,Sim
+IMV-1776,Apartamento,São Paulo,Zona Oeste,213,4,2,2727.95,Não
+IMV-1777,Casa,Belo Horizonte,Zona Sul,214,1,2,2091.88,Sim
+IMV-1778,Estúdio,Rio de Janeiro,Zona Norte,185,2,1,1291.25,Não
+IMV-1779,Estúdio,Belo Horizonte,Centro,168,2,1,2021.33,Não
+IMV-1780,Casa,Salvador,Zona Norte,162,2,2,1329.54,Sim
+IMV-1781,Estúdio,Belo Horizonte,Zona Leste,120,4,2,3189.02,Sim
+IMV-1782,Estúdio,São Paulo,Centro,247,1,2,2809.59,Não
+IMV-1783,Apartamento,São Paulo,Zona Norte,87,3,2,1346.51,Não
+IMV-1784,Apartamento,Porto Alegre,Zona Oeste,172,1,2,1837.85,Sim
+IMV-1785,Apartamento,Belo Horizonte,Zona Leste,203,4,1,1341.39,Sim
+IMV-1786,Casa,Porto Alegre,Zona Norte,116,2,2,600.25,Não
+IMV-1787,Apartamento,Salvador,Centro,211,4,2,734.75,Sim
+IMV-1788,Casa,São Paulo,Zona Norte,296,2,1,4931.55,Sim
+IMV-1789,Casa,Salvador,Zona Oeste,74,2,1,3696.58,Não
+IMV-1790,Estúdio,São Paulo,Zona Norte,250,1,1,953.69,Sim
+IMV-1791,Apartamento,Porto Alegre,Zona Norte,96,2,2,4132.07,Sim
+IMV-1792,Casa,Belo Horizonte,Centro,194,3,2,1661.55,Sim
+IMV-1793,Apartamento,Belo Horizonte,Zona Oeste,59,3,1,2034.9,Não
+IMV-1794,Casa,São Paulo,Zona Sul,141,1,1,909.3,Sim
+IMV-1795,Estúdio,Belo Horizonte,Zona Leste,179,1,1,3701.81,Sim
+IMV-1796,Casa,Salvador,Centro,69,4,1,4929.4,Sim
+IMV-1797,Casa,Belo Horizonte,Zona Leste,192,1,1,2943.18,Sim
+IMV-1798,Apartamento,Rio de Janeiro,Zona Sul,30,4,2,4800.55,Não
+IMV-1799,Estúdio,Salvador,Centro,55,1,1,2506.71,Não
+IMV-1800,Estúdio,Rio de Janeiro,Zona Leste,70,1,1,2717.27,Não
+IMV-1801,Estúdio,Porto Alegre,Zona Leste,131,4,1,1277.96,Sim
+IMV-1802,Estúdio,São Paulo,Zona Oeste,47,3,1,3659.82,Sim
+IMV-1803,Apartamento,Porto Alegre,Centro,293,1,2,2746.27,Sim
+IMV-1804,Apartamento,Salvador,Zona Norte,91,4,1,3364.32,Não
+IMV-1805,Casa,Porto Alegre,Zona Oeste,104,3,2,3904.38,Sim
+IMV-1806,Apartamento,Rio de Janeiro,Zona Norte,294,1,1,4569.78,Não
+IMV-1807,Estúdio,Belo Horizonte,Zona Leste,143,2,2,1968.83,Não
+IMV-1808,Apartamento,Porto Alegre,Zona Leste,87,2,2,4281.55,Sim
+IMV-1809,Estúdio,São Paulo,Centro,210,4,1,2575.61,Não
+IMV-1810,Apartamento,Belo Horizonte,Zona Norte,92,2,1,3016.24,Não
+IMV-1811,Apartamento,Rio de Janeiro,Centro,252,2,1,4371.95,Não
+IMV-1812,Apartamento,São Paulo,Zona Norte,226,4,2,3166.6,Sim
+IMV-1813,Apartamento,Rio de Janeiro,Zona Norte,293,2,2,1870.52,Sim
+IMV-1814,Apartamento,Belo Horizonte,Zona Oeste,116,4,1,2057.56,Sim
+IMV-1815,Casa,São Paulo,Zona Leste,214,1,1,1102.3,Sim
+IMV-1816,Apartamento,São Paulo,Zona Sul,245,2,1,587.28,Sim
+IMV-1817,Apartamento,São Paulo,Zona Leste,127,4,1,976.08,Sim
+IMV-1818,Estúdio,Belo Horizonte,Zona Leste,50,1,2,3741.53,Sim
+IMV-1819,Apartamento,São Paulo,Zona Oeste,108,1,2,4141.38,Não
+IMV-1820,Casa,Porto Alegre,Centro,224,2,2,4463.78,Sim
+IMV-1821,Casa,Belo Horizonte,Zona Oeste,75,2,1,3339.95,Sim
+IMV-1822,Apartamento,Salvador,Zona Leste,140,1,2,886.33,Não
+IMV-1823,Estúdio,Belo Horizonte,Zona Norte,159,4,1,3705.77,Não
+IMV-1824,Apartamento,Belo Horizonte,Zona Sul,54,4,2,4230.0,Não
+IMV-1825,Casa,São Paulo,Centro,74,1,2,2614.27,Sim
+IMV-1826,Casa,São Paulo,Zona Sul,281,3,2,4934.37,Não
+IMV-1827,Casa,Porto Alegre,Zona Leste,293,2,2,4390.81,Não
+IMV-1828,Apartamento,São Paulo,Zona Leste,283,1,2,3748.92,Não
+IMV-1829,Casa,São Paulo,Zona Norte,263,3,1,4008.27,Não
+IMV-1830,Casa,São Paulo,Zona Sul,103,4,2,943.96,Sim
+IMV-1831,Apartamento,Salvador,Zona Oeste,111,2,2,2049.57,Não
+IMV-1832,Apartamento,Belo Horizonte,Centro,79,1,2,3144.31,Não
+IMV-1833,Estúdio,Belo Horizonte,Zona Sul,285,4,1,4783.16,Sim
+IMV-1834,Apartamento,São Paulo,Zona Norte,124,3,1,678.92,Sim
+IMV-1835,Casa,Salvador,Centro,222,2,1,2144.08,Não
+IMV-1836,Casa,Porto Alegre,Zona Leste,234,2,1,4717.88,Sim
+IMV-1837,Apartamento,Porto Alegre,Zona Leste,45,1,2,4715.23,Sim
+IMV-1838,Casa,São Paulo,Zona Leste,260,4,2,1309.81,Sim
+IMV-1839,Casa,Porto Alegre,Centro,61,1,1,1709.61,Não
+IMV-1840,Estúdio,Salvador,Centro,152,2,1,1632.39,Sim
+IMV-1841,Apartamento,Salvador,Zona Oeste,49,1,1,2683.51,Sim
+IMV-1842,Estúdio,Porto Alegre,Zona Norte,236,4,2,972.14,Sim
+IMV-1843,Estúdio,Porto Alegre,Zona Norte,150,2,1,4421.36,Não
+IMV-1844,Casa,Rio de Janeiro,Zona Norte,242,4,2,1360.61,Sim
+IMV-1845,Apartamento,Porto Alegre,Centro,91,4,2,4956.89,Sim
+IMV-1846,Estúdio,Belo Horizonte,Zona Oeste,133,1,2,675.83,Sim
+IMV-1847,Estúdio,São Paulo,Zona Norte,86,4,2,3411.42,Sim
+IMV-1848,Apartamento,Porto Alegre,Centro,205,2,2,1457.05,Não
+IMV-1849,Apartamento,São Paulo,Zona Leste,277,4,1,3569.94,Sim
+IMV-1850,Apartamento,Porto Alegre,Centro,61,4,2,4068.1,Sim
+IMV-1851,Apartamento,Salvador,Zona Oeste,275,4,2,2349.73,Sim
+IMV-1852,Casa,Porto Alegre,Zona Norte,119,3,2,533.61,Sim
+IMV-1853,Apartamento,Porto Alegre,Zona Norte,260,1,2,510.97,Não
+IMV-1854,Casa,São Paulo,Zona Leste,285,3,2,4934.58,Não
+IMV-1855,Apartamento,Belo Horizonte,Zona Oeste,175,2,1,4323.31,Não
+IMV-1856,Apartamento,São Paulo,Zona Norte,211,3,1,4998.06,Não
+IMV-1857,Estúdio,Salvador,Zona Norte,286,1,2,655.97,Não
+IMV-1858,Casa,Belo Horizonte,Zona Leste,81,1,2,3094.61,Não
+IMV-1859,Apartamento,São Paulo,Zona Norte,130,4,2,932.97,Sim
+IMV-1860,Estúdio,Belo Horizonte,Zona Leste,156,1,1,2958.58,Não
+IMV-1861,Casa,Belo Horizonte,Zona Leste,133,1,1,2468.02,Não
+IMV-1862,Apartamento,Belo Horizonte,Zona Leste,127,2,1,2545.98,Sim
+IMV-1863,Casa,Belo Horizonte,Zona Norte,201,4,1,3596.77,Sim
+IMV-1864,Casa,Rio de Janeiro,Zona Leste,148,1,1,3772.53,Não
+IMV-1865,Estúdio,Rio de Janeiro,Zona Sul,54,1,1,3256.56,Não
+IMV-1866,Casa,São Paulo,Zona Sul,88,4,1,3975.3,Sim
+IMV-1867,Estúdio,Belo Horizonte,Zona Norte,291,3,2,853.44,Sim
+IMV-1868,Estúdio,Porto Alegre,Zona Norte,71,4,2,2284.37,Sim
+IMV-1869,Apartamento,Salvador,Centro,34,1,2,1187.53,Sim
+IMV-1870,Apartamento,Salvador,Zona Norte,259,3,2,3296.35,Não
+IMV-1871,Estúdio,Rio de Janeiro,Zona Norte,103,1,1,3755.6,Não
+IMV-1872,Casa,São Paulo,Zona Oeste,212,1,2,4215.62,Sim
+IMV-1873,Apartamento,Salvador,Zona Leste,176,3,2,4242.79,Sim
+IMV-1874,Estúdio,Belo Horizonte,Zona Norte,140,3,1,4409.03,Sim
+IMV-1875,Estúdio,São Paulo,Centro,118,3,1,1858.22,Sim
+IMV-1876,Estúdio,Salvador,Zona Oeste,247,4,2,1417.16,Sim
+IMV-1877,Casa,Rio de Janeiro,Centro,58,3,1,2998.12,Sim
+IMV-1878,Apartamento,Rio de Janeiro,Zona Sul,68,2,1,2297.07,Não
+IMV-1879,Estúdio,Porto Alegre,Zona Oeste,216,3,1,4771.34,Sim
+IMV-1880,Casa,Porto Alegre,Zona Sul,194,1,2,4984.8,Sim
+IMV-1881,Estúdio,Rio de Janeiro,Centro,61,2,2,2133.45,Não
+IMV-1882,Estúdio,Salvador,Zona Norte,63,3,1,2590.96,Não
+IMV-1883,Estúdio,Salvador,Zona Sul,172,4,2,2125.55,Não
+IMV-1884,Apartamento,São Paulo,Centro,201,2,2,3037.41,Sim
+IMV-1885,Estúdio,Porto Alegre,Zona Oeste,82,2,1,2113.61,Não
+IMV-1886,Apartamento,Salvador,Zona Oeste,228,2,1,944.78,Sim
+IMV-1887,Casa,Salvador,Zona Leste,187,4,1,3908.04,Não
+IMV-1888,Apartamento,Porto Alegre,Zona Leste,248,1,1,4886.71,Não
+IMV-1889,Apartamento,Salvador,Zona Oeste,187,4,1,727.29,Sim
+IMV-1890,Casa,Salvador,Zona Sul,115,1,2,914.56,Não
+IMV-1891,Casa,São Paulo,Zona Oeste,94,2,1,4305.17,Não
+IMV-1892,Estúdio,Rio de Janeiro,Zona Leste,100,1,2,851.9,Não
+IMV-1893,Casa,São Paulo,Centro,212,2,1,2139.08,Não
+IMV-1894,Casa,Porto Alegre,Zona Oeste,185,3,2,2357.95,Sim
+IMV-1895,Estúdio,Belo Horizonte,Centro,121,2,2,3912.28,Não
+IMV-1896,Apartamento,Rio de Janeiro,Zona Oeste,194,3,2,4884.71,Não
+IMV-1897,Estúdio,Porto Alegre,Centro,110,4,2,2223.38,Não
+IMV-1898,Estúdio,Rio de Janeiro,Zona Sul,69,3,1,3864.54,Sim
+IMV-1899,Casa,São Paulo,Centro,228,4,2,629.54,Sim
+IMV-1900,Apartamento,Belo Horizonte,Zona Sul,248,2,2,3598.24,Não
+IMV-1901,Apartamento,São Paulo,Centro,234,4,2,1036.1,Não
+IMV-1902,Estúdio,Belo Horizonte,Zona Oeste,181,3,2,2846.97,Sim
+IMV-1903,Casa,Rio de Janeiro,Zona Norte,192,4,1,2857.84,Sim
+IMV-1904,Apartamento,Belo Horizonte,Zona Norte,260,3,1,3312.77,Sim
+IMV-1905,Apartamento,Belo Horizonte,Zona Oeste,184,3,1,4626.16,Não
+IMV-1906,Casa,Belo Horizonte,Zona Oeste,126,1,2,2431.23,Sim
+IMV-1907,Casa,Porto Alegre,Zona Norte,120,3,2,3205.98,Não
+IMV-1908,Estúdio,São Paulo,Zona Leste,170,4,2,746.64,Sim
+IMV-1909,Estúdio,Porto Alegre,Zona Norte,147,2,1,1237.74,Sim
+IMV-1910,Apartamento,Rio de Janeiro,Zona Oeste,245,1,1,4471.0,Não
+IMV-1911,Casa,Porto Alegre,Centro,55,4,2,1305.15,Não
+IMV-1912,Apartamento,Salvador,Centro,263,1,1,4914.07,Sim
+IMV-1913,Estúdio,Belo Horizonte,Centro,265,4,2,4513.92,Sim
+IMV-1914,Apartamento,Porto Alegre,Zona Sul,287,1,1,2314.39,Sim
+IMV-1915,Estúdio,Rio de Janeiro,Zona Sul,104,1,2,4112.82,Não
+IMV-1916,Estúdio,Porto Alegre,Zona Norte,150,3,2,3259.98,Sim
+IMV-1917,Casa,Salvador,Zona Leste,34,4,2,3399.91,Sim
+IMV-1918,Estúdio,Porto Alegre,Zona Norte,44,3,1,3977.24,Não
+IMV-1919,Estúdio,Belo Horizonte,Zona Leste,254,2,1,761.37,Sim
+IMV-1920,Apartamento,Belo Horizonte,Zona Leste,57,4,2,4437.2,Sim
+IMV-1921,Apartamento,São Paulo,Centro,287,1,2,2568.23,Não
+IMV-1922,Apartamento,São Paulo,Zona Sul,217,3,1,2588.64,Sim
+IMV-1923,Estúdio,Rio de Janeiro,Zona Leste,63,3,2,1417.69,Não
+IMV-1924,Casa,Salvador,Zona Sul,289,2,2,1229.44,Não
+IMV-1925,Casa,São Paulo,Centro,229,3,1,4190.54,Não
+IMV-1926,Apartamento,Rio de Janeiro,Zona Norte,274,3,1,2161.56,Não
+IMV-1927,Estúdio,São Paulo,Zona Leste,246,4,2,4751.47,Sim
+IMV-1928,Casa,Belo Horizonte,Centro,101,1,1,3635.37,Sim
+IMV-1929,Casa,Rio de Janeiro,Zona Norte,74,2,1,2961.94,Sim
+IMV-1930,Casa,Salvador,Zona Oeste,99,1,1,4926.56,Sim
+IMV-1931,Apartamento,Belo Horizonte,Zona Sul,267,4,1,4742.88,Não
+IMV-1932,Estúdio,São Paulo,Zona Oeste,241,2,2,2902.68,Sim
+IMV-1933,Estúdio,São Paulo,Zona Sul,258,4,2,2335.75,Sim
+IMV-1934,Estúdio,Porto Alegre,Zona Leste,295,3,1,4424.92,Não
+IMV-1935,Casa,Rio de Janeiro,Zona Norte,235,2,1,3359.25,Não
+IMV-1936,Estúdio,São Paulo,Zona Oeste,42,4,2,3444.47,Sim
+IMV-1937,Estúdio,São Paulo,Zona Oeste,286,1,2,4159.45,Sim
+IMV-1938,Casa,Rio de Janeiro,Zona Leste,151,2,2,4966.24,Sim
+IMV-1939,Estúdio,Rio de Janeiro,Zona Sul,151,3,1,1588.89,Sim
+IMV-1940,Apartamento,Salvador,Zona Leste,160,2,2,1891.04,Sim
+IMV-1941,Estúdio,Rio de Janeiro,Centro,72,3,1,1492.11,Sim
+IMV-1942,Apartamento,Rio de Janeiro,Zona Leste,151,1,1,3970.41,Sim
+IMV-1943,Casa,Salvador,Centro,262,1,2,2840.99,Sim
+IMV-1944,Casa,Salvador,Zona Leste,150,2,2,667.81,Sim
+IMV-1945,Apartamento,Rio de Janeiro,Centro,282,2,1,3397.89,Sim
+IMV-1946,Apartamento,Rio de Janeiro,Centro,82,4,1,4901.24,Não
+IMV-1947,Apartamento,Porto Alegre,Zona Norte,72,1,2,1716.45,Sim
+IMV-1948,Apartamento,Salvador,Zona Oeste,283,1,2,3466.52,Não
+IMV-1949,Casa,Belo Horizonte,Zona Oeste,216,4,2,608.82,Não
+IMV-1950,Casa,São Paulo,Zona Norte,106,2,1,1209.46,Sim
+IMV-1951,Estúdio,Rio de Janeiro,Zona Leste,57,4,2,3281.04,Sim
+IMV-1952,Apartamento,Porto Alegre,Zona Norte,114,3,2,2178.86,Sim
+IMV-1953,Estúdio,São Paulo,Zona Norte,242,2,1,4529.09,Não
+IMV-1954,Apartamento,São Paulo,Zona Oeste,157,4,1,4393.85,Sim
+IMV-1955,Apartamento,Salvador,Zona Leste,109,1,2,870.84,Não
+IMV-1956,Estúdio,São Paulo,Centro,230,2,1,1076.42,Não
+IMV-1957,Estúdio,Belo Horizonte,Zona Norte,269,1,1,4232.53,Não
+IMV-1958,Apartamento,Salvador,Zona Norte,113,1,1,4759.95,Não
+IMV-1959,Casa,São Paulo,Zona Leste,119,3,1,954.12,Sim
+IMV-1960,Estúdio,Salvador,Zona Leste,108,3,2,2675.48,Sim
+IMV-1961,Estúdio,São Paulo,Zona Norte,146,3,2,4831.72,Não
+IMV-1962,Casa,Salvador,Zona Oeste,256,3,1,4177.05,Não
+IMV-1963,Apartamento,Rio de Janeiro,Zona Norte,113,4,1,4205.45,Não
+IMV-1964,Estúdio,Rio de Janeiro,Zona Oeste,210,4,1,797.52,Sim
+IMV-1965,Casa,São Paulo,Centro,168,3,2,2029.79,Não
+IMV-1966,Estúdio,Porto Alegre,Zona Leste,132,4,2,3043.02,Não
+IMV-1967,Casa,Belo Horizonte,Centro,78,1,2,3306.9,Não
+IMV-1968,Casa,São Paulo,Zona Norte,92,3,2,610.48,Não
+IMV-1969,Casa,Belo Horizonte,Zona Leste,269,4,1,3786.31,Não
+IMV-1970,Estúdio,Salvador,Zona Sul,247,1,1,4516.0,Não
+IMV-1971,Casa,Rio de Janeiro,Zona Leste,266,3,2,2616.62,Sim
+IMV-1972,Apartamento,São Paulo,Zona Oeste,86,2,1,2008.96,Sim
+IMV-1973,Casa,Porto Alegre,Zona Norte,209,2,1,1904.32,Sim
+IMV-1974,Estúdio,Rio de Janeiro,Zona Norte,82,1,2,1197.57,Sim
+IMV-1975,Casa,Rio de Janeiro,Zona Norte,64,4,1,2597.72,Não
+IMV-1976,Apartamento,Porto Alegre,Zona Oeste,143,1,2,3552.24,Não
+IMV-1977,Estúdio,Rio de Janeiro,Centro,193,2,2,2052.21,Sim
+IMV-1978,Casa,Porto Alegre,Zona Sul,111,3,1,2580.7,Não
+IMV-1979,Casa,São Paulo,Zona Oeste,41,2,2,1362.81,Não
+IMV-1980,Estúdio,Belo Horizonte,Zona Norte,152,3,1,3710.58,Não
+IMV-1981,Apartamento,Porto Alegre,Zona Leste,51,2,2,3093.84,Sim
+IMV-1982,Estúdio,Rio de Janeiro,Zona Norte,152,2,1,2850.94,Sim
+IMV-1983,Estúdio,Belo Horizonte,Centro,289,3,1,4927.76,Não
+IMV-1984,Estúdio,Porto Alegre,Zona Norte,44,4,1,4829.73,Sim
+IMV-1985,Casa,Rio de Janeiro,Centro,113,3,1,4385.7,Sim
+IMV-1986,Apartamento,Rio de Janeiro,Zona Leste,143,2,2,2998.96,Não
+IMV-1987,Apartamento,Porto Alegre,Centro,230,1,1,3574.47,Sim
+IMV-1988,Casa,Porto Alegre,Zona Leste,107,4,2,1507.18,Não
+IMV-1989,Apartamento,Rio de Janeiro,Zona Sul,279,3,1,3624.63,Sim
+IMV-1990,Estúdio,Rio de Janeiro,Centro,187,4,1,2387.49,Sim
+IMV-1991,Casa,Belo Horizonte,Zona Leste,89,2,1,3764.23,Não
+IMV-1992,Casa,Rio de Janeiro,Centro,38,3,2,3206.32,Não
+IMV-1993,Apartamento,Rio de Janeiro,Centro,252,3,1,4579.5,Não
+IMV-1994,Casa,Porto Alegre,Zona Sul,37,1,1,4081.19,Sim
+IMV-1995,Casa,Belo Horizonte,Zona Leste,244,4,2,2722.59,Não
+IMV-1996,Casa,Rio de Janeiro,Centro,185,1,2,1144.55,Não
+IMV-1997,Estúdio,Porto Alegre,Zona Sul,265,2,2,1726.99,Sim
+IMV-1998,Apartamento,Salvador,Zona Oeste,265,2,2,4124.04,Sim
+IMV-1999,Estúdio,Rio de Janeiro,Zona Sul,228,3,2,2430.01,Não
+IMV-2000,Casa,São Paulo,Zona Leste,203,2,1,573.31,Sim
+IMV-2001,Apartamento,Porto Alegre,Zona Norte,91,4,1,1706.24,Sim
+IMV-2002,Estúdio,São Paulo,Centro,171,4,2,3783.35,Não
+IMV-2003,Apartamento,Salvador,Zona Oeste,140,4,1,1424.49,Sim
+IMV-2004,Estúdio,Porto Alegre,Zona Leste,119,3,2,3044.91,Sim
+IMV-2005,Casa,Porto Alegre,Zona Oeste,115,4,2,1988.3,Não
+IMV-2006,Apartamento,Belo Horizonte,Zona Leste,209,1,2,512.68,Sim
+IMV-2007,Casa,Porto Alegre,Centro,266,3,1,2585.69,Não
+IMV-2008,Estúdio,Salvador,Zona Leste,108,2,2,1885.28,Sim
+IMV-2009,Casa,Rio de Janeiro,Zona Norte,132,3,2,1783.87,Não
+IMV-2010,Casa,Belo Horizonte,Zona Oeste,275,2,2,4003.49,Sim
+IMV-2011,Casa,Belo Horizonte,Zona Sul,35,2,1,2910.56,Sim
+IMV-2012,Casa,Belo Horizonte,Centro,129,4,1,1118.24,Não
+IMV-2013,Estúdio,Salvador,Zona Norte,81,3,1,4502.2,Não
+IMV-2014,Estúdio,Rio de Janeiro,Zona Norte,160,4,2,4076.48,Não
+IMV-2015,Estúdio,Salvador,Zona Oeste,115,1,2,4348.7,Sim
+IMV-2016,Casa,Rio de Janeiro,Zona Oeste,158,4,1,3893.66,Não
+IMV-2017,Casa,Belo Horizonte,Zona Leste,224,4,2,1513.73,Sim
+IMV-2018,Casa,Belo Horizonte,Zona Sul,277,1,1,3843.57,Sim
+IMV-2019,Apartamento,Salvador,Zona Sul,138,1,2,3325.48,Não
+IMV-2020,Apartamento,São Paulo,Zona Oeste,266,4,2,3859.73,Não
+IMV-2021,Casa,Porto Alegre,Zona Leste,168,3,1,4508.04,Não
+IMV-2022,Casa,Porto Alegre,Zona Norte,240,1,2,757.68,Sim
+IMV-2023,Casa,São Paulo,Zona Oeste,175,1,2,2022.16,Sim
+IMV-2024,Casa,Belo Horizonte,Zona Oeste,126,1,2,3269.03,Sim
+IMV-2025,Casa,São Paulo,Centro,197,4,2,1726.43,Não
+IMV-2026,Apartamento,Porto Alegre,Zona Norte,80,3,1,3008.83,Não
+IMV-2027,Casa,Rio de Janeiro,Zona Oeste,276,2,2,2601.08,Não
+IMV-2028,Casa,Belo Horizonte,Zona Sul,122,2,1,717.59,Não
+IMV-2029,Casa,Porto Alegre,Zona Leste,289,2,1,534.15,Sim
+IMV-2030,Estúdio,Porto Alegre,Zona Norte,165,3,1,4230.3,Não
+IMV-2031,Estúdio,Rio de Janeiro,Zona Norte,74,1,1,724.04,Sim
+IMV-2032,Casa,Porto Alegre,Zona Oeste,261,3,1,4645.17,Sim
+IMV-2033,Estúdio,São Paulo,Zona Leste,121,3,1,4195.71,Sim
+IMV-2034,Apartamento,Porto Alegre,Centro,117,2,2,1454.95,Não
+IMV-2035,Apartamento,Rio de Janeiro,Zona Norte,162,1,1,1033.56,Sim
+IMV-2036,Estúdio,Rio de Janeiro,Zona Leste,53,4,2,4011.33,Não
+IMV-2037,Apartamento,São Paulo,Zona Sul,249,4,2,2304.43,Sim
+IMV-2038,Estúdio,São Paulo,Zona Sul,293,4,1,2469.2,Não
+IMV-2039,Estúdio,Porto Alegre,Zona Oeste,216,3,1,3691.21,Não
+IMV-2040,Estúdio,Salvador,Zona Oeste,237,1,1,1946.46,Não
+IMV-2041,Casa,Salvador,Zona Leste,286,3,1,2832.91,Sim
+IMV-2042,Casa,Belo Horizonte,Zona Sul,130,1,2,3037.98,Não
+IMV-2043,Estúdio,Rio de Janeiro,Zona Leste,229,4,2,1125.49,Não
+IMV-2044,Casa,Salvador,Zona Norte,113,3,2,981.64,Sim
+IMV-2045,Casa,Salvador,Zona Norte,288,1,1,1254.41,Não
+IMV-2046,Casa,Belo Horizonte,Zona Sul,272,2,1,2640.93,Não
+IMV-2047,Estúdio,São Paulo,Centro,73,1,2,4659.98,Não
+IMV-2048,Apartamento,Salvador,Zona Sul,106,3,2,3222.98,Não
+IMV-2049,Apartamento,São Paulo,Centro,91,3,1,4577.47,Sim
+IMV-2050,Apartamento,São Paulo,Zona Norte,274,4,2,4208.72,Sim
+IMV-2051,Estúdio,Belo Horizonte,Zona Leste,97,3,2,3556.88,Não
+IMV-2052,Apartamento,Salvador,Zona Sul,140,3,1,4076.28,Não
+IMV-2053,Apartamento,São Paulo,Zona Sul,164,3,1,4833.13,Sim
+IMV-2054,Estúdio,Rio de Janeiro,Zona Leste,237,4,2,1228.06,Não
+IMV-2055,Casa,Belo Horizonte,Centro,288,1,2,3561.2,Sim
+IMV-2056,Estúdio,Belo Horizonte,Zona Oeste,118,1,1,1798.56,Não
+IMV-2057,Casa,Salvador,Zona Sul,137,1,1,3518.6,Não
+IMV-2058,Estúdio,Salvador,Centro,170,1,2,633.79,Não
+IMV-2059,Estúdio,São Paulo,Centro,296,2,2,4845.19,Sim
+IMV-2060,Estúdio,Porto Alegre,Zona Norte,81,4,2,968.19,Não
+IMV-2061,Estúdio,Salvador,Zona Sul,215,4,1,3182.44,Não
+IMV-2062,Apartamento,Belo Horizonte,Zona Leste,264,3,2,4324.84,Sim
+IMV-2063,Estúdio,São Paulo,Zona Sul,197,1,1,3103.15,Não
+IMV-2064,Casa,Porto Alegre,Zona Sul,221,3,2,4141.21,Sim
+IMV-2065,Apartamento,São Paulo,Zona Sul,251,1,1,4578.66,Sim
+IMV-2066,Estúdio,Salvador,Centro,153,2,1,2516.61,Não
+IMV-2067,Casa,Salvador,Centro,164,2,2,1096.01,Sim
+IMV-2068,Estúdio,Rio de Janeiro,Zona Leste,67,1,2,744.79,Não
+IMV-2069,Estúdio,Rio de Janeiro,Zona Leste,294,2,1,2370.29,Sim
+IMV-2070,Casa,Porto Alegre,Zona Oeste,178,4,1,3433.44,Não
+IMV-2071,Apartamento,São Paulo,Zona Oeste,181,1,1,3007.3,Sim
+IMV-2072,Casa,Salvador,Centro,144,2,2,639.32,Não
+IMV-2073,Casa,Salvador,Zona Leste,199,3,2,4508.2,Não
+IMV-2074,Estúdio,São Paulo,Zona Norte,144,4,2,4296.22,Sim
+IMV-2075,Estúdio,Porto Alegre,Zona Norte,293,3,1,2694.99,Não
+IMV-2076,Estúdio,São Paulo,Centro,130,3,1,3451.93,Sim
+IMV-2077,Apartamento,Rio de Janeiro,Centro,99,2,1,1064.47,Sim
+IMV-2078,Apartamento,São Paulo,Zona Norte,183,1,1,4665.66,Sim
+IMV-2079,Apartamento,Belo Horizonte,Zona Leste,129,4,1,866.09,Sim
+IMV-2080,Estúdio,Rio de Janeiro,Zona Sul,241,3,1,3051.47,Sim
+IMV-2081,Casa,Porto Alegre,Centro,285,1,2,2862.71,Sim
+IMV-2082,Apartamento,Rio de Janeiro,Zona Norte,275,1,2,3821.58,Não
+IMV-2083,Estúdio,São Paulo,Zona Sul,172,1,2,2128.4,Não
+IMV-2084,Apartamento,Belo Horizonte,Zona Sul,98,1,2,4725.99,Sim
+IMV-2085,Estúdio,Belo Horizonte,Zona Norte,114,3,2,3423.43,Sim
+IMV-2086,Apartamento,Belo Horizonte,Zona Sul,166,2,2,1828.44,Não
+IMV-2087,Casa,Rio de Janeiro,Zona Leste,190,3,1,2211.32,Sim
+IMV-2088,Estúdio,Salvador,Zona Oeste,37,4,2,4572.65,Não
+IMV-2089,Apartamento,Porto Alegre,Zona Leste,211,2,1,1065.34,Não
+IMV-2090,Estúdio,Porto Alegre,Zona Sul,117,1,2,1612.65,Não
+IMV-2091,Casa,Rio de Janeiro,Zona Sul,219,1,2,1280.47,Não
+IMV-2092,Estúdio,Rio de Janeiro,Zona Leste,263,2,1,2456.4,Sim
+IMV-2093,Estúdio,Belo Horizonte,Centro,233,2,1,4142.14,Sim
+IMV-2094,Casa,Porto Alegre,Zona Norte,70,4,1,2837.89,Não
+IMV-2095,Casa,São Paulo,Zona Leste,150,3,2,4112.64,Não
+IMV-2096,Casa,Salvador,Zona Norte,225,1,2,3062.13,Não
+IMV-2097,Estúdio,Porto Alegre,Zona Oeste,176,4,2,3236.25,Não
+IMV-2098,Apartamento,Salvador,Zona Sul,261,3,1,3978.24,Não
+IMV-2099,Apartamento,Rio de Janeiro,Zona Oeste,93,1,2,702.26,Sim
+IMV-2100,Casa,Belo Horizonte,Zona Oeste,189,1,2,557.05,Não
+IMV-2101,Apartamento,Belo Horizonte,Centro,50,2,2,2440.06,Não
+IMV-2102,Casa,São Paulo,Zona Leste,183,2,1,918.63,Sim
+IMV-2103,Estúdio,São Paulo,Zona Oeste,214,4,2,2619.51,Não
+IMV-2104,Estúdio,Salvador,Centro,287,1,1,1463.01,Sim
+IMV-2105,Casa,Porto Alegre,Zona Norte,138,4,2,1623.31,Não
+IMV-2106,Casa,Porto Alegre,Zona Sul,200,4,2,3285.8,Não
+IMV-2107,Estúdio,Rio de Janeiro,Centro,45,1,1,1609.98,Sim
+IMV-2108,Estúdio,Rio de Janeiro,Zona Oeste,114,2,2,3560.79,Não
+IMV-2109,Casa,Salvador,Centro,151,2,1,2529.44,Não
+IMV-2110,Estúdio,Rio de Janeiro,Zona Oeste,124,4,1,3913.28,Não
+IMV-2111,Apartamento,Salvador,Zona Sul,72,4,1,4935.6,Não
+IMV-2112,Casa,Belo Horizonte,Zona Oeste,127,1,2,1024.62,Sim
+IMV-2113,Casa,Belo Horizonte,Zona Oeste,112,1,2,4209.55,Sim
+IMV-2114,Apartamento,Belo Horizonte,Zona Sul,270,4,1,1078.6,Não
+IMV-2115,Estúdio,Salvador,Zona Leste,259,3,1,3119.97,Sim
+IMV-2116,Estúdio,Porto Alegre,Centro,260,2,2,678.67,Não
+IMV-2117,Apartamento,Rio de Janeiro,Zona Leste,164,2,2,751.68,Não
+IMV-2118,Casa,Belo Horizonte,Centro,157,1,2,1289.78,Sim
+IMV-2119,Estúdio,Rio de Janeiro,Zona Oeste,208,1,2,1254.26,Sim
+IMV-2120,Estúdio,Porto Alegre,Zona Sul,173,1,1,3023.2,Sim
+IMV-2121,Casa,São Paulo,Zona Leste,76,4,2,3312.08,Sim
+IMV-2122,Estúdio,São Paulo,Centro,160,4,2,2241.81,Não
+IMV-2123,Estúdio,Salvador,Centro,199,3,1,3422.26,Sim
+IMV-2124,Casa,São Paulo,Zona Oeste,68,1,1,1975.6,Não
+IMV-2125,Apartamento,São Paulo,Zona Norte,179,3,1,1574.02,Não
+IMV-2126,Apartamento,São Paulo,Zona Norte,223,2,2,1018.42,Não
+IMV-2127,Apartamento,Rio de Janeiro,Zona Sul,120,3,1,1189.92,Sim
+IMV-2128,Apartamento,Belo Horizonte,Zona Leste,133,2,1,1557.7,Sim
+IMV-2129,Estúdio,Porto Alegre,Zona Sul,294,3,2,969.26,Não
+IMV-2130,Casa,Belo Horizonte,Zona Oeste,212,1,1,2378.42,Sim
+IMV-2131,Casa,Salvador,Zona Oeste,269,4,1,2607.65,Não
+IMV-2132,Apartamento,Porto Alegre,Zona Norte,283,2,1,3924.34,Sim
+IMV-2133,Estúdio,Porto Alegre,Zona Sul,233,2,1,4763.51,Sim
+IMV-2134,Estúdio,Porto Alegre,Zona Leste,77,4,2,3542.53,Sim
+IMV-2135,Estúdio,São Paulo,Zona Oeste,218,1,2,1681.87,Sim
+IMV-2136,Apartamento,Porto Alegre,Zona Sul,74,3,2,1838.69,Sim
+IMV-2137,Casa,Rio de Janeiro,Centro,255,2,1,2381.4,Não
+IMV-2138,Casa,Rio de Janeiro,Zona Norte,153,4,1,4577.78,Não
+IMV-2139,Casa,Salvador,Zona Sul,292,1,1,4943.31,Sim
+IMV-2140,Apartamento,Rio de Janeiro,Zona Sul,57,4,2,4899.06,Não
+IMV-2141,Apartamento,Porto Alegre,Zona Norte,99,1,1,3120.57,Não
+IMV-2142,Casa,Rio de Janeiro,Centro,186,4,1,2538.73,Sim
+IMV-2143,Casa,Belo Horizonte,Zona Sul,216,2,1,3475.52,Sim
+IMV-2144,Apartamento,Belo Horizonte,Zona Norte,205,1,1,2655.0,Sim
+IMV-2145,Estúdio,São Paulo,Zona Leste,297,3,1,2812.57,Não
+IMV-2146,Apartamento,Belo Horizonte,Zona Leste,234,3,2,533.78,Não
+IMV-2147,Estúdio,Belo Horizonte,Zona Norte,80,4,1,1860.62,Não
+IMV-2148,Casa,Salvador,Centro,216,4,2,3362.19,Sim
+IMV-2149,Apartamento,São Paulo,Zona Leste,233,1,1,1271.26,Sim
+IMV-2150,Apartamento,Belo Horizonte,Centro,279,3,2,1885.78,Sim
+IMV-2151,Apartamento,Rio de Janeiro,Zona Leste,64,4,1,4381.16,Não
+IMV-2152,Estúdio,São Paulo,Centro,164,3,1,3400.23,Sim
+IMV-2153,Casa,São Paulo,Zona Norte,282,4,1,1648.7,Não
+IMV-2154,Apartamento,Porto Alegre,Zona Sul,256,4,2,1499.05,Não
+IMV-2155,Apartamento,Porto Alegre,Zona Oeste,39,4,1,3079.14,Sim
+IMV-2156,Estúdio,Salvador,Zona Oeste,276,1,1,3738.81,Não
+IMV-2157,Apartamento,Rio de Janeiro,Zona Sul,244,4,1,1156.33,Sim
+IMV-2158,Casa,Belo Horizonte,Centro,149,2,2,2812.42,Sim
+IMV-2159,Casa,Rio de Janeiro,Centro,94,3,1,1111.8,Sim
+IMV-2160,Apartamento,Salvador,Zona Sul,199,3,2,927.89,Sim
+IMV-2161,Casa,São Paulo,Zona Oeste,168,1,1,3612.4,Não
+IMV-2162,Estúdio,São Paulo,Centro,93,2,1,2439.38,Não
+IMV-2163,Casa,São Paulo,Zona Oeste,54,1,1,4342.82,Não
+IMV-2164,Apartamento,Porto Alegre,Centro,145,4,1,1706.03,Sim
+IMV-2165,Apartamento,Porto Alegre,Zona Norte,239,1,2,1956.48,Não
+IMV-2166,Estúdio,São Paulo,Centro,138,2,1,3469.56,Sim
+IMV-2167,Casa,Porto Alegre,Centro,210,1,1,2372.35,Não
+IMV-2168,Estúdio,São Paulo,Zona Norte,140,4,2,2160.93,Não
+IMV-2169,Casa,Porto Alegre,Zona Oeste,166,3,2,4874.24,Não
+IMV-2170,Apartamento,São Paulo,Centro,86,1,1,3686.16,Não
+IMV-2171,Apartamento,São Paulo,Zona Sul,228,4,1,3770.09,Sim
+IMV-2172,Casa,Belo Horizonte,Zona Leste,54,4,1,4655.69,Não
+IMV-2173,Estúdio,Belo Horizonte,Centro,151,3,1,4708.08,Sim
+IMV-2174,Apartamento,Belo Horizonte,Zona Sul,275,3,1,3003.13,Sim
+IMV-2175,Casa,Belo Horizonte,Zona Norte,187,3,2,3369.38,Não
+IMV-2176,Estúdio,Salvador,Zona Leste,248,4,2,1963.89,Não
+IMV-2177,Casa,Salvador,Zona Leste,123,3,1,2357.72,Não
+IMV-2178,Casa,Salvador,Zona Norte,268,1,1,1799.7,Sim
+IMV-2179,Apartamento,Rio de Janeiro,Zona Norte,58,4,1,2469.62,Sim
+IMV-2180,Casa,Rio de Janeiro,Zona Oeste,66,1,2,727.74,Não
+IMV-2181,Casa,Salvador,Zona Sul,162,4,2,1227.03,Sim
+IMV-2182,Casa,Porto Alegre,Zona Leste,114,1,1,1802.61,Não
+IMV-2183,Casa,Rio de Janeiro,Zona Leste,205,4,2,3546.03,Sim
+IMV-2184,Estúdio,Belo Horizonte,Zona Oeste,268,4,2,3057.19,Sim
+IMV-2185,Casa,Salvador,Zona Oeste,122,1,1,881.64,Sim
+IMV-2186,Estúdio,Rio de Janeiro,Zona Leste,124,1,2,1733.76,Não
+IMV-2187,Casa,São Paulo,Centro,284,2,2,647.94,Não
+IMV-2188,Estúdio,Rio de Janeiro,Centro,204,1,2,3749.79,Sim
+IMV-2189,Casa,Rio de Janeiro,Centro,177,3,2,1182.27,Sim
+IMV-2190,Apartamento,Salvador,Zona Oeste,178,2,2,4003.49,Não
+IMV-2191,Estúdio,Belo Horizonte,Zona Norte,138,1,1,697.94,Não
+IMV-2192,Apartamento,Porto Alegre,Zona Sul,165,1,1,1227.82,Sim
+IMV-2193,Apartamento,São Paulo,Zona Norte,226,3,1,2914.39,Não
+IMV-2194,Estúdio,Rio de Janeiro,Centro,211,2,1,4758.72,Sim
+IMV-2195,Apartamento,Salvador,Zona Norte,149,2,1,1939.67,Não
+IMV-2196,Casa,São Paulo,Zona Sul,68,1,2,3510.92,Sim
+IMV-2197,Casa,São Paulo,Zona Leste,80,1,2,4593.79,Não
+IMV-2198,Casa,Belo Horizonte,Centro,192,4,2,921.73,Não
+IMV-2199,Apartamento,Salvador,Zona Norte,220,2,1,2587.07,Sim
+IMV-2200,Casa,Porto Alegre,Centro,258,1,2,4540.66,Sim
+IMV-2201,Casa,Salvador,Zona Oeste,110,1,2,3445.93,Sim
+IMV-2202,Apartamento,Salvador,Zona Norte,190,2,2,1358.64,Não
+IMV-2203,Apartamento,São Paulo,Zona Leste,79,2,2,2502.91,Sim
+IMV-2204,Apartamento,Belo Horizonte,Centro,39,2,1,1114.18,Sim
+IMV-2205,Apartamento,São Paulo,Zona Norte,104,1,2,3892.46,Sim
+IMV-2206,Apartamento,Belo Horizonte,Zona Norte,232,4,1,2287.04,Sim
+IMV-2207,Casa,Porto Alegre,Zona Sul,163,3,2,3191.05,Sim
+IMV-2208,Casa,Belo Horizonte,Zona Leste,151,4,2,3195.87,Não
+IMV-2209,Casa,Belo Horizonte,Zona Oeste,47,2,1,2882.02,Não
+IMV-2210,Apartamento,Salvador,Zona Oeste,263,1,1,1612.5,Sim
+IMV-2211,Estúdio,Porto Alegre,Zona Sul,100,4,2,1387.99,Sim
+IMV-2212,Casa,Porto Alegre,Centro,248,1,1,1949.85,Não
+IMV-2213,Apartamento,Rio de Janeiro,Centro,186,4,1,1736.1,Não
+IMV-2214,Estúdio,Salvador,Zona Leste,168,4,2,4781.4,Não
+IMV-2215,Estúdio,Belo Horizonte,Zona Norte,118,1,2,1709.8,Sim
+IMV-2216,Apartamento,Rio de Janeiro,Zona Norte,38,1,2,2735.88,Não
+IMV-2217,Estúdio,Rio de Janeiro,Zona Sul,254,3,2,3257.25,Não
+IMV-2218,Estúdio,Belo Horizonte,Zona Leste,46,1,2,1882.87,Sim
+IMV-2219,Apartamento,Rio de Janeiro,Zona Leste,298,2,2,1625.69,Sim
+IMV-2220,Apartamento,Porto Alegre,Zona Oeste,121,2,1,3371.34,Não
+IMV-2221,Casa,Belo Horizonte,Zona Oeste,71,2,2,2335.77,Sim
+IMV-2222,Casa,Porto Alegre,Zona Sul,216,2,1,4233.64,Não
+IMV-2223,Casa,Salvador,Centro,294,3,2,1755.09,Não
+IMV-2224,Estúdio,Rio de Janeiro,Centro,49,4,2,635.47,Sim
+IMV-2225,Casa,Belo Horizonte,Zona Norte,43,1,1,2298.96,Não
+IMV-2226,Apartamento,São Paulo,Zona Leste,262,1,2,3483.87,Sim
+IMV-2227,Estúdio,Porto Alegre,Zona Norte,187,3,2,2632.35,Não
+IMV-2228,Apartamento,Belo Horizonte,Zona Norte,106,2,2,1428.02,Sim
+IMV-2229,Casa,Porto Alegre,Zona Leste,150,4,2,3010.47,Não
+IMV-2230,Casa,Rio de Janeiro,Zona Sul,150,1,2,4434.07,Não
+IMV-2231,Estúdio,Porto Alegre,Zona Norte,224,2,2,1385.8,Sim
+IMV-2232,Estúdio,São Paulo,Zona Norte,284,4,1,757.91,Não
+IMV-2233,Estúdio,Porto Alegre,Zona Oeste,243,2,2,665.56,Não
+IMV-2234,Casa,Belo Horizonte,Zona Norte,135,4,2,2891.39,Sim
+IMV-2235,Casa,Porto Alegre,Zona Sul,276,4,2,2969.3,Sim
+IMV-2236,Apartamento,Rio de Janeiro,Zona Sul,69,4,1,3622.12,Não
+IMV-2237,Casa,Salvador,Centro,168,3,1,3545.91,Não
+IMV-2238,Apartamento,Rio de Janeiro,Zona Oeste,206,4,1,2337.33,Sim
+IMV-2239,Estúdio,São Paulo,Zona Oeste,269,3,1,4209.08,Sim
+IMV-2240,Casa,Salvador,Zona Norte,205,1,2,4448.64,Sim
+IMV-2241,Apartamento,Rio de Janeiro,Zona Sul,62,4,2,1585.98,Não
+IMV-2242,Apartamento,Salvador,Zona Leste,251,3,1,2629.15,Sim
+IMV-2243,Estúdio,Salvador,Zona Norte,157,2,1,3257.22,Sim
+IMV-2244,Apartamento,Belo Horizonte,Zona Sul,188,2,1,3423.6,Sim
+IMV-2245,Estúdio,Porto Alegre,Zona Norte,241,1,2,1784.49,Não
+IMV-2246,Estúdio,Rio de Janeiro,Centro,192,4,1,4066.85,Sim
+IMV-2247,Apartamento,Rio de Janeiro,Centro,165,4,1,1154.0,Sim
+IMV-2248,Estúdio,São Paulo,Centro,138,2,1,2222.71,Não
+IMV-2249,Casa,Belo Horizonte,Zona Sul,237,4,2,2136.46,Sim
+IMV-2250,Casa,São Paulo,Zona Sul,36,4,2,1818.12,Sim
+IMV-2251,Apartamento,São Paulo,Centro,203,3,1,2614.27,Sim
+IMV-2252,Casa,Salvador,Zona Oeste,149,4,2,921.06,Não
+IMV-2253,Apartamento,Salvador,Centro,284,4,1,3547.39,Não
+IMV-2254,Apartamento,São Paulo,Zona Norte,214,4,1,1752.75,Não
+IMV-2255,Estúdio,Salvador,Zona Oeste,84,4,1,1620.1,Não
+IMV-2256,Casa,Rio de Janeiro,Zona Leste,83,4,1,3793.99,Não
+IMV-2257,Apartamento,Belo Horizonte,Centro,232,4,2,4231.09,Sim
+IMV-2258,Estúdio,Salvador,Zona Leste,104,3,1,3970.57,Não
+IMV-2259,Casa,Salvador,Zona Norte,89,3,1,1131.47,Não
+IMV-2260,Apartamento,Porto Alegre,Zona Oeste,66,4,2,2452.39,Sim
+IMV-2261,Estúdio,Belo Horizonte,Zona Leste,229,1,1,4326.34,Não
+IMV-2262,Casa,Rio de Janeiro,Zona Norte,99,2,2,2234.29,Não
+IMV-2263,Estúdio,São Paulo,Zona Norte,131,3,1,4599.87,Sim
+IMV-2264,Estúdio,Salvador,Zona Sul,240,4,2,2424.07,Não
+IMV-2265,Estúdio,Rio de Janeiro,Zona Norte,209,3,2,1497.16,Sim
+IMV-2266,Estúdio,Belo Horizonte,Zona Norte,82,2,2,1059.28,Sim
+IMV-2267,Casa,Belo Horizonte,Centro,31,2,2,4846.89,Não
+IMV-2268,Casa,São Paulo,Zona Leste,194,4,1,903.79,Sim
+IMV-2269,Estúdio,Porto Alegre,Centro,207,1,2,2130.96,Não
+IMV-2270,Apartamento,Rio de Janeiro,Zona Leste,62,3,1,2286.62,Sim
+IMV-2271,Casa,São Paulo,Zona Oeste,67,2,2,3091.36,Não
+IMV-2272,Estúdio,São Paulo,Zona Leste,83,4,2,778.42,Não
+IMV-2273,Estúdio,Porto Alegre,Zona Norte,106,4,1,1877.01,Sim
+IMV-2274,Estúdio,Salvador,Zona Leste,250,3,2,2189.73,Sim
+IMV-2275,Estúdio,São Paulo,Zona Norte,38,3,2,2055.67,Não
+IMV-2276,Estúdio,Rio de Janeiro,Zona Oeste,128,4,2,3356.86,Sim
+IMV-2277,Apartamento,Salvador,Zona Sul,298,4,2,3289.25,Não
+IMV-2278,Casa,Rio de Janeiro,Zona Leste,165,1,2,2553.84,Não
+IMV-2279,Apartamento,Belo Horizonte,Zona Leste,134,4,2,1498.06,Não
+IMV-2280,Apartamento,Rio de Janeiro,Centro,79,4,1,4142.49,Não
+IMV-2281,Apartamento,Salvador,Zona Sul,187,2,2,2180.8,Sim
+IMV-2282,Apartamento,Porto Alegre,Centro,125,2,1,3816.41,Não
+IMV-2283,Casa,Salvador,Centro,37,2,2,2928.89,Sim
+IMV-2284,Casa,Rio de Janeiro,Centro,66,3,2,1293.45,Sim
+IMV-2285,Casa,Rio de Janeiro,Zona Oeste,287,2,1,3938.14,Não
+IMV-2286,Apartamento,São Paulo,Zona Norte,216,1,1,561.84,Não
+IMV-2287,Casa,Belo Horizonte,Zona Norte,33,2,2,2806.9,Sim
+IMV-2288,Estúdio,Belo Horizonte,Zona Norte,47,3,2,2561.86,Não
+IMV-2289,Estúdio,Belo Horizonte,Centro,141,1,1,2844.06,Sim
+IMV-2290,Casa,Rio de Janeiro,Centro,192,3,1,829.23,Não
+IMV-2291,Apartamento,Porto Alegre,Centro,129,1,1,2593.11,Sim
+IMV-2292,Estúdio,Porto Alegre,Zona Sul,45,2,2,914.58,Não
+IMV-2293,Casa,Rio de Janeiro,Centro,201,3,1,1738.24,Não
+IMV-2294,Apartamento,Rio de Janeiro,Centro,207,2,1,898.4,Sim
+IMV-2295,Casa,Salvador,Zona Norte,229,4,1,4678.68,Sim
+IMV-2296,Apartamento,São Paulo,Zona Sul,183,1,2,2502.59,Sim
+IMV-2297,Casa,Rio de Janeiro,Zona Oeste,299,1,1,1021.91,Não
+IMV-2298,Apartamento,Porto Alegre,Zona Oeste,78,3,2,4591.61,Não
+IMV-2299,Casa,Belo Horizonte,Zona Leste,257,2,2,1971.49,Sim
+IMV-2300,Apartamento,Belo Horizonte,Zona Oeste,224,3,1,3392.99,Não
+IMV-2301,Estúdio,Salvador,Zona Oeste,229,2,2,3397.38,Não
+IMV-2302,Casa,Belo Horizonte,Zona Norte,222,1,1,1679.23,Não
+IMV-2303,Casa,Belo Horizonte,Zona Oeste,164,2,2,4292.62,Não
+IMV-2304,Apartamento,Salvador,Centro,199,4,1,964.46,Sim
+IMV-2305,Estúdio,São Paulo,Zona Norte,219,2,1,1919.12,Não
+IMV-2306,Apartamento,Rio de Janeiro,Zona Norte,119,2,1,972.99,Não
+IMV-2307,Apartamento,Rio de Janeiro,Zona Sul,39,1,2,1248.91,Não
+IMV-2308,Estúdio,Porto Alegre,Zona Norte,180,1,1,1184.12,Sim
+IMV-2309,Casa,Porto Alegre,Centro,270,3,2,1318.69,Sim
+IMV-2310,Casa,Rio de Janeiro,Centro,293,1,1,4035.0,Sim
+IMV-2311,Apartamento,Rio de Janeiro,Zona Oeste,57,3,1,666.46,Sim
+IMV-2312,Estúdio,Rio de Janeiro,Zona Sul,272,1,2,4490.31,Sim
+IMV-2313,Casa,Rio de Janeiro,Zona Oeste,150,4,2,1589.43,Não
+IMV-2314,Estúdio,São Paulo,Zona Sul,215,1,2,4748.07,Sim
+IMV-2315,Casa,São Paulo,Zona Oeste,83,4,2,4475.32,Sim
+IMV-2316,Estúdio,Salvador,Zona Norte,110,4,1,4070.46,Sim
+IMV-2317,Apartamento,São Paulo,Zona Sul,270,4,2,4393.31,Sim
+IMV-2318,Estúdio,Rio de Janeiro,Zona Sul,66,3,1,856.52,Não
+IMV-2319,Casa,Salvador,Zona Norte,81,3,1,2569.05,Não
+IMV-2320,Apartamento,Salvador,Zona Sul,111,1,1,2476.35,Sim
+IMV-2321,Casa,Belo Horizonte,Zona Oeste,236,2,2,3999.94,Sim
+IMV-2322,Casa,Salvador,Zona Norte,199,4,2,2510.97,Não
+IMV-2323,Casa,Porto Alegre,Zona Oeste,289,4,1,1137.12,Não
+IMV-2324,Casa,São Paulo,Zona Sul,220,1,1,1658.46,Não
+IMV-2325,Estúdio,Belo Horizonte,Zona Norte,263,4,1,1924.51,Sim
+IMV-2326,Casa,Belo Horizonte,Zona Oeste,91,1,2,3799.19,Sim
+IMV-2327,Casa,Porto Alegre,Zona Leste,168,1,1,2036.37,Sim
+IMV-2328,Estúdio,Rio de Janeiro,Zona Leste,292,2,1,4010.53,Sim
+IMV-2329,Estúdio,Belo Horizonte,Zona Norte,231,2,2,4108.11,Não
+IMV-2330,Apartamento,Porto Alegre,Zona Norte,214,3,2,2236.45,Sim
+IMV-2331,Estúdio,Belo Horizonte,Zona Sul,155,2,1,672.89,Sim
+IMV-2332,Apartamento,Salvador,Zona Oeste,44,2,1,2763.54,Sim
+IMV-2333,Estúdio,Belo Horizonte,Zona Norte,240,3,2,638.81,Não
+IMV-2334,Estúdio,Porto Alegre,Zona Sul,180,1,1,3707.68,Não
+IMV-2335,Estúdio,Belo Horizonte,Zona Oeste,175,3,1,1502.49,Sim
+IMV-2336,Casa,São Paulo,Zona Sul,146,4,1,3790.3,Sim
+IMV-2337,Casa,Belo Horizonte,Zona Leste,275,4,1,4502.78,Não
+IMV-2338,Estúdio,Porto Alegre,Zona Leste,101,4,1,4120.61,Sim
+IMV-2339,Estúdio,Porto Alegre,Centro,100,4,2,4552.52,Sim
+IMV-2340,Estúdio,Porto Alegre,Zona Leste,292,1,1,3493.61,Não
+IMV-2341,Estúdio,Rio de Janeiro,Zona Norte,250,2,1,2548.67,Sim
+IMV-2342,Apartamento,Porto Alegre,Centro,256,3,1,811.75,Sim
+IMV-2343,Apartamento,São Paulo,Zona Leste,179,1,1,3144.52,Sim
+IMV-2344,Estúdio,Porto Alegre,Zona Sul,280,4,1,4955.43,Não
+IMV-2345,Casa,Porto Alegre,Centro,174,4,1,631.56,Não
+IMV-2346,Apartamento,Belo Horizonte,Centro,285,2,1,3449.28,Sim
+IMV-2347,Casa,Salvador,Centro,215,4,2,4544.86,Sim
+IMV-2348,Casa,São Paulo,Zona Oeste,72,2,2,1522.36,Sim
+IMV-2349,Casa,Rio de Janeiro,Zona Oeste,239,3,2,3947.94,Sim
+IMV-2350,Estúdio,Salvador,Zona Oeste,220,3,2,3163.03,Não
+IMV-2351,Apartamento,São Paulo,Zona Leste,143,4,1,2003.08,Sim
+IMV-2352,Casa,Salvador,Zona Oeste,266,3,2,1048.78,Não
+IMV-2353,Apartamento,São Paulo,Zona Oeste,42,1,1,4098.77,Não
+IMV-2354,Estúdio,Rio de Janeiro,Zona Oeste,139,3,2,1910.27,Sim
+IMV-2355,Estúdio,Rio de Janeiro,Centro,69,2,2,970.57,Não
+IMV-2356,Estúdio,Belo Horizonte,Zona Leste,261,2,2,4992.66,Sim
+IMV-2357,Casa,Rio de Janeiro,Zona Oeste,294,1,2,2416.93,Não
+IMV-2358,Apartamento,Belo Horizonte,Zona Leste,241,4,2,2424.06,Sim
+IMV-2359,Estúdio,Salvador,Zona Sul,200,2,2,761.42,Sim
+IMV-2360,Casa,Rio de Janeiro,Zona Sul,120,2,1,4748.96,Não
+IMV-2361,Apartamento,Rio de Janeiro,Zona Sul,50,1,2,2612.95,Não
+IMV-2362,Apartamento,Belo Horizonte,Zona Sul,137,2,2,4125.53,Não
+IMV-2363,Estúdio,Porto Alegre,Zona Sul,135,4,2,2518.72,Sim
+IMV-2364,Estúdio,Rio de Janeiro,Zona Norte,266,1,1,4908.29,Sim
+IMV-2365,Casa,Porto Alegre,Centro,220,4,1,1457.4,Não
+IMV-2366,Apartamento,Salvador,Zona Sul,257,4,1,2210.52,Sim
+IMV-2367,Estúdio,Salvador,Zona Norte,178,1,1,3385.73,Não
+IMV-2368,Estúdio,Belo Horizonte,Zona Oeste,55,3,2,927.19,Sim
+IMV-2369,Casa,Belo Horizonte,Centro,176,1,1,4386.51,Sim
+IMV-2370,Casa,Belo Horizonte,Centro,199,4,1,925.02,Sim
+IMV-2371,Estúdio,Rio de Janeiro,Zona Oeste,148,1,1,2410.88,Não
+IMV-2372,Apartamento,Belo Horizonte,Centro,177,2,1,4001.47,Sim
+IMV-2373,Apartamento,Salvador,Zona Oeste,46,3,1,2133.35,Sim
+IMV-2374,Casa,São Paulo,Zona Sul,76,4,2,4501.73,Não
+IMV-2375,Casa,São Paulo,Centro,272,1,1,2254.4,Sim
+IMV-2376,Apartamento,Belo Horizonte,Zona Sul,40,3,1,1966.89,Não
+IMV-2377,Estúdio,Belo Horizonte,Zona Sul,97,3,1,3923.76,Não
+IMV-2378,Estúdio,São Paulo,Zona Oeste,38,4,2,3133.68,Sim
+IMV-2379,Casa,Salvador,Zona Oeste,293,1,2,1408.14,Sim
+IMV-2380,Apartamento,Porto Alegre,Zona Leste,245,2,1,4829.03,Não
+IMV-2381,Apartamento,Porto Alegre,Zona Leste,99,4,1,4430.44,Não
+IMV-2382,Casa,Porto Alegre,Zona Sul,239,4,1,2165.47,Sim
+IMV-2383,Casa,Rio de Janeiro,Zona Oeste,134,3,2,1189.79,Não
+IMV-2384,Apartamento,São Paulo,Zona Oeste,34,2,2,2047.17,Sim
+IMV-2385,Estúdio,São Paulo,Centro,224,4,1,4529.23,Não
+IMV-2386,Casa,Belo Horizonte,Zona Leste,120,3,2,2445.07,Não
+IMV-2387,Casa,Salvador,Zona Norte,251,1,2,2063.67,Sim
+IMV-2388,Apartamento,Salvador,Zona Sul,148,1,1,4174.45,Não
+IMV-2389,Estúdio,Salvador,Zona Norte,179,2,2,3392.73,Não
+IMV-2390,Apartamento,São Paulo,Zona Leste,221,4,2,3060.35,Sim
+IMV-2391,Estúdio,Salvador,Centro,55,3,2,4162.56,Não
+IMV-2392,Estúdio,São Paulo,Centro,40,1,1,2092.8,Sim
+IMV-2393,Casa,São Paulo,Zona Sul,254,1,2,638.07,Não
+IMV-2394,Apartamento,São Paulo,Zona Norte,72,1,1,1679.16,Não
+IMV-2395,Casa,Belo Horizonte,Zona Oeste,186,3,2,4701.03,Sim
+IMV-2396,Apartamento,Salvador,Centro,58,3,2,3314.9,Não
+IMV-2397,Apartamento,Belo Horizonte,Zona Oeste,121,2,2,4929.77,Não
+IMV-2398,Casa,Belo Horizonte,Zona Leste,229,3,1,3931.66,Não
+IMV-2399,Apartamento,Porto Alegre,Zona Sul,131,1,1,2923.09,Não
+IMV-2400,Casa,Rio de Janeiro,Zona Norte,34,2,1,2263.7,Não
+IMV-2401,Apartamento,Belo Horizonte,Zona Oeste,263,2,2,4279.46,Sim
+IMV-2402,Estúdio,Belo Horizonte,Zona Sul,282,4,2,1457.44,Não
+IMV-2403,Casa,Porto Alegre,Centro,72,3,2,4653.52,Não
+IMV-2404,Apartamento,Porto Alegre,Zona Leste,82,3,2,4472.48,Sim
+IMV-2405,Estúdio,Belo Horizonte,Zona Leste,33,4,1,3826.0,Sim
+IMV-2406,Casa,Belo Horizonte,Zona Sul,89,3,2,3385.0,Sim
+IMV-2407,Apartamento,Belo Horizonte,Zona Sul,42,3,1,3040.74,Sim
+IMV-2408,Apartamento,São Paulo,Zona Sul,68,4,1,2328.29,Sim
+IMV-2409,Estúdio,Porto Alegre,Zona Leste,126,3,1,593.35,Não
+IMV-2410,Estúdio,Salvador,Zona Oeste,124,1,1,4398.68,Sim
+IMV-2411,Casa,Rio de Janeiro,Zona Oeste,182,1,1,3169.97,Sim
+IMV-2412,Apartamento,São Paulo,Zona Leste,49,3,2,3279.03,Sim
+IMV-2413,Apartamento,São Paulo,Zona Norte,275,1,2,1366.18,Sim
+IMV-2414,Casa,Belo Horizonte,Zona Oeste,185,2,1,3290.6,Sim
+IMV-2415,Casa,Rio de Janeiro,Zona Sul,76,3,2,4299.91,Sim
+IMV-2416,Estúdio,Salvador,Zona Leste,277,4,1,4956.75,Sim
+IMV-2417,Casa,Rio de Janeiro,Zona Leste,273,3,2,739.22,Sim
+IMV-2418,Estúdio,Belo Horizonte,Zona Oeste,137,3,2,2258.27,Não
+IMV-2419,Casa,Rio de Janeiro,Zona Norte,38,4,1,2813.88,Não
+IMV-2420,Apartamento,Porto Alegre,Zona Leste,176,4,1,4615.14,Sim
+IMV-2421,Apartamento,São Paulo,Zona Sul,109,4,2,4460.98,Não
+IMV-2422,Apartamento,Rio de Janeiro,Zona Sul,77,4,1,1555.61,Sim
+IMV-2423,Apartamento,São Paulo,Zona Oeste,135,4,2,4601.93,Sim
+IMV-2424,Estúdio,São Paulo,Zona Leste,211,2,1,4900.19,Não
+IMV-2425,Apartamento,Belo Horizonte,Centro,195,1,2,1833.34,Sim
+IMV-2426,Apartamento,Belo Horizonte,Zona Sul,85,3,2,2450.54,Sim
+IMV-2427,Estúdio,Belo Horizonte,Zona Oeste,127,1,2,1992.75,Sim
+IMV-2428,Estúdio,Porto Alegre,Centro,93,4,1,4509.2,Não
+IMV-2429,Apartamento,São Paulo,Centro,196,2,2,1482.77,Não
+IMV-2430,Estúdio,Belo Horizonte,Zona Sul,145,4,1,3767.48,Não
+IMV-2431,Estúdio,São Paulo,Zona Norte,270,2,1,4385.74,Não
+IMV-2432,Casa,Salvador,Centro,154,3,2,2602.97,Não
+IMV-2433,Estúdio,Rio de Janeiro,Centro,192,4,1,2101.77,Não
+IMV-2434,Apartamento,Porto Alegre,Centro,62,3,2,2912.58,Não
+IMV-2435,Casa,Porto Alegre,Centro,109,3,2,3265.61,Sim
+IMV-2436,Estúdio,Salvador,Zona Oeste,209,4,1,1434.66,Não
+IMV-2437,Apartamento,São Paulo,Zona Oeste,174,2,1,3977.89,Sim
+IMV-2438,Estúdio,São Paulo,Zona Oeste,35,2,2,1607.84,Sim
+IMV-2439,Estúdio,Belo Horizonte,Centro,160,1,1,3205.82,Não
+IMV-2440,Casa,São Paulo,Zona Norte,86,2,1,4445.63,Não
+IMV-2441,Estúdio,Rio de Janeiro,Zona Sul,277,3,1,3217.87,Não
+IMV-2442,Estúdio,São Paulo,Centro,167,3,1,3342.85,Não
+IMV-2443,Estúdio,Salvador,Zona Leste,219,3,1,1326.66,Não
+IMV-2444,Estúdio,Porto Alegre,Zona Leste,47,2,1,664.99,Sim
+IMV-2445,Apartamento,São Paulo,Zona Sul,40,2,2,1083.65,Não
+IMV-2446,Estúdio,Belo Horizonte,Zona Norte,75,1,1,1807.57,Não
+IMV-2447,Casa,Rio de Janeiro,Zona Leste,45,2,1,1461.63,Não
+IMV-2448,Estúdio,Rio de Janeiro,Zona Leste,95,1,2,1645.4,Não
+IMV-2449,Casa,Belo Horizonte,Zona Oeste,148,2,2,1502.67,Não
+IMV-2450,Estúdio,São Paulo,Zona Leste,172,2,2,1713.72,Sim
+IMV-2451,Estúdio,Porto Alegre,Zona Norte,32,3,2,3797.25,Não
+IMV-2452,Apartamento,São Paulo,Zona Oeste,92,1,2,1207.79,Não
+IMV-2453,Estúdio,São Paulo,Centro,230,4,1,3418.11,Não
+IMV-2454,Casa,Rio de Janeiro,Zona Sul,212,3,1,2843.47,Não
+IMV-2455,Estúdio,Porto Alegre,Zona Leste,282,3,2,4818.08,Não
+IMV-2456,Casa,Salvador,Centro,231,1,2,3995.55,Sim
+IMV-2457,Casa,Rio de Janeiro,Zona Norte,292,2,1,4690.87,Não
+IMV-2458,Estúdio,Belo Horizonte,Zona Oeste,103,4,2,991.46,Não
+IMV-2459,Estúdio,Porto Alegre,Zona Leste,200,1,2,3223.87,Sim
+IMV-2460,Casa,Salvador,Zona Leste,294,3,2,2864.82,Sim
+IMV-2461,Apartamento,São Paulo,Zona Norte,160,4,1,3833.07,Sim
+IMV-2462,Casa,Salvador,Zona Leste,95,1,2,2763.19,Sim
+IMV-2463,Estúdio,Salvador,Zona Oeste,81,1,2,654.68,Sim
+IMV-2464,Apartamento,Salvador,Zona Leste,158,1,1,4050.19,Sim
+IMV-2465,Apartamento,Salvador,Zona Norte,184,1,1,3803.2,Não
+IMV-2466,Casa,Salvador,Zona Oeste,290,2,2,4827.16,Não
+IMV-2467,Casa,Salvador,Zona Leste,236,2,1,3671.78,Sim
+IMV-2468,Estúdio,Porto Alegre,Zona Norte,50,4,2,2787.62,Não
+IMV-2469,Casa,Belo Horizonte,Zona Leste,42,3,2,2305.22,Sim
+IMV-2470,Estúdio,Salvador,Centro,174,4,1,3665.55,Não
+IMV-2471,Apartamento,Belo Horizonte,Zona Sul,177,1,1,4410.85,Sim
+IMV-2472,Apartamento,Porto Alegre,Centro,215,4,1,4938.72,Não
+IMV-2473,Estúdio,Belo Horizonte,Zona Oeste,33,2,1,1672.92,Não
+IMV-2474,Casa,São Paulo,Centro,231,2,1,1100.74,Sim
+IMV-2475,Apartamento,Rio de Janeiro,Zona Oeste,181,1,1,1306.34,Não
+IMV-2476,Estúdio,São Paulo,Centro,168,2,2,3788.62,Não
+IMV-2477,Casa,Porto Alegre,Centro,67,1,2,2685.01,Sim
+IMV-2478,Estúdio,Rio de Janeiro,Zona Leste,254,3,2,2207.18,Não
+IMV-2479,Estúdio,Rio de Janeiro,Zona Oeste,68,4,1,2903.68,Não
+IMV-2480,Casa,Belo Horizonte,Zona Sul,195,1,2,4617.03,Sim
+IMV-2481,Estúdio,Porto Alegre,Centro,152,1,1,4129.07,Não
+IMV-2482,Apartamento,Salvador,Zona Oeste,209,4,2,2371.71,Não
+IMV-2483,Estúdio,Rio de Janeiro,Zona Norte,142,2,2,4828.49,Não
+IMV-2484,Casa,Belo Horizonte,Zona Norte,99,4,1,2032.73,Sim
+IMV-2485,Estúdio,Rio de Janeiro,Zona Norte,257,2,1,680.66,Não
+IMV-2486,Apartamento,Rio de Janeiro,Zona Oeste,49,3,1,917.12,Sim
+IMV-2487,Casa,Belo Horizonte,Zona Oeste,44,4,1,3718.87,Não
+IMV-2488,Apartamento,Belo Horizonte,Zona Sul,220,3,1,2510.25,Não
+IMV-2489,Estúdio,Belo Horizonte,Zona Sul,286,1,1,4450.72,Não
+IMV-2490,Estúdio,Porto Alegre,Zona Oeste,224,4,1,2869.23,Sim
+IMV-2491,Apartamento,Porto Alegre,Zona Norte,182,1,2,4287.34,Sim
+IMV-2492,Casa,Salvador,Zona Leste,60,4,2,1738.51,Sim
+IMV-2493,Estúdio,Salvador,Zona Oeste,170,4,1,3047.14,Sim
+IMV-2494,Casa,Salvador,Zona Sul,74,2,2,3722.33,Sim
+IMV-2495,Apartamento,Belo Horizonte,Zona Leste,187,1,1,2323.58,Não
+IMV-2496,Estúdio,Salvador,Zona Oeste,250,2,2,3443.41,Sim
+IMV-2497,Casa,Belo Horizonte,Zona Leste,165,4,2,3747.5,Não
+IMV-2498,Casa,Porto Alegre,Zona Leste,202,1,2,3755.8,Sim
+IMV-2499,Estúdio,Salvador,Zona Sul,114,2,2,1628.55,Não
+IMV-2500,Apartamento,Salvador,Zona Sul,152,4,2,4617.25,Sim
